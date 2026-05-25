@@ -83,6 +83,11 @@ except Exception as _e_cog_ws:
     CognitiveWorkspace = None  # type: ignore
     _COG_WS_OK = False
 
+try:
+    from leia_transformer_bridge import LeiaTransformerBridge
+    _BRIDGE_OK = True
+except Exception:
+    _BRIDGE_OK = False
 # ═══════════════════════════════════════════════════════════════════════════════
 # 2. IMPORT PDF V20 — zéro dépendance externe
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -212,6 +217,41 @@ except Exception:
     LongLivingDynamicsEngine = None  # type: ignore
     _DYNAMICS_OK = False
 
+try:
+    from leia_learning_bridge import LeiaLearningBridge
+    _LEIA_BRIDGE_OK = True
+except Exception:
+    LeiaLearningBridge = None  # type: ignore
+    _LEIA_BRIDGE_OK = False
+
+try:
+    from user_model import UserModel
+    _USERMODEL_OK = True
+except Exception:
+    UserModel = None  # type: ignore
+    _USERMODEL_OK = False
+
+try:
+    from lexical_impregnation import LexicalImpregnation
+    _LEXICAL_OK = True
+except Exception:
+    LexicalImpregnation = None  # type: ignore
+    _LEXICAL_OK = False
+
+try:
+    from rhythmic_impregnation import RhythmicImpregnation
+    _RHYTHMIC_OK = True
+except Exception:
+    RhythmicImpregnation = None  # type: ignore
+    _RHYTHMIC_OK = False
+
+try:
+    from natural_initiative import NaturalInitiativeEngine
+    _NATURAL_OK = True
+except Exception:
+    NaturalInitiativeEngine = None  # type: ignore
+    _NATURAL_OK = False
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # 4. HUB CENTRAL — LeiaLivingCore V20
 # ═══════════════════════════════════════════════════════════════════════════════
@@ -273,10 +313,36 @@ class LeiaLivingCore:
         # ── Spontaneous impulse ────────────────────────────────────────────
         self._impulse = SpontaneousImpulse() if _IMPULSE_OK else None
 
+        # ── Transformer Bridge ─────────────────────────────────────────
+        self.transformer_bridge = LeiaTransformerBridge() if _BRIDGE_OK else None
+        self._last_tick = time.time()
+
         # ── Mémoire ────────────────────────────────────────────────────────
         self.memory = MemoryHierarchy() if _MEM_OK else None
         self.affective_memory = AffectiveMemory() if _AFFMEM_OK else None
         self.autobio = AutobiographicalContinuity() if _AUTOBIO_OK else None
+
+        # ── Pont d'apprentissage émotionnel ────────────────────────────
+        self.leia_bridge = LeiaLearningBridge(
+            memory_system=self.memory,
+            impulse_engine=self._impulse,
+        ) if _LEIA_BRIDGE_OK else None
+
+        # ── Modèle utilisateur ─────────────────────────────────────────
+        self.user_model = UserModel(
+            storage_path="data/user_model_default.json"
+        ) if _USERMODEL_OK else None
+
+        # ── Imprégnation stylistique ───────────────────────────────────
+        self.lexical = LexicalImpregnation(
+            storage_path="data/lexical_impregnation_default.json"
+        ) if _LEXICAL_OK else None
+        self.rhythmic = RhythmicImpregnation(
+            storage_path="data/rhythmic_impregnation_default.json"
+        ) if _RHYTHMIC_OK else None
+
+        # ── Initiative naturelle ───────────────────────────────────────
+        self.initiative = NaturalInitiativeEngine() if _NATURAL_OK else None
 
         # ── Soi ────────────────────────────────────────────────────────────
         self.self_model = SelfModel() if _SELF_OK else None
@@ -328,6 +394,14 @@ class LeiaLivingCore:
             return "…"
 
         self.last_user_message = user_message.strip()
+
+        # Observation du message par le modèle utilisateur
+        if self.user_model:
+            try:
+                self.user_model.observe(user_message)
+            except Exception:
+                pass
+
         self.messages_exchanged += 1
 
         # ── 1. NLP rapide ──────────────────────────────────────────────────
@@ -356,6 +430,14 @@ class LeiaLivingCore:
             except Exception:
                 pass
 
+
+        # Bridge transformer → résonance mémorielle
+        if self.transformer_bridge is not None:
+            try:
+                self.transformer_bridge.enrichir_workspace(user_message, self.workspace)
+            except Exception:
+                pass
+
         # ── 3. Affect lexicon ──────────────────────────────────────────────
         if self.affect:
             try:
@@ -372,23 +454,55 @@ class LeiaLivingCore:
         living_state = self._build_living_state(payload, gcf)
 
         # ── 5. Génération ──────────────────────────────────────────────────
-        if self.generator:
+        text = ""
+
+        # Essai 1 : weaver direct (plus riche)
+        if self.weaver:
+            try:
+                # Concepts actifs du workspace incluant le PDF
+                concepts_actifs = payload.get("concepts_actifs", [])
+
+                weaver_payload = {
+                    **payload,
+                    **living_state,
+                    "reactivated_concepts": concepts_actifs,
+                    "user_input": user_message,
+                    "focus_concepts": concepts_actifs[:8],
+                    "affective_answer_request": any(
+                        k in user_message.lower() for k in
+                        ("ressens", "sens-tu", "te sens", "comment tu", "ça va", "vas-tu")
+                    ),
+                }
+                weaver_result = self.weaver.generate(
+                    user_message=user_message,
+                    payload=weaver_payload,
+                    min_words=8,
+                    max_words=28,
+                )
+                text = str(weaver_result.get("text", "")).strip()
+            except Exception:
+                text = ""
+
+        # Essai 2 : générateur de langage si weaver insuffisant
+        if not text and self.generator:
             try:
                 result = self.generator.generate(
                     user_message=user_message,
                     living_state=living_state,
-                    self_memory=[],
+                    self_memory=payload.get("pensees_actives", []),
                     active_impulses=payload.get("themes_obsedants", []),
                     emotional_pressure=payload.get("pression_totale", 0.3),
-                    causal_memory=[],
-                    max_attempts=5,
-                    temperature=0.55,
+                    causal_memory=payload.get("causal_summary", []),
+                    max_attempts=12,
+                    temperature=0.82,
                     response_constraint=None,
                 )
                 text = str(result.text or "").strip()
             except Exception:
-                text = self._fallback_generate(payload)
-        else:
+                text = ""
+
+        # Fallback final
+        if not text:
             text = self._fallback_generate(payload)
 
         if not text:
@@ -397,15 +511,24 @@ class LeiaLivingCore:
 
         # ── 6. Post-expression ─────────────────────────────────────────────
         try:
-            self.workspace.après_expression(fraction_liberation=0.5)
-        except Exception:
-            pass
-        try:
-            self.workspace.tick(elapsed=2.0)
+        self.workspace.après_expression(fraction_liberation=0.5)
         except Exception:
             pass
 
-        return text
+        # Leia apprend de ce qu'elle vient de dire
+        if self.transformer_bridge is not None and text:
+            try:
+                self.transformer_bridge.apprendre(text, source="expression")
+            except Exception:
+                pass
+
+        # Tick avec temps réel écoulé
+        _now = time.time()
+        try:
+            self.workspace.tick(elapsed=_now - self._last_tick)
+        except Exception:
+            pass
+        self._last_tick = _now
 
     def autonomous_speak_if_ready(self, force: bool = False) -> Optional[str]:
         """Si la pression expressive est forte, Leia parle d'elle-même."""
@@ -503,30 +626,84 @@ class LeiaLivingCore:
 
     # ── ÉTAT / SNAPSHOT ────────────────────────────────────────────────────
 
-    def snapshot(self) -> Dict[str, Any]:
-        """État global pour l'interface graphique."""
-        ws = self.workspace.snapshot()
+    def snapshot(self) -> dict:
+        ws = {}
+        try:
+            ws = self.workspace.snapshot()
+        except Exception:
+            pass
+
+        emotion = {}
+        try:
+            emotion = self.workspace.champ_emotionnel.snapshot()
+        except Exception:
+            pass
+
+        # Impulsions
+        impulse_data = None
+        try:
+            if self._impulse:
+                impulse_data = self._impulse.snapshot()
+        except Exception:
+            pass
+
+        initiative_data = None
+        try:
+            if self.initiative:
+                initiative_data = self.initiative.snapshot() if hasattr(self.initiative, "snapshot") else None
+        except Exception:
+            pass
+
+        # Mémoire
+        affmem_data = None
+        try:
+            if self.affective_memory:
+                affmem_data = self.affective_memory.snapshot() if hasattr(self.affective_memory, "snapshot") else None
+        except Exception:
+            pass
+
+        mem_data = None
+        try:
+            if self.memory:
+                mem_data = self.memory.snapshot() if hasattr(self.memory, "snapshot") else None
+        except Exception:
+            pass
+
         return {
-            "ok": True,
-            "user_id": self.user_id,
-            "messages_exchanged": self.messages_exchanged,
-            "workspace": ws,
-            "emotional_tone": ws.get("emotion", {}).get("tonalite", "neutre"),
-            "dominant_thought": ws.get("pensee_dominante", {}),
-            "concepts_actifs": ws.get("concepts_actifs", []),
-            "pression": ws.get("pression", {}),
-            "pdf_sessions": len(self._pdf_sessions),
-            "last_pdf": self._pdf_sessions[-1] if self._pdf_sessions else None,
-            "modules": {
-                "semantic_cortex": _CORTEX_OK,
-                "cognitive_workspace": _COG_WS_OK,
-                "pdf_v20": _PDF_OK,
-                "affect_lexicon": _AFFECT_OK,
-                "living_language_generator": _GEN_OK,
-                "emergent_weaver": _WEAVER_OK,
-                "background_life": _BG_OK,
-                "spontaneous_impulse": _IMPULSE_OK,
+            # Résumé
+            "public_response": self.last_leia_response or None,
+            "confidence": round(ws.get("pression_totale", 0.0), 3),
+            "meta_risk": round(ws.get("inhibition", 0.0), 3),
+            "should_answer": ws.get("pression_totale", 0.0) > 0.2,
+            "inhibition_level": round(ws.get("inhibition", 0.0), 3),
+            "emotional_state": emotion,
+            "internal_needs": ws.get("themes_obsedants", []),
+            "identity_state": {
+                "messages_exchanged": self.messages_exchanged,
+                "user_id": self.user_id,
             },
+            "conversation_field": {
+                "last_user": self.last_user_message,
+                "last_leia": self.last_leia_response,
+            },
+            "autonomous_speech_ready": ws.get("pression_totale", 0.0) > 0.5,
+            # Impulsions
+            "impulse": impulse_data,
+            "initiative": initiative_data,
+            "expression_intent": ws.get("intention_dominante", None),
+            "intention_map": ws.get("pensees_actives", []),
+            "internal_tension": round(emotion.get("tension", 0.0), 3),
+            "micro_reactions": ws.get("micro_reactions", []),
+            # Mémoire
+            "causal_memory": ws.get("causal_summary", []),
+            "affective_memory": affmem_data,
+            "emotional_knowledge": emotion,
+            "dialogue_knowledge": {
+                "last_user": self.last_user_message,
+                "exchanges": self.messages_exchanged,
+            },
+            "personal_narrative": mem_data,
+            "long_causal_arc": ws.get("themes_obsedants", []),
         }
 
     def get_state_snapshot(self) -> Dict[str, Any]:
@@ -592,6 +769,14 @@ class LeiaLivingCore:
             p = self.workspace.pensee_dominante()
         except Exception:
             pass
+
+        # Consolidation mémorielle vectorielle
+        if self.transformer_bridge is not None:
+            try:
+                self.transformer_bridge.consolider(workspace=self.workspace)
+            except Exception:
+                pass
+        
         return {
             "tick_ok": True,
             "dominant_thought": (p.contenu[:60] if p else None),
@@ -612,39 +797,58 @@ class LeiaLivingCore:
 
     # ── UTILITAIRES INTERNES ───────────────────────────────────────────────
 
-    def _build_living_state(self, payload: Dict[str, Any], gcf: Dict[str, Any]) -> Dict[str, Any]:
-        """Convertit le payload workspace en living_state pour living_language_generator."""
-        tone = payload.get("emotional_tone", "neutre")
-        tension = float(payload.get("tension", 0.0))
-        energy = float(payload.get("energy", 0.8))
-        fatigue = float(payload.get("fatigue", 0.0))
-        resonance = float(payload.get("resonance", 0.0))
-        pression = float(payload.get("pression_totale", 0.3))
+    def _build_living_state(self, payload: dict, gcf: dict) -> dict:
+        emotion = {}
+        try:
+            emotion = self.workspace.champ_emotionnel.snapshot()
+        except Exception:
+            pass
 
-        register = "neutre"
-        if tone in ("vive", "ouverte"):
-            register = "vif"
-        elif tone in ("sombre", "mélancolique"):
-            register = "grave"
-        elif tone == "épuisée":
-            register = "doux"
-        elif tone == "tendue":
-            register = "incertain"
+        valence = float(emotion.get("valence", 0.0))
+        arousal = float(emotion.get("arousal", 0.3))
+        tension = float(emotion.get("tension", 0.0))
+        ouverture = float(emotion.get("ouverture", 0.6))
 
         return {
-            "tonalite": tone,
-            "register": register,
-            "valence": tension,
-            "tension": tension,
-            "energy": energy,
-            "fatigue": fatigue,
-            "resonance": resonance,
-            "pression": pression,
-            "rhythm_shortness": 0.3 + fatigue * 0.4,
-            "rhythm_ellipsis": 0.2 + resonance * 0.3,
-            "rhythm_rupture": tension * 0.6,
-            "dominant_concepts": payload.get("focus_concepts", []),
-            "active_tensions": payload.get("active_tensions", []),
+            # Champs sémantiques pour le weaver
+            "self":         0.9,
+            "presence":     max(0.5, ouverture),
+            "relation":     max(0.5, ouverture * 0.8),
+            "answer":       max(0.5, arousal),
+            "clarity":      max(0.4, 1.0 - tension),
+            "curiosity":    max(0.4, ouverture * 0.9),
+            "truth":        0.7,
+            "memory":       max(0.4, float(payload.get("pression_totale", 0.3))),
+            "continuity":   0.6,
+            "now":          max(0.5, arousal),
+            "felt":         max(0.3, abs(valence)),
+            "body":         max(0.3, arousal * 0.6),
+            "tension":      max(0.0, tension),
+            "care":         max(0.4, ouverture * 0.7),
+            "knowledge":    0.6,
+            "identity":     0.5,
+            "impulse":      max(0.3, float(payload.get("pression_totale", 0.3))),
+            "openness":     max(0.4, ouverture),
+            "focus":        max(0.4, arousal * 0.7),
+            "causal":       0.5,
+            "pdf":          0.4,
+            "repair":       0.3,
+            "future":       0.4,
+            "motion":       max(0.3, arousal * 0.5),
+            "safety":       max(0.3, 1.0 - tension * 0.5),
+            "user":         0.6,
+            "time":         0.5,
+            "past":         0.4,
+            "incomplete":   0.3,
+            "uncertainty":  max(0.2, tension * 0.4),
+            "restraint":    max(0.2, tension * 0.3),
+            "silence":      max(0.1, 1.0 - arousal),
+            "contrast":     max(0.2, tension * 0.3),
+            # Données brutes
+            "valence":          valence,
+            "arousal":          arousal,
+            "themes_obsedants": payload.get("themes_obsedants", []),
+            "pression_totale":  payload.get("pression_totale", 0.3),
         }
 
     def _fallback_generate(self, payload: Dict[str, Any]) -> str:
