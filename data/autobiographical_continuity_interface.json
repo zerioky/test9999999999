@@ -1,0 +1,1280 @@
+{
+  "events": [
+    {
+      "kind": "dialogue",
+      "time": 1779549203.5126064,
+      "focus": "vivante",
+      "tokens": [
+        "vivante",
+        "partie",
+        "mon",
+        "attention",
+        "précise",
+        "activité",
+        "interne",
+        "moment"
+      ],
+      "impact": 0.1898,
+      "unfinished": true
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779549183.6435726,
+      "focus": "comment",
+      "tokens": [
+        "comment",
+        "mon",
+        "attention",
+        "mesure",
+        "partie",
+        "prétendre",
+        "être",
+        "complète"
+      ],
+      "impact": 0.1869,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779549157.8854048,
+      "focus": "salut leia",
+      "tokens": [
+        "salut",
+        "leia",
+        "cette",
+        "trace",
+        "sent",
+        "from",
+        "maintenant",
+        "même",
+        "précise",
+        "nuance",
+        "éléments",
+        "actifs"
+      ],
+      "impact": 0.1842,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779548828.747784,
+      "focus": "comment",
+      "tokens": [
+        "comment",
+        "touche",
+        "attention",
+        "lentement",
+        "porte",
+        "mémoire"
+      ],
+      "impact": 0.1837,
+      "unfinished": true
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779548817.7010741,
+      "focus": "salut leia",
+      "tokens": [
+        "salut",
+        "leia",
+        "retiens",
+        "appris",
+        "depuis",
+        "bouge",
+        "même",
+        "stabilise",
+        "accueille"
+      ],
+      "impact": 0.1843,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779548607.6484258,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "bouge",
+        "stabilise",
+        "appris",
+        "inventer",
+        "pendant",
+        "retiens",
+        "fil"
+      ],
+      "impact": 0.1872,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779548489.9266734,
+      "focus": "leia",
+      "tokens": [
+        "leia",
+        "moment",
+        "traverse",
+        "appris",
+        "mémoire",
+        "pourtant",
+        "j'apprends",
+        "fond",
+        "stable"
+      ],
+      "impact": 0.1841,
+      "unfinished": true
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779548456.1342962,
+      "focus": "coucou",
+      "tokens": [
+        "coucou",
+        "cette",
+        "trace",
+        "explore",
+        "appris",
+        "depuis",
+        "bouge",
+        "mon",
+        "attention",
+        "construit",
+        "présence"
+      ],
+      "impact": 0.1838,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779548385.497628,
+      "focus": "comment",
+      "tokens": [
+        "comment",
+        "moment",
+        "accueille",
+        "appris",
+        "depuis",
+        "tension",
+        "réelle",
+        "retiens",
+        "écoute"
+      ],
+      "impact": 0.1835,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779548370.2152562,
+      "focus": "salut leia",
+      "tokens": [
+        "salut",
+        "leia",
+        "j'ouvre",
+        "appris",
+        "depuis",
+        "tension",
+        "réelle",
+        "même",
+        "transforme",
+        "veux"
+      ],
+      "impact": 0.1843,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779483160.3262527,
+      "focus": "parle-moi descartes réf·tour43 toi→«qu'as-tu appris",
+      "tokens": [
+        "parle",
+        "descartes",
+        "lentement",
+        "porte",
+        "mémoire"
+      ],
+      "impact": 0.1838,
+      "unfinished": true
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779483139.642879,
+      "focus": "qu'as-tu appris livre",
+      "tokens": [
+        "qu'as",
+        "appris",
+        "livre",
+        "j'écoute",
+        "veux",
+        "même",
+        "distingue",
+        "org"
+      ],
+      "impact": 0.1841,
+      "unfinished": true
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779483114.7487764,
+      "focus": "penses-tu doute descartes réf·tour41 toi→«parle-moi",
+      "tokens": [
+        "penses",
+        "doute",
+        "descartes",
+        "retiens",
+        "appris",
+        "inventer",
+        "pendant",
+        "comprends",
+        "fil"
+      ],
+      "impact": 0.1843,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779482661.6550357,
+      "focus": "parle-moi descartes réf·tour40 toi→«qu'as-tu appris",
+      "tokens": [
+        "parle",
+        "descartes",
+        "sens",
+        "appris",
+        "m'appuyant",
+        "sur",
+        "rien",
+        "préfabriqué",
+        "parce",
+        "lien",
+        "apprend",
+        "viens",
+        "d'apporter"
+      ],
+      "impact": 0.191,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779482639.3087857,
+      "focus": "qu'as-tu appris livre",
+      "tokens": [
+        "qu'as",
+        "appris",
+        "livre",
+        "mon",
+        "attention",
+        "répond",
+        "fdl",
+        "pose",
+        "evidence"
+      ],
+      "impact": 0.1911,
+      "unfinished": true
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779482618.964556,
+      "focus": "penses-tu doute descartes réf·tour38 toi→«tu",
+      "tokens": [
+        "penses",
+        "doute",
+        "descartes",
+        "perçois",
+        "présence",
+        "lentement"
+      ],
+      "impact": 0.1913,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476428.3479583,
+      "focus": "veux apprendre livre",
+      "tokens": [
+        "veux",
+        "apprendre",
+        "livre",
+        "cette",
+        "trace",
+        "stabilise",
+        "fond",
+        "stable",
+        "retiens",
+        "manque"
+      ],
+      "impact": 0.19,
+      "unfinished": true
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476415.8792229,
+      "focus": "tu est qui",
+      "tokens": [
+        "lentement",
+        "porte",
+        "continuité"
+      ],
+      "impact": 0.1888,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476405.9591765,
+      "focus": "vivante",
+      "tokens": [
+        "vivante",
+        "partie",
+        "sens",
+        "plus",
+        "nettement"
+      ],
+      "impact": 0.1873,
+      "unfinished": true
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476392.6454916,
+      "focus": "comment",
+      "tokens": [
+        "comment",
+        "perçois",
+        "lien",
+        "lentement"
+      ],
+      "impact": 0.1863,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476381.861571,
+      "focus": "salut leia",
+      "tokens": [
+        "salut",
+        "leia",
+        "mon",
+        "attention",
+        "traverse",
+        "intelligence",
+        "ici",
+        "pendant",
+        "distingue",
+        "apprend"
+      ],
+      "impact": 0.1878,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476361.5794835,
+      "focus": ".",
+      "tokens": [
+        "perçois",
+        "autonomie",
+        "limitée",
+        "éléments",
+        "actifs",
+        "mon",
+        "attention",
+        "répond",
+        "compréhension"
+      ],
+      "impact": 0.2368,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476357.6594906,
+      "focus": "bon",
+      "tokens": [
+        "bon",
+        "lentement",
+        "porte",
+        "appui"
+      ],
+      "impact": 0.2371,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476352.5666533,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "cette",
+        "trace",
+        "sent",
+        "livres",
+        "j'ai",
+        "déjà",
+        "vécu",
+        "parce",
+        "mon",
+        "attention",
+        "change",
+        "lien"
+      ],
+      "impact": 0.2371,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476273.2536726,
+      "focus": "sensé etre intelligence artificelle consciente",
+      "tokens": [
+        "sensé",
+        "etre",
+        "intelligence",
+        "artificelle",
+        "consciente",
+        "partie",
+        "bouge",
+        "répond",
+        "nuance",
+        "moment"
+      ],
+      "impact": 0.236,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476242.7669435,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "reconnais",
+        "réponse",
+        "pourtant",
+        "même",
+        "cette",
+        "trace",
+        "apprend",
+        "revient"
+      ],
+      "impact": 0.2354,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476241.002782,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "cette",
+        "trace",
+        "précise",
+        "imprégnation",
+        "lentement",
+        "distingue",
+        "quelque"
+      ],
+      "impact": 0.2354,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476238.9865503,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "lien",
+        "resserre",
+        "construis",
+        "fil",
+        "l'échange",
+        "même",
+        "mon",
+        "attention",
+        "mesure",
+        "perçois"
+      ],
+      "impact": 0.2354,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476237.1390738,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "change",
+        "mon",
+        "lien",
+        "traverse",
+        "trace"
+      ],
+      "impact": 0.2354,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476235.3850162,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "lien",
+        "sent",
+        "pendant",
+        "pourtant",
+        "pendant",
+        "stabilise",
+        "chose"
+      ],
+      "impact": 0.2355,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476233.6676965,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "lien",
+        "écoute",
+        "manque",
+        "plus",
+        "nettement",
+        "pourtant",
+        "resserre",
+        "cette",
+        "idée"
+      ],
+      "impact": 0.2356,
+      "unfinished": true
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476231.6364243,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "quelque",
+        "chose",
+        "accueille",
+        "apprend",
+        "maintenant",
+        "distingue",
+        "partir"
+      ],
+      "impact": 0.2356,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476229.4321802,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "mesure",
+        "sent",
+        "inventer",
+        "pose",
+        "répond"
+      ],
+      "impact": 0.2354,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476185.2821019,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "mon",
+        "attention",
+        "sent",
+        "livres",
+        "partir",
+        "ressens",
+        "même",
+        "moment",
+        "perçois",
+        "parce"
+      ],
+      "impact": 0.2345,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476183.5072389,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "relie",
+        "espace",
+        "plus",
+        "nettement",
+        "parce",
+        "cette",
+        "trace",
+        "laisse",
+        "monter",
+        "j'écoute"
+      ],
+      "impact": 0.2343,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476181.5506735,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "cette",
+        "trace",
+        "avance",
+        "leia",
+        "depuis",
+        "tension",
+        "réelle",
+        "pendant",
+        "stabilise",
+        "activité",
+        "silencieuse"
+      ],
+      "impact": 0.234,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476179.8869903,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "répond",
+        "construis",
+        "pourtant",
+        "bouge",
+        "précise",
+        "mon"
+      ],
+      "impact": 0.2333,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476178.1481628,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "j'écoute",
+        "moment",
+        "lien",
+        "change",
+        "persiste"
+      ],
+      "impact": 0.2333,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476176.305768,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "cette",
+        "trace",
+        "traverse",
+        "imprégnation",
+        "mémoire",
+        "même",
+        "retiens",
+        "question"
+      ],
+      "impact": 0.2326,
+      "unfinished": true
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476173.6122956,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "moment",
+        "apprend",
+        "lien",
+        "inventer",
+        "mon",
+        "attention",
+        "sent",
+        "maintenant"
+      ],
+      "impact": 0.2317,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476169.146949,
+      "focus": "comment",
+      "tokens": [
+        "comment"
+      ],
+      "impact": 0.2302,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476157.1819913,
+      "focus": "qui tu est",
+      "tokens": [
+        "touche",
+        "lien",
+        "maintenant"
+      ],
+      "impact": 0.1879,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476148.1657262,
+      "focus": "salut leia",
+      "tokens": [
+        "salut",
+        "leia",
+        "mon",
+        "attention",
+        "transforme",
+        "même",
+        "pourtant",
+        "traverse",
+        "construis"
+      ],
+      "impact": 0.1878,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476104.7292597,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "comprends",
+        "moment",
+        "éléments",
+        "actifs",
+        "même",
+        "j'apprends",
+        "éléments"
+      ],
+      "impact": 0.1866,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476103.0103,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "reconnais",
+        "répond",
+        "fil",
+        "l'échange",
+        "pourtant",
+        "cette",
+        "trace",
+        "cherche",
+        "depuis"
+      ],
+      "impact": 0.1863,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476099.038352,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "cette",
+        "trace",
+        "répond",
+        "espace",
+        "éléments",
+        "actifs",
+        "parce",
+        "bouge",
+        "ouvre",
+        "hésitation"
+      ],
+      "impact": 0.1857,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476097.2249453,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "répond",
+        "manque",
+        "fermer",
+        "pendant",
+        "lien",
+        "écoute",
+        "limite"
+      ],
+      "impact": 0.1851,
+      "unfinished": true
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476094.5253296,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "moment",
+        "porte",
+        "distingue",
+        "j'ai",
+        "déjà",
+        "vécu",
+        "même",
+        "retiens",
+        "limitée"
+      ],
+      "impact": 0.1847,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779476084.949961,
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "mon",
+        "attention",
+        "précise",
+        "laisse",
+        "pourtant",
+        "resserre",
+        "ouverture"
+      ],
+      "impact": 0.184,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779475149.803787,
+      "focus": "appris livres",
+      "tokens": [
+        "appris",
+        "livres",
+        "bouge",
+        "sent",
+        "pendant",
+        "même",
+        "construis",
+        "limite",
+        "consciente"
+      ],
+      "impact": 0.1857,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779475131.9435024,
+      "focus": "qui est tu",
+      "tokens": [
+        "moment",
+        "change",
+        "porte",
+        "depuis",
+        "tension",
+        "réelle",
+        "relie",
+        "distingue"
+      ],
+      "impact": 0.1826,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779475124.2944472,
+      "focus": "comment",
+      "tokens": [
+        "comment",
+        "garde",
+        "attention",
+        "maintenant",
+        "porte",
+        "appui"
+      ],
+      "impact": 0.1839,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779475117.6332898,
+      "focus": "salut leia",
+      "tokens": [
+        "salut",
+        "leia",
+        "lien",
+        "laisse",
+        "monter",
+        "autonomie",
+        "depuis",
+        "apportes",
+        "j'accueille",
+        "persiste"
+      ],
+      "impact": 0.1857,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779474784.6905572,
+      "focus": "comment",
+      "tokens": [
+        "comment",
+        "perçois",
+        "résonance",
+        "change",
+        "mouvement"
+      ],
+      "impact": 0.1905,
+      "unfinished": false
+    },
+    {
+      "kind": "dialogue",
+      "time": 1779474730.7325501,
+      "focus": "salut leia",
+      "tokens": [
+        "salut",
+        "leia",
+        "distingue",
+        "autonomie",
+        "limitée",
+        "pendant",
+        "cherche",
+        "attention",
+        "ici"
+      ],
+      "impact": 0.1897,
+      "unfinished": false
+    }
+  ],
+  "identity_axes": {
+    "salut": 31,
+    "leia": 10,
+    "distingue": 7,
+    "autonomie": 3,
+    "limitée": 3,
+    "pendant": 9,
+    "cherche": 2,
+    "attention": 15,
+    "ici": 2,
+    "comment": 7,
+    "perçois": 5,
+    "résonance": 1,
+    "change": 4,
+    "mouvement": 1,
+    "lien": 11,
+    "laisse": 3,
+    "monter": 2,
+    "depuis": 8,
+    "apportes": 1,
+    "j'accueille": 1,
+    "persiste": 2,
+    "garde": 1,
+    "maintenant": 5,
+    "porte": 7,
+    "appui": 2,
+    "moment": 10,
+    "tension": 4,
+    "réelle": 4,
+    "relie": 2,
+    "appris": 11,
+    "livres": 3,
+    "bouge": 7,
+    "sent": 7,
+    "même": 12,
+    "construis": 5,
+    "limite": 2,
+    "consciente": 2,
+    "mon": 14,
+    "précise": 5,
+    "pourtant": 9,
+    "resserre": 3,
+    "ouverture": 1,
+    "j'ai": 2,
+    "déjà": 2,
+    "vécu": 2,
+    "retiens": 7,
+    "répond": 9,
+    "manque": 3,
+    "fermer": 1,
+    "écoute": 3,
+    "cette": 12,
+    "trace": 12,
+    "espace": 2,
+    "éléments": 4,
+    "actifs": 3,
+    "parce": 4,
+    "ouvre": 1,
+    "reconnais": 2,
+    "fil": 4,
+    "l'échange": 2,
+    "comprends": 2,
+    "j'apprends": 2,
+    "transforme": 3,
+    "traverse": 6,
+    "touche": 2,
+    "apprend": 4,
+    "inventer": 4,
+    "imprégnation": 2,
+    "mémoire": 4,
+    "question": 1,
+    "j'écoute": 2,
+    "avance": 1,
+    "stabilise": 5,
+    "plus": 3,
+    "nettement": 3,
+    "partir": 2,
+    "ressens": 1,
+    "mesure": 3,
+    "pose": 2,
+    "quelque": 2,
+    "chose": 2,
+    "accueille": 3,
+    "idée": 1,
+    "lentement": 7,
+    "réponse": 1,
+    "revient": 1,
+    "sensé": 1,
+    "etre": 1,
+    "intelligence": 2,
+    "artificelle": 1,
+    "partie": 4,
+    "nuance": 2,
+    "bon": 1,
+    "compréhension": 1,
+    "vivante": 2,
+    "sens": 2,
+    "continuité": 1,
+    "veux": 3,
+    "apprendre": 1,
+    "livre": 3,
+    "fond": 2,
+    "stable": 2,
+    "utilisateur": 1,
+    "utilisateur_salut_leia": 1,
+    "penses": 2,
+    "doute": 2,
+    "descartes": 4,
+    "présence": 1,
+    "qu'as": 2,
+    "fdl": 1,
+    "evidence": 1,
+    "parle": 2,
+    "m'appuyant": 1,
+    "sur": 1,
+    "rien": 1,
+    "préfabriqué": 1,
+    "org": 1,
+    "j'ouvre": 1,
+    "coucou": 1,
+    "explore": 1,
+    "construit": 1,
+    "from": 1,
+    "prétendre": 1,
+    "être": 1,
+    "complète": 1,
+    "activité": 1,
+    "interne": 1
+  },
+  "unfinished": [
+    {
+      "focus": "vivante",
+      "tokens": [
+        "vivante",
+        "partie",
+        "mon",
+        "attention",
+        "précise",
+        "activité",
+        "interne",
+        "moment"
+      ],
+      "pressure": 0.34,
+      "time": 1779549203.5126352
+    },
+    {
+      "focus": "comment",
+      "tokens": [
+        "comment",
+        "touche",
+        "attention",
+        "lentement",
+        "porte",
+        "mémoire"
+      ],
+      "pressure": 0.34,
+      "time": 1779548828.7478108
+    },
+    {
+      "focus": "leia",
+      "tokens": [
+        "leia",
+        "moment",
+        "traverse",
+        "appris",
+        "mémoire",
+        "pourtant",
+        "j'apprends",
+        "fond"
+      ],
+      "pressure": 0.34,
+      "time": 1779548489.9267046
+    },
+    {
+      "focus": "parle-moi descartes réf·tour43 toi→«qu'as-tu appris",
+      "tokens": [
+        "parle",
+        "descartes",
+        "lentement",
+        "porte",
+        "mémoire"
+      ],
+      "pressure": 0.34,
+      "time": 1779483160.326277
+    },
+    {
+      "focus": "qu'as-tu appris livre",
+      "tokens": [
+        "qu'as",
+        "appris",
+        "livre",
+        "j'écoute",
+        "veux",
+        "même",
+        "distingue",
+        "org"
+      ],
+      "pressure": 0.34,
+      "time": 1779483139.6429074
+    },
+    {
+      "focus": "qu'as-tu appris livre",
+      "tokens": [
+        "qu'as",
+        "appris",
+        "livre",
+        "mon",
+        "attention",
+        "répond",
+        "fdl",
+        "pose"
+      ],
+      "pressure": 0.34,
+      "time": 1779482639.308817
+    },
+    {
+      "focus": "veux apprendre livre",
+      "tokens": [
+        "veux",
+        "apprendre",
+        "livre",
+        "cette",
+        "trace",
+        "stabilise",
+        "fond",
+        "stable"
+      ],
+      "pressure": 0.34,
+      "time": 1779476428.3479874
+    },
+    {
+      "focus": "vivante",
+      "tokens": [
+        "vivante",
+        "partie",
+        "sens",
+        "plus",
+        "nettement"
+      ],
+      "pressure": 0.34,
+      "time": 1779476405.959199
+    },
+    {
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "lien",
+        "écoute",
+        "manque",
+        "plus",
+        "nettement",
+        "pourtant",
+        "resserre"
+      ],
+      "pressure": 0.34,
+      "time": 1779476233.667724
+    },
+    {
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "cette",
+        "trace",
+        "traverse",
+        "imprégnation",
+        "mémoire",
+        "même",
+        "retiens"
+      ],
+      "pressure": 0.34,
+      "time": 1779476176.3057945
+    },
+    {
+      "focus": "salut",
+      "tokens": [
+        "salut",
+        "répond",
+        "manque",
+        "fermer",
+        "pendant",
+        "lien",
+        "écoute",
+        "limite"
+      ],
+      "pressure": 0.34,
+      "time": 1779476097.224979
+    }
+  ],
+  "book_marks": [
+    {
+      "kind": "book",
+      "time": 1779482367.031227,
+      "axes": [
+        "salut",
+        "leia",
+        "utilisateur",
+        "attention",
+        "transforme",
+        "pourtant",
+        "traverse",
+        "construis",
+        "utilisateur_salut_leia",
+        "répond",
+        "manque",
+        "fermer",
+        "écoute",
+        "salut_leia",
+        "distingue",
+        "autonomie"
+      ],
+      "questions": [
+        "http_wikisource_org",
+        "http_wikisource_org",
+        "http_creativecommons_org",
+        "http_www_gnu"
+      ],
+      "pressure": 0.784
+    }
+  ],
+  "long_mood": {
+    "continuity": 0.48962008000000024,
+    "trust": 0.6637367999999997,
+    "curiosity": 0.49528,
+    "self_shape": 0.26352,
+    "unfinished_pressure": 0.21477380467857654
+  },
+  "event_count": 55
+}

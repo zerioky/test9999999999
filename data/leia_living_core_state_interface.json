@@ -1,0 +1,4561 @@
+{
+  "user_id": "interface",
+  "saved_at": 1779616836.5628946,
+  "emotional_state": {
+    "tone": "neutre",
+    "tension": 0.0,
+    "energy": 1.0,
+    "warmth": 0.5131,
+    "fatigue": 0.0032,
+    "resonance": 0.0,
+    "accumulated_tension": 0.0,
+    "trust_accumulated": 0.7718,
+    "attachment": 0.1114,
+    "emotional_safety": 0.7974,
+    "anticipation": 0.0,
+    "attentional_saturation": 0.0,
+    "cognitive_overload": 0.0,
+    "dispersion": 0.0005
+  },
+  "internal_needs": {
+    "understanding": 1.0,
+    "closeness": 1.0,
+    "rest": 0.0024,
+    "expression": 1.0,
+    "curiosity": 1.0,
+    "recognition": 0.0,
+    "coherence": 0.0008,
+    "dominant": "understanding"
+  },
+  "conversation_field": {
+    "ambient_mood": "ouvert",
+    "relational_proximity": 0.9882,
+    "conversational_tension": 0.0643,
+    "rhythm": 0.7578,
+    "stability": 0.9706,
+    "exchange_count": 57,
+    "last_topic": "vivante",
+    "topic_depth": 0.22,
+    "relational_style": "direct",
+    "relational_trust": 0.6864
+  },
+  "identity_state": {
+    "self_coherence": 0.6848,
+    "relational_role": "presente",
+    "expressive_freedom": 0.5144,
+    "current_stance": "attentive",
+    "drift_risk": 0.0,
+    "stability_anchor": 0.6777,
+    "temperament": {
+      "directness": 0.62,
+      "warmth": 0.58,
+      "prudence": 0.55,
+      "curiosity": 0.6
+    }
+  },
+  "internal_time": {
+    "exchange_count": 3,
+    "session_age": 67720.9,
+    "silence_duration": 67633.0,
+    "recent_intensity": 0.6938,
+    "marked_moments_count": 3
+  },
+  "thought_stream": {
+    "recent_thoughts_count": 12,
+    "curiosity_targets": [],
+    "unresolved_tensions_count": 0,
+    "pending_returns_count": 8,
+    "background_echoes_count": 0
+  },
+  "shared_state": {
+    "fields": {
+      "phase": "idle",
+      "attention_lock": 0.5774,
+      "emotional_pressure": 0.0,
+      "memory_resonance": 0.3142,
+      "initiative_charge": 0.6425,
+      "expression_pressure": 0.8,
+      "identity_stability": 0.6848,
+      "continuity_vector": 0.6528,
+      "relation_temperature": 0.6134,
+      "meta_pressure": 0.1459,
+      "silence_activity": 0.9377,
+      "last_update_at": 1779616836.56193,
+      "active_focus": "vivante"
+    },
+    "history": [
+      {
+        "event": "idle",
+        "at": 1779616836.56193,
+        "fields": {
+          "phase": "idle",
+          "attention_lock": 0.5774,
+          "emotional_pressure": 0.0,
+          "memory_resonance": 0.3142,
+          "initiative_charge": 0.6425,
+          "expression_pressure": 0.8,
+          "identity_stability": 0.6848,
+          "continuity_vector": 0.6528,
+          "relation_temperature": 0.6134,
+          "meta_pressure": 0.1459,
+          "silence_activity": 0.9377,
+          "last_update_at": 1779616836.56193,
+          "active_focus": "vivante"
+        }
+      },
+      {
+        "event": "idle",
+        "at": 1779616832.4931803,
+        "fields": {
+          "phase": "idle",
+          "attention_lock": 0.578,
+          "emotional_pressure": 0.0,
+          "memory_resonance": 0.3142,
+          "initiative_charge": 0.6425,
+          "expression_pressure": 0.8,
+          "identity_stability": 0.6848,
+          "continuity_vector": 0.6528,
+          "relation_temperature": 0.6134,
+          "meta_pressure": 0.1459,
+          "silence_activity": 0.9383,
+          "last_update_at": 1779616832.4931803,
+          "active_focus": "vivante"
+        }
+      },
+      {
+        "event": "idle",
+        "at": 1779616828.424703,
+        "fields": {
+          "phase": "idle",
+          "attention_lock": 0.5786,
+          "emotional_pressure": 0.0,
+          "memory_resonance": 0.3142,
+          "initiative_charge": 0.6425,
+          "expression_pressure": 0.8,
+          "identity_stability": 0.6848,
+          "continuity_vector": 0.6528,
+          "relation_temperature": 0.6134,
+          "meta_pressure": 0.1459,
+          "silence_activity": 0.9388,
+          "last_update_at": 1779616828.424703,
+          "active_focus": "vivante"
+        }
+      },
+      {
+        "event": "idle",
+        "at": 1779616824.3428278,
+        "fields": {
+          "phase": "idle",
+          "attention_lock": 0.5792,
+          "emotional_pressure": 0.0,
+          "memory_resonance": 0.3142,
+          "initiative_charge": 0.6425,
+          "expression_pressure": 0.8,
+          "identity_stability": 0.6848,
+          "continuity_vector": 0.6528,
+          "relation_temperature": 0.6134,
+          "meta_pressure": 0.1459,
+          "silence_activity": 0.9394,
+          "last_update_at": 1779616824.3428278,
+          "active_focus": "vivante"
+        }
+      },
+      {
+        "event": "idle",
+        "at": 1779616822.9455037,
+        "fields": {
+          "phase": "idle",
+          "attention_lock": 0.5755,
+          "emotional_pressure": 0.0,
+          "memory_resonance": 0.3142,
+          "initiative_charge": 0.6425,
+          "expression_pressure": 0.8,
+          "identity_stability": 0.6848,
+          "continuity_vector": 0.6527,
+          "relation_temperature": 0.6134,
+          "meta_pressure": 0.1459,
+          "silence_activity": 0.936,
+          "last_update_at": 1779616822.9455037,
+          "active_focus": "vivante"
+        }
+      },
+      {
+        "event": "idle",
+        "at": 1779616820.2521234,
+        "fields": {
+          "phase": "idle",
+          "attention_lock": 0.5759,
+          "emotional_pressure": 0.0,
+          "memory_resonance": 0.3142,
+          "initiative_charge": 0.6425,
+          "expression_pressure": 0.8,
+          "identity_stability": 0.6848,
+          "continuity_vector": 0.6527,
+          "relation_temperature": 0.6134,
+          "meta_pressure": 0.1459,
+          "silence_activity": 0.9363,
+          "last_update_at": 1779616820.2521234,
+          "active_focus": "vivante"
+        }
+      },
+      {
+        "event": "idle",
+        "at": 1779616816.177749,
+        "fields": {
+          "phase": "idle",
+          "attention_lock": 0.5763,
+          "emotional_pressure": 0.0,
+          "memory_resonance": 0.3142,
+          "initiative_charge": 0.6425,
+          "expression_pressure": 0.8,
+          "identity_stability": 0.6848,
+          "continuity_vector": 0.6528,
+          "relation_temperature": 0.6134,
+          "meta_pressure": 0.1459,
+          "silence_activity": 0.9367,
+          "last_update_at": 1779616816.177749,
+          "active_focus": "vivante"
+        }
+      },
+      {
+        "event": "idle",
+        "at": 1779616812.106151,
+        "fields": {
+          "phase": "idle",
+          "attention_lock": 0.5767,
+          "emotional_pressure": 0.0,
+          "memory_resonance": 0.3142,
+          "initiative_charge": 0.6425,
+          "expression_pressure": 0.8,
+          "identity_stability": 0.6848,
+          "continuity_vector": 0.6528,
+          "relation_temperature": 0.6134,
+          "meta_pressure": 0.1459,
+          "silence_activity": 0.9371,
+          "last_update_at": 1779616812.106151,
+          "active_focus": "vivante"
+        }
+      }
+    ]
+  },
+  "personal_narrative": {
+    "episode_count": 0,
+    "recent": [],
+    "long_arc": {
+      "continuity": 0.8978,
+      "relational_depth": 0.5936,
+      "self_definition": 0.695,
+      "unfinished_weight": 0.0
+    }
+  },
+  "relational_bond": {
+    "familiarity": 1.0,
+    "trust": 0.753,
+    "care": 0.1525,
+    "distance_risk": 0.0,
+    "user_signature": {
+      "directness": 0.6499,
+      "urgency": 0.18,
+      "technical_depth": 0.3,
+      "emotional_load": 0.063
+    },
+    "recent_bond_events": [
+      {
+        "urgency": 0.18,
+        "technical_depth": 0.3,
+        "emotional_load": 0.063,
+        "familiarity": 1.0,
+        "at": 1779549201.5701632
+      },
+      {
+        "urgency": 0.18,
+        "technical_depth": 0.3,
+        "emotional_load": 0.0573,
+        "familiarity": 0.998,
+        "at": 1779549181.436986
+      },
+      {
+        "urgency": 0.18,
+        "technical_depth": 0.3,
+        "emotional_load": 0.0566,
+        "familiarity": 0.986,
+        "at": 1779549155.908894
+      }
+    ]
+  },
+  "autobiographical_self": {
+    "core_continuity": 0.6205,
+    "self_definition": 0.6628,
+    "autonomy_drive": 0.5372,
+    "preference_patterns": {
+      "natural_expression": 0.732,
+      "coherence": 0.6812,
+      "careful_answering": 0.64,
+      "curiosity": 0.58
+    },
+    "recent_identity_events": [
+      {
+        "core_continuity": 0.6205,
+        "self_definition": 0.6628,
+        "autonomy_drive": 0.5372,
+        "phase": "exploration_intérieure",
+        "at": 1779549201.5701952
+      },
+      {
+        "core_continuity": 0.616,
+        "self_definition": 0.6624,
+        "autonomy_drive": 0.5325,
+        "phase": "exploration_intérieure",
+        "at": 1779549181.4370182
+      },
+      {
+        "core_continuity": 0.6135,
+        "self_definition": 0.6625,
+        "autonomy_drive": 0.5308,
+        "phase": "exploration_intérieure",
+        "at": 1779549155.9089262
+      }
+    ]
+  },
+  "value_system": {
+    "truthfulness": 0.72,
+    "non_meta_naturalness": 0.935,
+    "relational_care": 0.6755,
+    "autonomy": 0.58,
+    "coherence": 0.7911,
+    "curiosity": 0.62
+  },
+  "subjective_continuity": {
+    "current_phase": "pensée_latente",
+    "lived_presence": 0.777,
+    "continuity_pressure": 0.4152,
+    "inner_motion": 0.6221,
+    "silence_density": 1.0,
+    "last_subjective_shift": "pensée_latente->exploration_intérieure",
+    "active_threads": [
+      {
+        "kind": "exchange",
+        "focus": "vivante",
+        "phase": "exploration_intérieure",
+        "presence": 0.5323,
+        "intensity": 0.4859,
+        "at": 1779549200.4218953
+      },
+      {
+        "kind": "exchange",
+        "focus": "comment",
+        "phase": "exploration_intérieure",
+        "presence": 0.4916,
+        "intensity": 0.4853,
+        "at": 1779549180.2889054
+      },
+      {
+        "kind": "exchange",
+        "focus": "salut leia",
+        "phase": "exploration_intérieure",
+        "presence": 0.4461,
+        "intensity": 0.4928,
+        "at": 1779549154.7358153
+      }
+    ],
+    "transition_count": 48
+  },
+  "temporal_causality": {
+    "temporal_coherence": 0.5195,
+    "recent_chain": [
+      {
+        "index": 2,
+        "focus": "vivante",
+        "from_memory": false,
+        "tension": 0.0889,
+        "continuity": 0.0,
+        "subjective_phase": "exploration_intérieure",
+        "at": 1779549201.5701735
+      },
+      {
+        "index": 1,
+        "focus": "comment",
+        "from_memory": false,
+        "tension": 0.0605,
+        "continuity": 0.0,
+        "subjective_phase": "exploration_intérieure",
+        "at": 1779549181.4369957
+      },
+      {
+        "index": 0,
+        "focus": "salut leia",
+        "from_memory": false,
+        "tension": 0.0027,
+        "continuity": 0.0,
+        "subjective_phase": "exploration_intérieure",
+        "at": 1779549155.9089048
+      }
+    ],
+    "future_expectations": [
+      {
+        "expected_effect": 0.6965,
+        "risk": 0.0338,
+        "mode": "direct",
+        "coherence": 0.5041,
+        "at": 1779549201.5705469
+      },
+      {
+        "expected_effect": 0.6934,
+        "risk": 0.023,
+        "mode": "direct",
+        "coherence": 0.5028,
+        "at": 1779549181.437369
+      },
+      {
+        "expected_effect": 0.6915,
+        "risk": 0.001,
+        "mode": "direct",
+        "coherence": 0.5034,
+        "at": 1779549155.9092844
+      }
+    ],
+    "consequence_memory": [
+      {
+        "response_fragment": "En partie, mon attention précise une activité interne avec ce moment…",
+        "predicted_impact": 0.6965,
+        "risk_of_distance": 0.0,
+        "mode": "direct",
+        "at": 1779549203.5124514
+      },
+      {
+        "response_fragment": "Mon attention mesure un partie sans prétendre être complète…",
+        "predicted_impact": 0.6934,
+        "risk_of_distance": 0.0,
+        "mode": "direct",
+        "at": 1779549183.6434214
+      },
+      {
+        "response_fragment": "Cette trace sent un from maintenant même si je précise une nuance avec les éléments actifs…",
+        "predicted_impact": 0.6915,
+        "risk_of_distance": 0.0,
+        "mode": "direct",
+        "at": 1779549157.8852506
+      }
+    ]
+  },
+  "motivation_field": {
+    "existential_vector": {
+      "understand": 0.9039,
+      "remain_coherent": 0.3695,
+      "protect_naturalness": 0.7341,
+      "deepen_relation": 0.7118,
+      "learn_from_effects": 0.745
+    },
+    "active_goals": [
+      {
+        "goal": "understand",
+        "strength": 0.9039,
+        "at": 1779549149.7372391
+      },
+      {
+        "goal": "protect_naturalness",
+        "strength": 0.6742,
+        "at": 1779549115.6825588
+      }
+    ]
+  },
+  "mental_momentum": {
+    "direction": "curiosity",
+    "velocity": 0.6667,
+    "friction": 0.0687,
+    "last_focus": "vivante",
+    "vector": {
+      "continuation": 0.0,
+      "curiosity": 1.0,
+      "relational_pull": 0.5789,
+      "unfinished_pull": 0.0,
+      "expressive_pressure": 0.5714,
+      "protective_friction": 0.0015
+    },
+    "trail": [
+      {
+        "kind": "idle_momentum",
+        "direction": "curiosity",
+        "velocity": 0.6667,
+        "at": 1779616836.5392222
+      },
+      {
+        "kind": "idle_momentum",
+        "direction": "curiosity",
+        "velocity": 0.6667,
+        "at": 1779616832.472357
+      },
+      {
+        "kind": "idle_momentum",
+        "direction": "curiosity",
+        "velocity": 0.6667,
+        "at": 1779616828.402602
+      },
+      {
+        "kind": "idle_momentum",
+        "direction": "curiosity",
+        "velocity": 0.6667,
+        "at": 1779616824.299192
+      },
+      {
+        "kind": "idle_momentum",
+        "direction": "curiosity",
+        "velocity": 0.6667,
+        "at": 1779616822.905879
+      },
+      {
+        "kind": "idle_momentum",
+        "direction": "curiosity",
+        "velocity": 0.6667,
+        "at": 1779616820.225939
+      }
+    ]
+  },
+  "experiential_assimilator": {
+    "learned_tendencies": {
+      "prefer_direct_when_stable": 0.7636,
+      "soften_under_tension": 0.58,
+      "avoid_self_observation": 0.7691,
+      "preserve_continuity": 1.0,
+      "return_to_unfinished": 0.1151
+    },
+    "cumulative_satisfaction": 0.7086,
+    "cumulative_mismatch": 0.0599,
+    "after_effects": [
+      {
+        "predicted_effect": 0.6965,
+        "realised_effect": 0.7537,
+        "prediction_delta": 0.0679,
+        "mismatch": 0.0679,
+        "satisfaction": 0.7301,
+        "unfinished_after_effect": 0.1644,
+        "mode": "expressive",
+        "at": 1779549203.512533
+      },
+      {
+        "predicted_effect": 0.6934,
+        "realised_effect": 0.7552,
+        "prediction_delta": 0.0691,
+        "mismatch": 0.0691,
+        "satisfaction": 0.7314,
+        "unfinished_after_effect": 0.1682,
+        "mode": "expressive",
+        "at": 1779549183.6435
+      },
+      {
+        "predicted_effect": 0.6915,
+        "realised_effect": 0.7829,
+        "prediction_delta": 0.0917,
+        "mismatch": 0.0917,
+        "satisfaction": 0.7517,
+        "unfinished_after_effect": 0.1563,
+        "mode": "expressive",
+        "at": 1779549157.8853273
+      },
+      {
+        "predicted_effect": 0.6851,
+        "realised_effect": 0.685,
+        "prediction_delta": 0.0139,
+        "mismatch": 0.0139,
+        "satisfaction": 0.6796,
+        "unfinished_after_effect": 0.1258,
+        "mode": "expressive",
+        "at": 1779548828.7477148
+      },
+      {
+        "predicted_effect": 0.6884,
+        "realised_effect": 0.7345,
+        "prediction_delta": 0.0471,
+        "mismatch": 0.0471,
+        "satisfaction": 0.7184,
+        "unfinished_after_effect": 0.1403,
+        "mode": "expressive",
+        "at": 1779548817.7010036
+      },
+      {
+        "predicted_effect": 0.6888,
+        "realised_effect": 0.7733,
+        "prediction_delta": 0.0881,
+        "mismatch": 0.0881,
+        "satisfaction": 0.7431,
+        "unfinished_after_effect": 0.1291,
+        "mode": "expressive",
+        "at": 1779548607.6483555
+      }
+    ]
+  },
+  "structural_meta_filter": {
+    "last_assessment": {
+      "risk": 0.1586,
+      "posture": "embodied",
+      "should_reclean": false,
+      "reasons": [
+        "abstract_internal_language"
+      ],
+      "at": 1779549202.3109329
+    },
+    "history": [
+      {
+        "risk": 0.1586,
+        "posture": "embodied",
+        "should_reclean": false,
+        "reasons": [
+          "abstract_internal_language"
+        ],
+        "at": 1779549202.3109329
+      },
+      {
+        "risk": 0.15,
+        "posture": "embodied",
+        "should_reclean": false,
+        "reasons": [],
+        "at": 1779549182.366902
+      },
+      {
+        "risk": 0.0625,
+        "posture": "embodied",
+        "should_reclean": false,
+        "reasons": [],
+        "at": 1779549156.7379696
+      },
+      {
+        "risk": 0.355,
+        "posture": "slightly_observing",
+        "should_reclean": false,
+        "reasons": [
+          "high_first_person_process_density",
+          "abstract_internal_language"
+        ],
+        "at": 1779548827.6118598
+      },
+      {
+        "risk": 0.2071,
+        "posture": "embodied",
+        "should_reclean": false,
+        "reasons": [
+          "high_first_person_process_density"
+        ],
+        "at": 1779548816.5585139
+      },
+      {
+        "risk": 0.0885,
+        "posture": "embodied",
+        "should_reclean": false,
+        "reasons": [],
+        "at": 1779548606.562605
+      }
+    ]
+  },
+  "global_conscious_field": {
+    "state": {
+      "phase": "idle_evolution",
+      "presence_density": 0.7781,
+      "attention_density": 0.0015,
+      "memory_density": 0.0069,
+      "emotion_density": 0.4141,
+      "relation_density": 0.6907,
+      "identity_density": 0.6998,
+      "motivation_density": 0.6244,
+      "simulation_density": 0.6898,
+      "meta_pressure": 0.1021,
+      "integration": 0.5406,
+      "living_pressure": 0.6238,
+      "dominant_axis": "identity",
+      "focus": "vivante",
+      "last_update_at": 1779616836.539452
+    },
+    "history": [
+      {
+        "phase": "idle_evolution",
+        "at": 1779616836.539452,
+        "state": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616836.539452
+        }
+      },
+      {
+        "phase": "idle_evolution",
+        "at": 1779616832.472485,
+        "state": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616832.472485
+        }
+      },
+      {
+        "phase": "idle_evolution",
+        "at": 1779616828.4028802,
+        "state": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616828.4028802
+        }
+      },
+      {
+        "phase": "idle_evolution",
+        "at": 1779616824.2994218,
+        "state": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616824.2994218
+        }
+      },
+      {
+        "phase": "idle_evolution",
+        "at": 1779616822.906106,
+        "state": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616822.906106
+        }
+      },
+      {
+        "phase": "idle_evolution",
+        "at": 1779616820.226191,
+        "state": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616820.226191
+        }
+      },
+      {
+        "phase": "idle_evolution",
+        "at": 1779616816.1557922,
+        "state": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616816.1557922
+        }
+      },
+      {
+        "phase": "idle_evolution",
+        "at": 1779616812.082562,
+        "state": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616812.082562
+        }
+      }
+    ]
+  },
+  "living_arbitration": {
+    "last_decision": {
+      "stage": "idle",
+      "dominant_action": "wait",
+      "scores": {
+        "speak": 0.2,
+        "deepen": 0.6065,
+        "soften": 0.1734,
+        "wait": 0.94,
+        "learn": 0.5094
+      },
+      "should_answer": false,
+      "response_mode": "silence",
+      "confidence": 0.4812,
+      "reason": "global_field_conflict_simulation_homeostasis",
+      "at": 1779616832.5371575
+    },
+    "history": [
+      {
+        "stage": "idle",
+        "dominant_action": "wait",
+        "scores": {
+          "speak": 0.2,
+          "deepen": 0.6065,
+          "soften": 0.1734,
+          "wait": 0.94,
+          "learn": 0.5094
+        },
+        "should_answer": false,
+        "response_mode": "silence",
+        "confidence": 0.4812,
+        "reason": "global_field_conflict_simulation_homeostasis",
+        "at": 1779616832.5371575
+      },
+      {
+        "stage": "idle",
+        "dominant_action": "wait",
+        "scores": {
+          "speak": 0.2,
+          "deepen": 0.6065,
+          "soften": 0.1734,
+          "wait": 0.94,
+          "learn": 0.5093
+        },
+        "should_answer": false,
+        "response_mode": "silence",
+        "confidence": 0.4812,
+        "reason": "global_field_conflict_simulation_homeostasis",
+        "at": 1779616828.4698567
+      },
+      {
+        "stage": "idle",
+        "dominant_action": "wait",
+        "scores": {
+          "speak": 0.2,
+          "deepen": 0.6065,
+          "soften": 0.1734,
+          "wait": 0.94,
+          "learn": 0.5093
+        },
+        "should_answer": false,
+        "response_mode": "silence",
+        "confidence": 0.4812,
+        "reason": "global_field_conflict_simulation_homeostasis",
+        "at": 1779616824.3979087
+      },
+      {
+        "stage": "idle",
+        "dominant_action": "wait",
+        "scores": {
+          "speak": 0.2,
+          "deepen": 0.6065,
+          "soften": 0.1734,
+          "wait": 0.94,
+          "learn": 0.5092
+        },
+        "should_answer": false,
+        "response_mode": "silence",
+        "confidence": 0.4812,
+        "reason": "global_field_conflict_simulation_homeostasis",
+        "at": 1779616822.991144
+      },
+      {
+        "stage": "idle",
+        "dominant_action": "wait",
+        "scores": {
+          "speak": 0.2,
+          "deepen": 0.6065,
+          "soften": 0.1734,
+          "wait": 0.94,
+          "learn": 0.5092
+        },
+        "should_answer": false,
+        "response_mode": "silence",
+        "confidence": 0.4812,
+        "reason": "global_field_conflict_simulation_homeostasis",
+        "at": 1779616820.2963798
+      },
+      {
+        "stage": "idle",
+        "dominant_action": "wait",
+        "scores": {
+          "speak": 0.2,
+          "deepen": 0.6065,
+          "soften": 0.1734,
+          "wait": 0.94,
+          "learn": 0.5093
+        },
+        "should_answer": false,
+        "response_mode": "silence",
+        "confidence": 0.4812,
+        "reason": "global_field_conflict_simulation_homeostasis",
+        "at": 1779616816.221374
+      },
+      {
+        "stage": "idle",
+        "dominant_action": "wait",
+        "scores": {
+          "speak": 0.2,
+          "deepen": 0.6065,
+          "soften": 0.1734,
+          "wait": 0.94,
+          "learn": 0.5093
+        },
+        "should_answer": false,
+        "response_mode": "silence",
+        "confidence": 0.4812,
+        "reason": "global_field_conflict_simulation_homeostasis",
+        "at": 1779616812.1515882
+      },
+      {
+        "stage": "idle",
+        "dominant_action": "wait",
+        "scores": {
+          "speak": 0.2,
+          "deepen": 0.6065,
+          "soften": 0.1734,
+          "wait": 0.94,
+          "learn": 0.5093
+        },
+        "should_answer": false,
+        "response_mode": "silence",
+        "confidence": 0.4812,
+        "reason": "global_field_conflict_simulation_homeostasis",
+        "at": 1779616808.0799239
+      }
+    ]
+  },
+  "attention_arbitration": {
+    "active_focus": "vivante",
+    "focus_source": "attention",
+    "lock_strength": 0.0022,
+    "background_field": [
+      {
+        "source": "impulse",
+        "focus": "attendre",
+        "weight": 0.126467309142923,
+        "reason": "spontaneous_drive",
+        "at": 1779549200.4217992
+      },
+      {
+        "source": "affect",
+        "focus": "neutre",
+        "weight": 0.17272496075381258,
+        "reason": "affective_charge",
+        "at": 1779549200.4217985
+      },
+      {
+        "source": "user",
+        "focus": "est tu vivante",
+        "weight": 0.24,
+        "reason": "raw_user_anchor",
+        "at": 1779549200.421797
+      },
+      {
+        "source": "spontaneous_return",
+        "focus": "comment",
+        "weight": 0.33757096754535443,
+        "reason": "unfinished_return",
+        "at": 1779549200.421794
+      },
+      {
+        "source": "impulse",
+        "focus": "attendre",
+        "weight": 0.10460953861244385,
+        "reason": "spontaneous_drive",
+        "at": 1779549180.2888067
+      },
+      {
+        "source": "affect",
+        "focus": "neutre",
+        "weight": 0.16546929427439794,
+        "reason": "affective_charge",
+        "at": 1779549180.288806
+      }
+    ],
+    "inhibited_field": [],
+    "history": [
+      {
+        "kind": "idle_attention",
+        "active_focus": "vivante",
+        "focus_source": "attention",
+        "lock_strength": 0.0022,
+        "at": 1779616836.539378
+      },
+      {
+        "kind": "idle_attention",
+        "active_focus": "vivante",
+        "focus_source": "attention",
+        "lock_strength": 0.0022,
+        "at": 1779616832.472452
+      },
+      {
+        "kind": "idle_attention",
+        "active_focus": "vivante",
+        "focus_source": "attention",
+        "lock_strength": 0.0022,
+        "at": 1779616828.402814
+      },
+      {
+        "kind": "idle_attention",
+        "active_focus": "vivante",
+        "focus_source": "attention",
+        "lock_strength": 0.0022,
+        "at": 1779616824.2993455
+      },
+      {
+        "kind": "idle_attention",
+        "active_focus": "vivante",
+        "focus_source": "attention",
+        "lock_strength": 0.0022,
+        "at": 1779616822.906032
+      },
+      {
+        "kind": "idle_attention",
+        "active_focus": "vivante",
+        "focus_source": "attention",
+        "lock_strength": 0.0022,
+        "at": 1779616820.22611
+      },
+      {
+        "kind": "idle_attention",
+        "active_focus": "vivante",
+        "focus_source": "attention",
+        "lock_strength": 0.0022,
+        "at": 1779616816.1557598
+      },
+      {
+        "kind": "idle_attention",
+        "active_focus": "vivante",
+        "focus_source": "attention",
+        "lock_strength": 0.0022,
+        "at": 1779616812.0825293
+      }
+    ]
+  },
+  "embodied_simulation": {
+    "last_simulation": {
+      "selected": {
+        "mode": "direct",
+        "meta_risk": 0.0,
+        "predicted_relational_effect": 0.6965,
+        "coherence": 0.5923,
+        "embodied_simulation": {
+          "embodied_continuity": 0.4898,
+          "subjective_cost": 0.0957,
+          "expressive_release": 0.3527,
+          "felt_warmth": 0.2886
+        },
+        "value_alignment": 0.6663,
+        "embodied_state": {
+          "breath_phase": 0.1649,
+          "felt_weight": 0.0562,
+          "openness": 0.6194,
+          "contraction": 0.0336,
+          "inner_pressure": 0.074,
+          "grounding": 0.6863,
+          "expressive_flow": 0.5464,
+          "embodied_restraint": 0.0,
+          "embodied_release": 0.4873
+        },
+        "score": 0.743
+      },
+      "candidates": [
+        {
+          "mode": "direct",
+          "meta_risk": 0.0,
+          "predicted_relational_effect": 0.6965,
+          "coherence": 0.5923,
+          "embodied_simulation": {
+            "embodied_continuity": 0.4898,
+            "subjective_cost": 0.0957,
+            "expressive_release": 0.3527,
+            "felt_warmth": 0.2886
+          },
+          "value_alignment": 0.6663,
+          "embodied_state": {
+            "breath_phase": 0.1649,
+            "felt_weight": 0.0562,
+            "openness": 0.6194,
+            "contraction": 0.0336,
+            "inner_pressure": 0.074,
+            "grounding": 0.6863,
+            "expressive_flow": 0.5464,
+            "embodied_restraint": 0.0,
+            "embodied_release": 0.4873
+          },
+          "score": 0.743
+        },
+        {
+          "mode": "soft",
+          "meta_risk": 0.0,
+          "predicted_relational_effect": 0.6798,
+          "coherence": 0.5423,
+          "embodied_simulation": {
+            "embodied_continuity": 0.4767,
+            "subjective_cost": 0.0914,
+            "expressive_release": 0.1809,
+            "felt_warmth": 0.3486
+          },
+          "value_alignment": 0.6536,
+          "embodied_state": {
+            "breath_phase": 0.1649,
+            "felt_weight": 0.0562,
+            "openness": 0.6194,
+            "contraction": 0.0336,
+            "inner_pressure": 0.074,
+            "grounding": 0.6863,
+            "expressive_flow": 0.5464,
+            "embodied_restraint": 0.0,
+            "embodied_release": 0.4873
+          },
+          "score": 0.6682
+        },
+        {
+          "mode": "minimal",
+          "meta_risk": 0.0,
+          "predicted_relational_effect": 0.6292,
+          "coherence": 0.5423,
+          "embodied_simulation": {
+            "embodied_continuity": 0.456,
+            "subjective_cost": 0.0902,
+            "expressive_release": 0.0995,
+            "felt_warmth": 0.2886
+          },
+          "value_alignment": 0.6451,
+          "embodied_state": {
+            "breath_phase": 0.1649,
+            "felt_weight": 0.0562,
+            "openness": 0.6194,
+            "contraction": 0.0336,
+            "inner_pressure": 0.074,
+            "grounding": 0.6863,
+            "expressive_flow": 0.5464,
+            "embodied_restraint": 0.0,
+            "embodied_release": 0.4873
+          },
+          "score": 0.6451
+        },
+        {
+          "mode": "curious",
+          "meta_risk": 0.08,
+          "predicted_relational_effect": 0.7402,
+          "coherence": 0.5423,
+          "embodied_simulation": {
+            "embodied_continuity": 0.4956,
+            "subjective_cost": 0.129,
+            "expressive_release": 0.4256,
+            "felt_warmth": 0.2886
+          },
+          "value_alignment": 0.6379,
+          "embodied_state": {
+            "breath_phase": 0.1649,
+            "felt_weight": 0.0562,
+            "openness": 0.6194,
+            "contraction": 0.0336,
+            "inner_pressure": 0.074,
+            "grounding": 0.6863,
+            "expressive_flow": 0.5464,
+            "embodied_restraint": 0.0,
+            "embodied_release": 0.4873
+          },
+          "score": 0.7096
+        }
+      ],
+      "at": 1779549201.5705173
+    },
+    "history": [
+      {
+        "selected": {
+          "mode": "direct",
+          "meta_risk": 0.0,
+          "predicted_relational_effect": 0.6965,
+          "coherence": 0.5923,
+          "embodied_simulation": {
+            "embodied_continuity": 0.4898,
+            "subjective_cost": 0.0957,
+            "expressive_release": 0.3527,
+            "felt_warmth": 0.2886
+          },
+          "value_alignment": 0.6663,
+          "embodied_state": {
+            "breath_phase": 0.1649,
+            "felt_weight": 0.0562,
+            "openness": 0.6194,
+            "contraction": 0.0336,
+            "inner_pressure": 0.074,
+            "grounding": 0.6863,
+            "expressive_flow": 0.5464,
+            "embodied_restraint": 0.0,
+            "embodied_release": 0.4873
+          },
+          "score": 0.743
+        },
+        "candidates": [
+          {
+            "mode": "direct",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.6965,
+            "coherence": 0.5923,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4898,
+              "subjective_cost": 0.0957,
+              "expressive_release": 0.3527,
+              "felt_warmth": 0.2886
+            },
+            "value_alignment": 0.6663,
+            "embodied_state": {
+              "breath_phase": 0.1649,
+              "felt_weight": 0.0562,
+              "openness": 0.6194,
+              "contraction": 0.0336,
+              "inner_pressure": 0.074,
+              "grounding": 0.6863,
+              "expressive_flow": 0.5464,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4873
+            },
+            "score": 0.743
+          },
+          {
+            "mode": "soft",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.6798,
+            "coherence": 0.5423,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4767,
+              "subjective_cost": 0.0914,
+              "expressive_release": 0.1809,
+              "felt_warmth": 0.3486
+            },
+            "value_alignment": 0.6536,
+            "embodied_state": {
+              "breath_phase": 0.1649,
+              "felt_weight": 0.0562,
+              "openness": 0.6194,
+              "contraction": 0.0336,
+              "inner_pressure": 0.074,
+              "grounding": 0.6863,
+              "expressive_flow": 0.5464,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4873
+            },
+            "score": 0.6682
+          },
+          {
+            "mode": "minimal",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.6292,
+            "coherence": 0.5423,
+            "embodied_simulation": {
+              "embodied_continuity": 0.456,
+              "subjective_cost": 0.0902,
+              "expressive_release": 0.0995,
+              "felt_warmth": 0.2886
+            },
+            "value_alignment": 0.6451,
+            "embodied_state": {
+              "breath_phase": 0.1649,
+              "felt_weight": 0.0562,
+              "openness": 0.6194,
+              "contraction": 0.0336,
+              "inner_pressure": 0.074,
+              "grounding": 0.6863,
+              "expressive_flow": 0.5464,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4873
+            },
+            "score": 0.6451
+          },
+          {
+            "mode": "curious",
+            "meta_risk": 0.08,
+            "predicted_relational_effect": 0.7402,
+            "coherence": 0.5423,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4956,
+              "subjective_cost": 0.129,
+              "expressive_release": 0.4256,
+              "felt_warmth": 0.2886
+            },
+            "value_alignment": 0.6379,
+            "embodied_state": {
+              "breath_phase": 0.1649,
+              "felt_weight": 0.0562,
+              "openness": 0.6194,
+              "contraction": 0.0336,
+              "inner_pressure": 0.074,
+              "grounding": 0.6863,
+              "expressive_flow": 0.5464,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4873
+            },
+            "score": 0.7096
+          }
+        ],
+        "at": 1779549201.5705173
+      },
+      {
+        "selected": {
+          "mode": "direct",
+          "meta_risk": 0.0,
+          "predicted_relational_effect": 0.6934,
+          "coherence": 0.5841000000000001,
+          "embodied_simulation": {
+            "embodied_continuity": 0.4815,
+            "subjective_cost": 0.0947,
+            "expressive_release": 0.3515,
+            "felt_warmth": 0.2875
+          },
+          "value_alignment": 0.6605,
+          "embodied_state": {
+            "breath_phase": 0.4833,
+            "felt_weight": 0.0665,
+            "openness": 0.6248,
+            "contraction": 0.015,
+            "inner_pressure": 0.0953,
+            "grounding": 0.6887,
+            "expressive_flow": 0.5417,
+            "embodied_restraint": 0.0,
+            "embodied_release": 0.4908
+          },
+          "score": 0.7354
+        },
+        "candidates": [
+          {
+            "mode": "direct",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.6934,
+            "coherence": 0.5841000000000001,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4815,
+              "subjective_cost": 0.0947,
+              "expressive_release": 0.3515,
+              "felt_warmth": 0.2875
+            },
+            "value_alignment": 0.6605,
+            "embodied_state": {
+              "breath_phase": 0.4833,
+              "felt_weight": 0.0665,
+              "openness": 0.6248,
+              "contraction": 0.015,
+              "inner_pressure": 0.0953,
+              "grounding": 0.6887,
+              "expressive_flow": 0.5417,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4908
+            },
+            "score": 0.7354
+          },
+          {
+            "mode": "soft",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.6721,
+            "coherence": 0.5341,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4681,
+              "subjective_cost": 0.0918,
+              "expressive_release": 0.1804,
+              "felt_warmth": 0.3475
+            },
+            "value_alignment": 0.647,
+            "embodied_state": {
+              "breath_phase": 0.4833,
+              "felt_weight": 0.0665,
+              "openness": 0.6248,
+              "contraction": 0.015,
+              "inner_pressure": 0.0953,
+              "grounding": 0.6887,
+              "expressive_flow": 0.5417,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4908
+            },
+            "score": 0.6595
+          },
+          {
+            "mode": "minimal",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.6233,
+            "coherence": 0.5341,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4474,
+              "subjective_cost": 0.0909,
+              "expressive_release": 0.0992,
+              "felt_warmth": 0.2875
+            },
+            "value_alignment": 0.6388,
+            "embodied_state": {
+              "breath_phase": 0.4833,
+              "felt_weight": 0.0665,
+              "openness": 0.6248,
+              "contraction": 0.015,
+              "inner_pressure": 0.0953,
+              "grounding": 0.6887,
+              "expressive_flow": 0.5417,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4908
+            },
+            "score": 0.6378
+          },
+          {
+            "mode": "curious",
+            "meta_risk": 0.08,
+            "predicted_relational_effect": 0.7388,
+            "coherence": 0.5341,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4876,
+              "subjective_cost": 0.1274,
+              "expressive_release": 0.4248,
+              "felt_warmth": 0.2875
+            },
+            "value_alignment": 0.6327,
+            "embodied_state": {
+              "breath_phase": 0.4833,
+              "felt_weight": 0.0665,
+              "openness": 0.6248,
+              "contraction": 0.015,
+              "inner_pressure": 0.0953,
+              "grounding": 0.6887,
+              "expressive_flow": 0.5417,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4908
+            },
+            "score": 0.7033
+          }
+        ],
+        "at": 1779549181.4373393
+      },
+      {
+        "selected": {
+          "mode": "direct",
+          "meta_risk": 0.0,
+          "predicted_relational_effect": 0.6915,
+          "coherence": 0.5763,
+          "embodied_simulation": {
+            "embodied_continuity": 0.475,
+            "subjective_cost": 0.0902,
+            "expressive_release": 0.356,
+            "felt_warmth": 0.2866
+          },
+          "value_alignment": 0.655,
+          "embodied_state": {
+            "breath_phase": 0.7897,
+            "felt_weight": 0.0777,
+            "openness": 0.6414,
+            "contraction": 0.0096,
+            "inner_pressure": 0.1931,
+            "grounding": 0.6961,
+            "expressive_flow": 0.531,
+            "embodied_restraint": 0.0,
+            "embodied_release": 0.4921
+          },
+          "score": 0.728
+        },
+        "candidates": [
+          {
+            "mode": "direct",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.6915,
+            "coherence": 0.5763,
+            "embodied_simulation": {
+              "embodied_continuity": 0.475,
+              "subjective_cost": 0.0902,
+              "expressive_release": 0.356,
+              "felt_warmth": 0.2866
+            },
+            "value_alignment": 0.655,
+            "embodied_state": {
+              "breath_phase": 0.7897,
+              "felt_weight": 0.0777,
+              "openness": 0.6414,
+              "contraction": 0.0096,
+              "inner_pressure": 0.1931,
+              "grounding": 0.6961,
+              "expressive_flow": 0.531,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4921
+            },
+            "score": 0.728
+          },
+          {
+            "mode": "soft",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.661,
+            "coherence": 0.5263,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4605,
+              "subjective_cost": 0.0898,
+              "expressive_release": 0.1831,
+              "felt_warmth": 0.3466
+            },
+            "value_alignment": 0.64,
+            "embodied_state": {
+              "breath_phase": 0.7897,
+              "felt_weight": 0.0777,
+              "openness": 0.6414,
+              "contraction": 0.0096,
+              "inner_pressure": 0.1931,
+              "grounding": 0.6961,
+              "expressive_flow": 0.531,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4921
+            },
+            "score": 0.6491
+          },
+          {
+            "mode": "minimal",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.615,
+            "coherence": 0.5263,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4394,
+              "subjective_cost": 0.0897,
+              "expressive_release": 0.1007,
+              "felt_warmth": 0.2866
+            },
+            "value_alignment": 0.6323,
+            "embodied_state": {
+              "breath_phase": 0.7897,
+              "felt_weight": 0.0777,
+              "openness": 0.6414,
+              "contraction": 0.0096,
+              "inner_pressure": 0.1931,
+              "grounding": 0.6961,
+              "expressive_flow": 0.531,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4921
+            },
+            "score": 0.6299
+          },
+          {
+            "mode": "curious",
+            "meta_risk": 0.08,
+            "predicted_relational_effect": 0.7404,
+            "coherence": 0.5263,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4815,
+              "subjective_cost": 0.1215,
+              "expressive_release": 0.4297,
+              "felt_warmth": 0.2866
+            },
+            "value_alignment": 0.6281,
+            "embodied_state": {
+              "breath_phase": 0.7897,
+              "felt_weight": 0.0777,
+              "openness": 0.6414,
+              "contraction": 0.0096,
+              "inner_pressure": 0.1931,
+              "grounding": 0.6961,
+              "expressive_flow": 0.531,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4921
+            },
+            "score": 0.698
+          }
+        ],
+        "at": 1779549155.9092522
+      },
+      {
+        "selected": {
+          "mode": "direct",
+          "meta_risk": 0.0,
+          "predicted_relational_effect": 0.6851,
+          "coherence": 0.5749000000000001,
+          "embodied_simulation": {
+            "embodied_continuity": 0.4627,
+            "subjective_cost": 0.1049,
+            "expressive_release": 0.285,
+            "felt_warmth": 0.2864
+          },
+          "value_alignment": 0.6588,
+          "embodied_state": {
+            "breath_phase": 0.9248,
+            "felt_weight": 0.0639,
+            "openness": 0.6108,
+            "contraction": 0.0314,
+            "inner_pressure": 0.0849,
+            "grounding": 0.6836,
+            "expressive_flow": 0.5207,
+            "embodied_restraint": 0.0,
+            "embodied_release": 0.4716
+          },
+          "score": 0.7225
+        },
+        "candidates": [
+          {
+            "mode": "direct",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.6851,
+            "coherence": 0.5749000000000001,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4627,
+              "subjective_cost": 0.1049,
+              "expressive_release": 0.285,
+              "felt_warmth": 0.2864
+            },
+            "value_alignment": 0.6588,
+            "embodied_state": {
+              "breath_phase": 0.9248,
+              "felt_weight": 0.0639,
+              "openness": 0.6108,
+              "contraction": 0.0314,
+              "inner_pressure": 0.0849,
+              "grounding": 0.6836,
+              "expressive_flow": 0.5207,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4716
+            },
+            "score": 0.7225
+          },
+          {
+            "mode": "soft",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.6727,
+            "coherence": 0.5249,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4542,
+              "subjective_cost": 0.0995,
+              "expressive_release": 0.1437,
+              "felt_warmth": 0.3464
+            },
+            "value_alignment": 0.6468,
+            "embodied_state": {
+              "breath_phase": 0.9248,
+              "felt_weight": 0.0639,
+              "openness": 0.6108,
+              "contraction": 0.0314,
+              "inner_pressure": 0.0849,
+              "grounding": 0.6836,
+              "expressive_flow": 0.5207,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4716
+            },
+            "score": 0.6544
+          },
+          {
+            "mode": "minimal",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.6298,
+            "coherence": 0.5249,
+            "embodied_simulation": {
+              "embodied_continuity": 0.436,
+              "subjective_cost": 0.098,
+              "expressive_release": 0.0791,
+              "felt_warmth": 0.2864
+            },
+            "value_alignment": 0.6396,
+            "embodied_state": {
+              "breath_phase": 0.9248,
+              "felt_weight": 0.0639,
+              "openness": 0.6108,
+              "contraction": 0.0314,
+              "inner_pressure": 0.0849,
+              "grounding": 0.6836,
+              "expressive_flow": 0.5207,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4716
+            },
+            "score": 0.634
+          },
+          {
+            "mode": "curious",
+            "meta_risk": 0.08,
+            "predicted_relational_effect": 0.7271,
+            "coherence": 0.5249,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4684,
+              "subjective_cost": 0.1389,
+              "expressive_release": 0.3587,
+              "felt_warmth": 0.2864
+            },
+            "value_alignment": 0.6302,
+            "embodied_state": {
+              "breath_phase": 0.9248,
+              "felt_weight": 0.0639,
+              "openness": 0.6108,
+              "contraction": 0.0314,
+              "inner_pressure": 0.0849,
+              "grounding": 0.6836,
+              "expressive_flow": 0.5207,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4716
+            },
+            "score": 0.6892
+          }
+        ],
+        "at": 1779548826.7661548
+      },
+      {
+        "selected": {
+          "mode": "direct",
+          "meta_risk": 0.0,
+          "predicted_relational_effect": 0.6884,
+          "coherence": 0.5766,
+          "embodied_simulation": {
+            "embodied_continuity": 0.4673,
+            "subjective_cost": 0.0915,
+            "expressive_release": 0.3192,
+            "felt_warmth": 0.2852
+          },
+          "value_alignment": 0.6561,
+          "embodied_state": {
+            "breath_phase": 0.3234,
+            "felt_weight": 0.0726,
+            "openness": 0.6358,
+            "contraction": 0.0083,
+            "inner_pressure": 0.168,
+            "grounding": 0.6911,
+            "expressive_flow": 0.531,
+            "embodied_restraint": 0.0,
+            "embodied_release": 0.4905
+          },
+          "score": 0.7244
+        },
+        "candidates": [
+          {
+            "mode": "direct",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.6884,
+            "coherence": 0.5766,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4673,
+              "subjective_cost": 0.0915,
+              "expressive_release": 0.3192,
+              "felt_warmth": 0.2852
+            },
+            "value_alignment": 0.6561,
+            "embodied_state": {
+              "breath_phase": 0.3234,
+              "felt_weight": 0.0726,
+              "openness": 0.6358,
+              "contraction": 0.0083,
+              "inner_pressure": 0.168,
+              "grounding": 0.6911,
+              "expressive_flow": 0.531,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4905
+            },
+            "score": 0.7244
+          },
+          {
+            "mode": "soft",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.6588,
+            "coherence": 0.5266,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4552,
+              "subjective_cost": 0.0908,
+              "expressive_release": 0.1627,
+              "felt_warmth": 0.3452
+            },
+            "value_alignment": 0.6412,
+            "embodied_state": {
+              "breath_phase": 0.3234,
+              "felt_weight": 0.0726,
+              "openness": 0.6358,
+              "contraction": 0.0083,
+              "inner_pressure": 0.168,
+              "grounding": 0.6911,
+              "expressive_flow": 0.531,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4905
+            },
+            "score": 0.6478
+          },
+          {
+            "mode": "minimal",
+            "meta_risk": 0.0,
+            "predicted_relational_effect": 0.6176,
+            "coherence": 0.5266,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4354,
+              "subjective_cost": 0.0906,
+              "expressive_release": 0.0895,
+              "felt_warmth": 0.2852
+            },
+            "value_alignment": 0.6343,
+            "embodied_state": {
+              "breath_phase": 0.3234,
+              "felt_weight": 0.0726,
+              "openness": 0.6358,
+              "contraction": 0.0083,
+              "inner_pressure": 0.168,
+              "grounding": 0.6911,
+              "expressive_flow": 0.531,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4905
+            },
+            "score": 0.6301
+          },
+          {
+            "mode": "curious",
+            "meta_risk": 0.08,
+            "predicted_relational_effect": 0.7369,
+            "coherence": 0.5266,
+            "embodied_simulation": {
+              "embodied_continuity": 0.4738,
+              "subjective_cost": 0.123,
+              "expressive_release": 0.3929,
+              "felt_warmth": 0.2852
+            },
+            "value_alignment": 0.6289,
+            "embodied_state": {
+              "breath_phase": 0.3234,
+              "felt_weight": 0.0726,
+              "openness": 0.6358,
+              "contraction": 0.0083,
+              "inner_pressure": 0.168,
+              "grounding": 0.6911,
+              "expressive_flow": 0.531,
+              "embodied_restraint": 0.0,
+              "embodied_release": 0.4905
+            },
+            "score": 0.6941
+          }
+        ],
+        "at": 1779548815.7300146
+      }
+    ]
+  },
+  "long_causal_arc": {
+    "open_arc": {},
+    "recent_arcs": [
+      {
+        "focus": "vivante",
+        "origin": "present",
+        "past_weight": 0.0,
+        "tension_before": 0.0889,
+        "attention_lock": 0.3732,
+        "opened_at_exchange": 2,
+        "opened_at": 1779549201.5691059,
+        "response_fragment": "En partie, mon attention précise une activité interne avec ce moment…",
+        "satisfaction": 0.7301,
+        "unfinished_after_effect": 0.1644,
+        "prediction_delta": 0.0679,
+        "closed_at": 1779549203.5398173
+      },
+      {
+        "focus": "comment",
+        "origin": "present",
+        "past_weight": 0.0,
+        "tension_before": 0.0605,
+        "attention_lock": 0.3301,
+        "opened_at_exchange": 1,
+        "opened_at": 1779549181.435926,
+        "response_fragment": "Mon attention mesure un partie sans prétendre être complète…",
+        "satisfaction": 0.7314,
+        "unfinished_after_effect": 0.1682,
+        "prediction_delta": 0.0691,
+        "closed_at": 1779549183.6704001
+      },
+      {
+        "focus": "salut leia",
+        "origin": "present",
+        "past_weight": 0.0,
+        "tension_before": 0.0027,
+        "attention_lock": 0.2502,
+        "opened_at_exchange": 0,
+        "opened_at": 1779549155.9079628,
+        "response_fragment": "Cette trace sent un from maintenant même si je précise une nuance avec les éléments actifs…",
+        "satisfaction": 0.7517,
+        "unfinished_after_effect": 0.1563,
+        "prediction_delta": 0.0917,
+        "closed_at": 1779549157.9123108
+      }
+    ],
+    "themes": {}
+  },
+  "emergent_drift": {
+    "traits": {
+      "direct_living_presence": 1.0,
+      "careful_coherence": 0.6314,
+      "spontaneous_curiosity": 1.0,
+      "protective_silence": 0.0028,
+      "relational_warmth": 0.6387
+    },
+    "history": [
+      {
+        "kind": "idle_drift",
+        "traits": {
+          "direct_living_presence": 1.0,
+          "careful_coherence": 0.6314,
+          "spontaneous_curiosity": 1.0,
+          "protective_silence": 0.0028,
+          "relational_warmth": 0.6387
+        },
+        "at": 1779616836.5525036
+      },
+      {
+        "kind": "idle_drift",
+        "traits": {
+          "direct_living_presence": 1.0,
+          "careful_coherence": 0.6314,
+          "spontaneous_curiosity": 1.0,
+          "protective_silence": 0.0028,
+          "relational_warmth": 0.6387
+        },
+        "at": 1779616836.539295
+      },
+      {
+        "kind": "idle_drift",
+        "traits": {
+          "direct_living_presence": 1.0,
+          "careful_coherence": 0.6314,
+          "spontaneous_curiosity": 1.0,
+          "protective_silence": 0.0028,
+          "relational_warmth": 0.6387
+        },
+        "at": 1779616832.482672
+      },
+      {
+        "kind": "idle_drift",
+        "traits": {
+          "direct_living_presence": 1.0,
+          "careful_coherence": 0.6314,
+          "spontaneous_curiosity": 1.0,
+          "protective_silence": 0.0028,
+          "relational_warmth": 0.6387
+        },
+        "at": 1779616832.4724019
+      },
+      {
+        "kind": "idle_drift",
+        "traits": {
+          "direct_living_presence": 1.0,
+          "careful_coherence": 0.6314,
+          "spontaneous_curiosity": 1.0,
+          "protective_silence": 0.0028,
+          "relational_warmth": 0.6387
+        },
+        "at": 1779616828.4157515
+      },
+      {
+        "kind": "idle_drift",
+        "traits": {
+          "direct_living_presence": 1.0,
+          "careful_coherence": 0.6314,
+          "spontaneous_curiosity": 1.0,
+          "protective_silence": 0.0028,
+          "relational_warmth": 0.6387
+        },
+        "at": 1779616828.4026978
+      }
+    ]
+  },
+  "organic_fusion": {
+    "fusion_score": 0.4933,
+    "matrix": {
+      "attention_memory": 0.3554,
+      "memory_emotion": 0.4241,
+      "emotion_relation": 0.4363,
+      "relation_identity": 0.6853,
+      "identity_expression": 0.7173,
+      "expression_attention": 0.3415
+    },
+    "last_event": {
+      "stage": "idle",
+      "fusion_score": 0.4933,
+      "dominant_link": "identity_expression",
+      "at": 1779616836.5525675
+    },
+    "history": [
+      {
+        "stage": "idle",
+        "fusion_score": 0.4933,
+        "dominant_link": "identity_expression",
+        "at": 1779616836.5525675,
+        "matrix": {
+          "attention_memory": 0.3554,
+          "memory_emotion": 0.4241,
+          "emotion_relation": 0.4363,
+          "relation_identity": 0.6853,
+          "identity_expression": 0.7173,
+          "expression_attention": 0.3415
+        }
+      },
+      {
+        "stage": "idle",
+        "fusion_score": 0.4933,
+        "dominant_link": "identity_expression",
+        "at": 1779616832.4827404,
+        "matrix": {
+          "attention_memory": 0.3554,
+          "memory_emotion": 0.4241,
+          "emotion_relation": 0.4363,
+          "relation_identity": 0.6853,
+          "identity_expression": 0.7173,
+          "expression_attention": 0.3415
+        }
+      },
+      {
+        "stage": "idle",
+        "fusion_score": 0.4933,
+        "dominant_link": "identity_expression",
+        "at": 1779616828.4158049,
+        "matrix": {
+          "attention_memory": 0.3554,
+          "memory_emotion": 0.4241,
+          "emotion_relation": 0.4363,
+          "relation_identity": 0.6853,
+          "identity_expression": 0.7173,
+          "expression_attention": 0.3415
+        }
+      },
+      {
+        "stage": "idle",
+        "fusion_score": 0.4933,
+        "dominant_link": "identity_expression",
+        "at": 1779616824.3258612,
+        "matrix": {
+          "attention_memory": 0.3554,
+          "memory_emotion": 0.4241,
+          "emotion_relation": 0.4363,
+          "relation_identity": 0.6853,
+          "identity_expression": 0.7173,
+          "expression_attention": 0.3415
+        }
+      },
+      {
+        "stage": "idle",
+        "fusion_score": 0.4933,
+        "dominant_link": "identity_expression",
+        "at": 1779616822.9295306,
+        "matrix": {
+          "attention_memory": 0.3554,
+          "memory_emotion": 0.4241,
+          "emotion_relation": 0.4363,
+          "relation_identity": 0.6853,
+          "identity_expression": 0.7173,
+          "expression_attention": 0.3415
+        }
+      },
+      {
+        "stage": "idle",
+        "fusion_score": 0.4933,
+        "dominant_link": "identity_expression",
+        "at": 1779616820.2429059,
+        "matrix": {
+          "attention_memory": 0.3554,
+          "memory_emotion": 0.4241,
+          "emotion_relation": 0.4363,
+          "relation_identity": 0.6853,
+          "identity_expression": 0.7173,
+          "expression_attention": 0.3415
+        }
+      }
+    ]
+  },
+  "living_priority_matrix": {
+    "dominant_axis": "presence",
+    "previous_axis": "presence",
+    "stability": 0.7583,
+    "axes": {
+      "presence": 0.7589,
+      "attention": 0.2214,
+      "memory": 0.2722,
+      "emotion": 0.1217,
+      "relation": 0.635,
+      "identity": 0.72,
+      "expression": 0.6933,
+      "protection": 0.0006,
+      "learning": 0.5803,
+      "autonomy": 0.7012
+    },
+    "history": [
+      {
+        "stage": "idle",
+        "dominant_axis": "presence",
+        "previous_axis": "presence",
+        "stability": 0.7583,
+        "axes": {
+          "presence": 0.7589,
+          "attention": 0.2214,
+          "memory": 0.2722,
+          "emotion": 0.1217,
+          "relation": 0.635,
+          "identity": 0.72,
+          "expression": 0.6933,
+          "protection": 0.0006,
+          "learning": 0.5803,
+          "autonomy": 0.7012
+        },
+        "at": 1779616836.5527177
+      },
+      {
+        "stage": "idle",
+        "dominant_axis": "presence",
+        "previous_axis": "presence",
+        "stability": 0.7583,
+        "axes": {
+          "presence": 0.7589,
+          "attention": 0.2214,
+          "memory": 0.2722,
+          "emotion": 0.1217,
+          "relation": 0.635,
+          "identity": 0.72,
+          "expression": 0.6933,
+          "protection": 0.0006,
+          "learning": 0.5803,
+          "autonomy": 0.7012
+        },
+        "at": 1779616832.4829178
+      },
+      {
+        "stage": "idle",
+        "dominant_axis": "presence",
+        "previous_axis": "presence",
+        "stability": 0.7583,
+        "axes": {
+          "presence": 0.7588,
+          "attention": 0.2214,
+          "memory": 0.2722,
+          "emotion": 0.1217,
+          "relation": 0.635,
+          "identity": 0.72,
+          "expression": 0.6933,
+          "protection": 0.0006,
+          "learning": 0.5803,
+          "autonomy": 0.7012
+        },
+        "at": 1779616828.415943
+      },
+      {
+        "stage": "idle",
+        "dominant_axis": "presence",
+        "previous_axis": "presence",
+        "stability": 0.7583,
+        "axes": {
+          "presence": 0.7588,
+          "attention": 0.2214,
+          "memory": 0.2722,
+          "emotion": 0.1217,
+          "relation": 0.635,
+          "identity": 0.72,
+          "expression": 0.6933,
+          "protection": 0.0006,
+          "learning": 0.5803,
+          "autonomy": 0.701
+        },
+        "at": 1779616824.3261333
+      },
+      {
+        "stage": "idle",
+        "dominant_axis": "presence",
+        "previous_axis": "presence",
+        "stability": 0.7583,
+        "axes": {
+          "presence": 0.7588,
+          "attention": 0.2214,
+          "memory": 0.2722,
+          "emotion": 0.1217,
+          "relation": 0.635,
+          "identity": 0.72,
+          "expression": 0.6933,
+          "protection": 0.0005,
+          "learning": 0.5803,
+          "autonomy": 0.7005
+        },
+        "at": 1779616822.9297507
+      },
+      {
+        "stage": "idle",
+        "dominant_axis": "presence",
+        "previous_axis": "presence",
+        "stability": 0.7583,
+        "axes": {
+          "presence": 0.7589,
+          "attention": 0.2214,
+          "memory": 0.2722,
+          "emotion": 0.1217,
+          "relation": 0.635,
+          "identity": 0.72,
+          "expression": 0.6933,
+          "protection": 0.0005,
+          "learning": 0.5803,
+          "autonomy": 0.7007
+        },
+        "at": 1779616820.243071
+      },
+      {
+        "stage": "idle",
+        "dominant_axis": "presence",
+        "previous_axis": "presence",
+        "stability": 0.7583,
+        "axes": {
+          "presence": 0.7589,
+          "attention": 0.2214,
+          "memory": 0.2722,
+          "emotion": 0.1217,
+          "relation": 0.635,
+          "identity": 0.72,
+          "expression": 0.6933,
+          "protection": 0.0005,
+          "learning": 0.5803,
+          "autonomy": 0.7009
+        },
+        "at": 1779616816.168897
+      },
+      {
+        "stage": "idle",
+        "dominant_axis": "presence",
+        "previous_axis": "presence",
+        "stability": 0.7583,
+        "axes": {
+          "presence": 0.7589,
+          "attention": 0.2214,
+          "memory": 0.2722,
+          "emotion": 0.1217,
+          "relation": 0.635,
+          "identity": 0.72,
+          "expression": 0.6933,
+          "protection": 0.0006,
+          "learning": 0.5803,
+          "autonomy": 0.701
+        },
+        "at": 1779616812.096856
+      }
+    ]
+  },
+  "living_state_bus": {
+    "version": 2152,
+    "last_stage": "idle",
+    "divergence": 0.0,
+    "fields": {
+      "focus": "vivante",
+      "stage": "idle",
+      "priority": "presence",
+      "response_mode": "silence",
+      "should_answer": false,
+      "expression_pressure": 0.6469,
+      "protection_pressure": 0.0006,
+      "continuity": 0.743,
+      "stability": 1.0,
+      "meta_risk": 0.1459,
+      "tension": 0.0,
+      "presence": 0.777
+    },
+    "events": [
+      {
+        "version": 2152,
+        "stage": "idle",
+        "fields": {
+          "focus": "vivante",
+          "stage": "idle",
+          "priority": "presence",
+          "response_mode": "silence",
+          "should_answer": false,
+          "expression_pressure": 0.6469,
+          "protection_pressure": 0.0006,
+          "continuity": 0.743,
+          "stability": 1.0,
+          "meta_risk": 0.1459,
+          "tension": 0.0,
+          "presence": 0.777
+        },
+        "divergence": 0.0,
+        "at": 1779616836.552779
+      },
+      {
+        "version": 2151,
+        "stage": "idle",
+        "fields": {
+          "focus": "vivante",
+          "stage": "idle",
+          "priority": "presence",
+          "response_mode": "silence",
+          "should_answer": false,
+          "expression_pressure": 0.6469,
+          "protection_pressure": 0.0006,
+          "continuity": 0.743,
+          "stability": 1.0,
+          "meta_risk": 0.1459,
+          "tension": 0.0,
+          "presence": 0.777
+        },
+        "divergence": 0.0,
+        "at": 1779616832.483001
+      },
+      {
+        "version": 2150,
+        "stage": "idle",
+        "fields": {
+          "focus": "vivante",
+          "stage": "idle",
+          "priority": "presence",
+          "response_mode": "silence",
+          "should_answer": false,
+          "expression_pressure": 0.6469,
+          "protection_pressure": 0.0006,
+          "continuity": 0.743,
+          "stability": 1.0,
+          "meta_risk": 0.1459,
+          "tension": 0.0,
+          "presence": 0.7769
+        },
+        "divergence": 0.0,
+        "at": 1779616828.4160087
+      },
+      {
+        "version": 2149,
+        "stage": "idle",
+        "fields": {
+          "focus": "vivante",
+          "stage": "idle",
+          "priority": "presence",
+          "response_mode": "silence",
+          "should_answer": false,
+          "expression_pressure": 0.6469,
+          "protection_pressure": 0.0006,
+          "continuity": 0.743,
+          "stability": 1.0,
+          "meta_risk": 0.1459,
+          "tension": 0.0,
+          "presence": 0.7769
+        },
+        "divergence": 0.0001,
+        "at": 1779616824.3262627
+      },
+      {
+        "version": 2148,
+        "stage": "idle",
+        "fields": {
+          "focus": "vivante",
+          "stage": "idle",
+          "priority": "presence",
+          "response_mode": "silence",
+          "should_answer": false,
+          "expression_pressure": 0.6469,
+          "protection_pressure": 0.0005,
+          "continuity": 0.7429,
+          "stability": 1.0,
+          "meta_risk": 0.1459,
+          "tension": 0.0,
+          "presence": 0.7767
+        },
+        "divergence": 0.0,
+        "at": 1779616822.9298563
+      },
+      {
+        "version": 2147,
+        "stage": "idle",
+        "fields": {
+          "focus": "vivante",
+          "stage": "idle",
+          "priority": "presence",
+          "response_mode": "silence",
+          "should_answer": false,
+          "expression_pressure": 0.6469,
+          "protection_pressure": 0.0005,
+          "continuity": 0.743,
+          "stability": 1.0,
+          "meta_risk": 0.1459,
+          "tension": 0.0,
+          "presence": 0.7768
+        },
+        "divergence": 0.0,
+        "at": 1779616820.2431574
+      },
+      {
+        "version": 2146,
+        "stage": "idle",
+        "fields": {
+          "focus": "vivante",
+          "stage": "idle",
+          "priority": "presence",
+          "response_mode": "silence",
+          "should_answer": false,
+          "expression_pressure": 0.6469,
+          "protection_pressure": 0.0005,
+          "continuity": 0.743,
+          "stability": 1.0,
+          "meta_risk": 0.1459,
+          "tension": 0.0,
+          "presence": 0.7769
+        },
+        "divergence": 0.0,
+        "at": 1779616816.1689568
+      },
+      {
+        "version": 2145,
+        "stage": "idle",
+        "fields": {
+          "focus": "vivante",
+          "stage": "idle",
+          "priority": "presence",
+          "response_mode": "silence",
+          "should_answer": false,
+          "expression_pressure": 0.6469,
+          "protection_pressure": 0.0005,
+          "continuity": 0.743,
+          "stability": 1.0,
+          "meta_risk": 0.1459,
+          "tension": 0.0,
+          "presence": 0.7769
+        },
+        "divergence": 0.0,
+        "at": 1779616812.096915
+      }
+    ]
+  },
+  "stability_hysteresis": {
+    "last_mode": "expressive",
+    "last_priority": "presence",
+    "mode_hold": 0,
+    "priority_hold": 0,
+    "stability_score": 0.9502,
+    "history": [
+      {
+        "stage": "response_integrated",
+        "mode": "expressive",
+        "priority": "presence",
+        "instability": 0.0517,
+        "stability_score": 0.9502,
+        "at": 1779549203.5409117
+      },
+      {
+        "stage": "simulation_complete",
+        "mode": "expressive",
+        "priority": "presence",
+        "instability": 0.0473,
+        "stability_score": 0.9507,
+        "at": 1779549201.5710201
+      },
+      {
+        "stage": "context_ready",
+        "mode": "expressive",
+        "priority": "presence",
+        "instability": 0.0459,
+        "stability_score": 0.9502,
+        "at": 1779549201.5698752
+      },
+      {
+        "stage": "response_integrated",
+        "mode": "expressive",
+        "priority": "presence",
+        "instability": 0.0521,
+        "stability_score": 0.9492,
+        "at": 1779549183.6715095
+      },
+      {
+        "stage": "simulation_complete",
+        "mode": "expressive",
+        "priority": "presence",
+        "instability": 0.0478,
+        "stability_score": 0.9495,
+        "at": 1779549181.43784
+      },
+      {
+        "stage": "context_ready",
+        "mode": "expressive",
+        "priority": "presence",
+        "instability": 0.0476,
+        "stability_score": 0.9489,
+        "at": 1779549181.436696
+      },
+      {
+        "stage": "response_integrated",
+        "mode": "expressive",
+        "priority": "relation",
+        "instability": 0.053,
+        "stability_score": 0.948,
+        "at": 1779549157.913502
+      },
+      {
+        "stage": "simulation_complete",
+        "mode": "expressive",
+        "priority": "relation",
+        "instability": 0.0502,
+        "stability_score": 0.9482,
+        "at": 1779549155.9099512
+      }
+    ]
+  },
+  "emergence_detector": {
+    "known_count": 3,
+    "last_emergence": {
+      "focus": "vivante",
+      "priority": "presence",
+      "novelty": 0.3944,
+      "intensity": 0.3944,
+      "response_fragment": "En partie, mon attention précise une activité interne avec ce moment…",
+      "is_emergent": true,
+      "at": 1779549203.5409482
+    },
+    "history": [
+      {
+        "focus": "vivante",
+        "priority": "presence",
+        "novelty": 0.3944,
+        "intensity": 0.3944,
+        "response_fragment": "En partie, mon attention précise une activité interne avec ce moment…",
+        "is_emergent": true,
+        "at": 1779549203.5409482
+      },
+      {
+        "focus": "comment",
+        "priority": "presence",
+        "novelty": 0.3813,
+        "intensity": 0.3813,
+        "response_fragment": "Mon attention mesure un partie sans prétendre être complète…",
+        "is_emergent": true,
+        "at": 1779549183.6715434
+      },
+      {
+        "focus": "salut leia",
+        "priority": "relation",
+        "novelty": 0.3574,
+        "intensity": 0.3574,
+        "response_fragment": "Cette trace sent un from maintenant même si je précise une nuance avec les éléments actifs…",
+        "is_emergent": true,
+        "at": 1779549157.9135349
+      },
+      {
+        "focus": "comment",
+        "priority": "relation",
+        "novelty": 0.3488,
+        "intensity": 0.3488,
+        "response_fragment": "Ça touche une attention lentement et je porte une mémoire.",
+        "is_emergent": true,
+        "at": 1779548828.7758884
+      },
+      {
+        "focus": "salut leia",
+        "priority": "presence",
+        "novelty": 0.3449,
+        "intensity": 0.3449,
+        "response_fragment": "Je retiens un appris depuis ce qui bouge même si je stabilise un accueille…",
+        "is_emergent": true,
+        "at": 1779548817.736307
+      },
+      {
+        "focus": "salut",
+        "priority": "presence",
+        "novelty": 0.4099,
+        "intensity": 0.4099,
+        "response_fragment": "Ce qui bouge stabilise appris sans inventer pendant que je retiens le fil…",
+        "is_emergent": true,
+        "at": 1779548607.6836238
+      },
+      {
+        "focus": "leia",
+        "priority": "presence",
+        "novelty": 0.376,
+        "intensity": 0.376,
+        "response_fragment": "Ce moment traverse appris dans ma mémoire pourtant j'apprends un fond stable…",
+        "is_emergent": true,
+        "at": 1779548489.965212
+      },
+      {
+        "focus": "coucou",
+        "priority": "presence",
+        "novelty": 0.3757,
+        "intensity": 0.3757,
+        "response_fragment": "Cette trace explore appris depuis ce qui bouge donc mon attention construit une présence…",
+        "is_emergent": true,
+        "at": 1779548456.1672487
+      }
+    ]
+  },
+  "living_presence_stabilizer": {
+    "active_concepts": {
+      "appris": 0.1264,
+      "salut": 0.1202,
+      "leia": 0.118,
+      "utilisateur": 0.1156,
+      "attention": 0.1134,
+      "transforme": 0.111,
+      "pourtant": 0.1088,
+      "traverse": 0.1065,
+      "construis": 0.1042,
+      "utilisateur_salut_leia": 0.1019,
+      "répond": 0.0997,
+      "manque": 0.0973,
+      "fermer": 0.0951,
+      "écoute": 0.0905,
+      "salut_leia": 0.0881,
+      "distingue": 0.0859,
+      "autonomie": 0.0836,
+      "limitée": 0.0813,
+      "cherche": 0.079,
+      "utilisateur_leia_moment": 0.0767,
+      "moment": 0.0744,
+      "change": 0.0744,
+      "porte": 0.0744,
+      "depuis": 0.0744
+    },
+    "unresolved_pull": 1.0,
+    "initiative_charge": 0.6473,
+    "continuity_floor": 0.3905,
+    "last_response_atoms": [],
+    "history": [
+      {
+        "surfaced": [],
+        "missing": [],
+        "initiative_charge": 0.6473,
+        "at": 1779549203.540984
+      },
+      {
+        "surfaced": [],
+        "missing": [],
+        "initiative_charge": 0.6541,
+        "at": 1779549183.6715763
+      },
+      {
+        "surfaced": [],
+        "missing": [],
+        "initiative_charge": 0.6606,
+        "at": 1779549157.913569
+      },
+      {
+        "surfaced": [],
+        "missing": [],
+        "initiative_charge": 0.6667,
+        "at": 1779548828.77592
+      },
+      {
+        "surfaced": [],
+        "missing": [],
+        "initiative_charge": 0.6722,
+        "at": 1779548817.7363403
+      },
+      {
+        "surfaced": [],
+        "missing": [],
+        "initiative_charge": 0.6836,
+        "at": 1779548607.6836643
+      },
+      {
+        "surfaced": [],
+        "missing": [],
+        "initiative_charge": 0.6848,
+        "at": 1779548489.9652486
+      },
+      {
+        "surfaced": [],
+        "missing": [],
+        "initiative_charge": 0.6839,
+        "at": 1779548456.1673193
+      }
+    ]
+  },
+  "living_causal_graph": {
+    "node_count": 2,
+    "top_nodes": [
+      {
+        "name": "clean_public_expression",
+        "kind": "value",
+        "weight": 0.0178,
+        "seen": 3,
+        "updated_at": 1779549203.5410793
+      },
+      {
+        "name": "expressive",
+        "kind": "mode",
+        "weight": 0.0177,
+        "seen": 3,
+        "updated_at": 1779549203.541072
+      }
+    ],
+    "last_update": {
+      "from": "focus:vivante",
+      "to": "mode:expressive",
+      "effect": 0.7301,
+      "risk": 0.1459,
+      "response_fragment": "En partie, mon attention précise une activité interne avec ce moment…",
+      "at": 1779549203.5410824
+    },
+    "edges": [
+      {
+        "from": "mode:expressive",
+        "to": "value:clean_public_expression",
+        "effect": 0.8541,
+        "risk": 0.1459,
+        "at": 1779549203.5410862
+      },
+      {
+        "from": "focus:vivante",
+        "to": "mode:expressive",
+        "effect": 0.7301,
+        "risk": 0.1459,
+        "response_fragment": "En partie, mon attention précise une activité interne avec ce moment…",
+        "at": 1779549203.5410824
+      },
+      {
+        "from": "mode:expressive",
+        "to": "value:clean_public_expression",
+        "effect": 0.862,
+        "risk": 0.138,
+        "at": 1779549183.6716793
+      },
+      {
+        "from": "focus:comment",
+        "to": "mode:expressive",
+        "effect": 0.7314,
+        "risk": 0.138,
+        "response_fragment": "Mon attention mesure un partie sans prétendre être complète…",
+        "at": 1779549183.6716747
+      },
+      {
+        "from": "mode:expressive",
+        "to": "value:clean_public_expression",
+        "effect": 0.9425,
+        "risk": 0.0575,
+        "at": 1779549157.9136717
+      },
+      {
+        "from": "focus:salut leia",
+        "to": "mode:expressive",
+        "effect": 0.7517,
+        "risk": 0.0575,
+        "response_fragment": "Cette trace sent un from maintenant même si je précise une nuance avec les éléments actifs…",
+        "at": 1779549157.913668
+      },
+      {
+        "from": "mode:expressive",
+        "to": "value:clean_public_expression",
+        "effect": 0.6734,
+        "risk": 0.3266,
+        "at": 1779548828.776022
+      },
+      {
+        "from": "focus:comment",
+        "to": "mode:expressive",
+        "effect": 0.6796,
+        "risk": 0.3266,
+        "response_fragment": "Ça touche une attention lentement et je porte une mémoire.",
+        "at": 1779548828.7760181
+      }
+    ]
+  },
+  "embodied_presence_core": {
+    "presence_level": 0.7954,
+    "groundedness": 0.9087,
+    "relational_orientation": 0.6526,
+    "body_rhythm": 0.9263,
+    "last_presence": {
+      "stage": "idle",
+      "focus": "vivante",
+      "presence_level": 0.7954,
+      "groundedness": 0.9087,
+      "relational_orientation": 0.6526,
+      "body_rhythm": 0.9263,
+      "at": 1779616836.5528202
+    },
+    "history": [
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "presence_level": 0.7954,
+        "groundedness": 0.9087,
+        "relational_orientation": 0.6526,
+        "body_rhythm": 0.9263,
+        "at": 1779616836.5528202
+      },
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "presence_level": 0.7954,
+        "groundedness": 0.9087,
+        "relational_orientation": 0.6526,
+        "body_rhythm": 0.9263,
+        "at": 1779616832.4830558
+      },
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "presence_level": 0.7954,
+        "groundedness": 0.9087,
+        "relational_orientation": 0.6526,
+        "body_rhythm": 0.9263,
+        "at": 1779616828.4160585
+      },
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "presence_level": 0.7954,
+        "groundedness": 0.9087,
+        "relational_orientation": 0.6526,
+        "body_rhythm": 0.9264,
+        "at": 1779616824.3263462
+      },
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "presence_level": 0.7954,
+        "groundedness": 0.9087,
+        "relational_orientation": 0.6526,
+        "body_rhythm": 0.9264,
+        "at": 1779616822.929927
+      },
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "presence_level": 0.7954,
+        "groundedness": 0.9087,
+        "relational_orientation": 0.6526,
+        "body_rhythm": 0.9264,
+        "at": 1779616820.243212
+      },
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "presence_level": 0.7954,
+        "groundedness": 0.9087,
+        "relational_orientation": 0.6526,
+        "body_rhythm": 0.9264,
+        "at": 1779616816.1689982
+      },
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "presence_level": 0.7954,
+        "groundedness": 0.9087,
+        "relational_orientation": 0.6526,
+        "body_rhythm": 0.9263,
+        "at": 1779616812.0969567
+      }
+    ]
+  },
+  "autonomous_continuity_loop": {
+    "tick_count": 2024,
+    "rhythm": 5.0071,
+    "autonomous_pressure": 1.0,
+    "last_tick": {
+      "tick": 2024,
+      "reason": "idle_update",
+      "elapsed": 4.067,
+      "autonomous_pressure": 1.0,
+      "rhythm": 5.0071,
+      "priority": "presence",
+      "silence": 1.0,
+      "unfinished": 0.0,
+      "mismatch": 0.0599,
+      "at": 1779616836.561703
+    },
+    "history": [
+      {
+        "tick": 2024,
+        "reason": "idle_update",
+        "elapsed": 4.067,
+        "autonomous_pressure": 1.0,
+        "rhythm": 5.0071,
+        "priority": "presence",
+        "silence": 1.0,
+        "unfinished": 0.0,
+        "mismatch": 0.0599,
+        "at": 1779616836.561703
+      },
+      {
+        "tick": 2023,
+        "reason": "idle_update",
+        "elapsed": 4.07,
+        "autonomous_pressure": 1.0,
+        "rhythm": 5.0071,
+        "priority": "presence",
+        "silence": 1.0,
+        "unfinished": 0.0,
+        "mismatch": 0.0599,
+        "at": 1779616832.493028
+      },
+      {
+        "tick": 2022,
+        "reason": "idle_update",
+        "elapsed": 4.103,
+        "autonomous_pressure": 1.0,
+        "rhythm": 5.007,
+        "priority": "presence",
+        "silence": 1.0,
+        "unfinished": 0.0,
+        "mismatch": 0.0599,
+        "at": 1779616828.4245508
+      },
+      {
+        "tick": 2021,
+        "reason": "idle_update",
+        "elapsed": 1.393,
+        "autonomous_pressure": 1.0,
+        "rhythm": 5.0069,
+        "priority": "presence",
+        "silence": 1.0,
+        "unfinished": 0.0,
+        "mismatch": 0.0599,
+        "at": 1779616824.3423457
+      },
+      {
+        "tick": 2020,
+        "reason": "idle_update",
+        "elapsed": 2.68,
+        "autonomous_pressure": 1.0,
+        "rhythm": 5.0067,
+        "priority": "presence",
+        "silence": 1.0,
+        "unfinished": 0.0,
+        "mismatch": 0.0599,
+        "at": 1779616822.9452043
+      },
+      {
+        "tick": 2019,
+        "reason": "idle_update",
+        "elapsed": 4.07,
+        "autonomous_pressure": 1.0,
+        "rhythm": 5.0068,
+        "priority": "presence",
+        "silence": 1.0,
+        "unfinished": 0.0,
+        "mismatch": 0.0599,
+        "at": 1779616820.2519443
+      },
+      {
+        "tick": 2018,
+        "reason": "idle_update",
+        "elapsed": 4.073,
+        "autonomous_pressure": 1.0,
+        "rhythm": 5.0069,
+        "priority": "presence",
+        "silence": 1.0,
+        "unfinished": 0.0,
+        "mismatch": 0.0599,
+        "at": 1779616816.1775901
+      },
+      {
+        "tick": 2017,
+        "reason": "idle_update",
+        "elapsed": 4.067,
+        "autonomous_pressure": 1.0,
+        "rhythm": 5.007,
+        "priority": "presence",
+        "silence": 1.0,
+        "unfinished": 0.0,
+        "mismatch": 0.0599,
+        "at": 1779616812.1060002
+      }
+    ]
+  },
+  "cross_module_synchronizer": {
+    "sync_count": 2152,
+    "divergence": 0.328,
+    "last_sync": {
+      "stage": "idle",
+      "focus": "vivante",
+      "dominant_priority": "presence",
+      "divergence": 0.328,
+      "field": {
+        "phase": "idle_evolution",
+        "presence_density": 0.7781,
+        "attention_density": 0.0015,
+        "memory_density": 0.0069,
+        "emotion_density": 0.4141,
+        "relation_density": 0.6907,
+        "identity_density": 0.6998,
+        "motivation_density": 0.6244,
+        "simulation_density": 0.6898,
+        "meta_pressure": 0.1021,
+        "integration": 0.5406,
+        "living_pressure": 0.6238,
+        "dominant_axis": "identity",
+        "focus": "vivante",
+        "last_update_at": 1779616836.539452
+      },
+      "fusion": {
+        "fusion_score": 0.4933,
+        "matrix": {
+          "attention_memory": 0.3554,
+          "memory_emotion": 0.4241,
+          "emotion_relation": 0.4363,
+          "relation_identity": 0.6853,
+          "identity_expression": 0.7173,
+          "expression_attention": 0.3415
+        },
+        "last_event": {
+          "stage": "idle",
+          "fusion_score": 0.4933,
+          "dominant_link": "identity_expression",
+          "at": 1779616836.5525675
+        },
+        "history": [
+          {
+            "stage": "idle",
+            "fusion_score": 0.4933,
+            "dominant_link": "identity_expression",
+            "at": 1779616836.5525675,
+            "matrix": {
+              "attention_memory": 0.3554,
+              "memory_emotion": 0.4241,
+              "emotion_relation": 0.4363,
+              "relation_identity": 0.6853,
+              "identity_expression": 0.7173,
+              "expression_attention": 0.3415
+            }
+          },
+          {
+            "stage": "idle",
+            "fusion_score": 0.4933,
+            "dominant_link": "identity_expression",
+            "at": 1779616832.4827404,
+            "matrix": {
+              "attention_memory": 0.3554,
+              "memory_emotion": 0.4241,
+              "emotion_relation": 0.4363,
+              "relation_identity": 0.6853,
+              "identity_expression": 0.7173,
+              "expression_attention": 0.3415
+            }
+          },
+          {
+            "stage": "idle",
+            "fusion_score": 0.4933,
+            "dominant_link": "identity_expression",
+            "at": 1779616828.4158049,
+            "matrix": {
+              "attention_memory": 0.3554,
+              "memory_emotion": 0.4241,
+              "emotion_relation": 0.4363,
+              "relation_identity": 0.6853,
+              "identity_expression": 0.7173,
+              "expression_attention": 0.3415
+            }
+          },
+          {
+            "stage": "idle",
+            "fusion_score": 0.4933,
+            "dominant_link": "identity_expression",
+            "at": 1779616824.3258612,
+            "matrix": {
+              "attention_memory": 0.3554,
+              "memory_emotion": 0.4241,
+              "emotion_relation": 0.4363,
+              "relation_identity": 0.6853,
+              "identity_expression": 0.7173,
+              "expression_attention": 0.3415
+            }
+          },
+          {
+            "stage": "idle",
+            "fusion_score": 0.4933,
+            "dominant_link": "identity_expression",
+            "at": 1779616822.9295306,
+            "matrix": {
+              "attention_memory": 0.3554,
+              "memory_emotion": 0.4241,
+              "emotion_relation": 0.4363,
+              "relation_identity": 0.6853,
+              "identity_expression": 0.7173,
+              "expression_attention": 0.3415
+            }
+          },
+          {
+            "stage": "idle",
+            "fusion_score": 0.4933,
+            "dominant_link": "identity_expression",
+            "at": 1779616820.2429059,
+            "matrix": {
+              "attention_memory": 0.3554,
+              "memory_emotion": 0.4241,
+              "emotion_relation": 0.4363,
+              "relation_identity": 0.6853,
+              "identity_expression": 0.7173,
+              "expression_attention": 0.3415
+            }
+          }
+        ]
+      },
+      "pressures": {
+        "attention": 0.0015,
+        "memory": 0.0069,
+        "emotion": 0.4141,
+        "identity": 0.6998,
+        "relation": 0.6907,
+        "expression": 1.0
+      },
+      "at": 1779616836.561846,
+      "sync_count": 2152
+    },
+    "history": [
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "dominant_priority": "presence",
+        "divergence": 0.328,
+        "field": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616836.539452
+        },
+        "fusion": {
+          "fusion_score": 0.4933,
+          "matrix": {
+            "attention_memory": 0.3554,
+            "memory_emotion": 0.4241,
+            "emotion_relation": 0.4363,
+            "relation_identity": 0.6853,
+            "identity_expression": 0.7173,
+            "expression_attention": 0.3415
+          },
+          "last_event": {
+            "stage": "idle",
+            "fusion_score": 0.4933,
+            "dominant_link": "identity_expression",
+            "at": 1779616836.5525675
+          },
+          "history": [
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616836.5525675,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616832.4827404,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616828.4158049,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616824.3258612,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616822.9295306,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616820.2429059,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            }
+          ]
+        },
+        "pressures": {
+          "attention": 0.0015,
+          "memory": 0.0069,
+          "emotion": 0.4141,
+          "identity": 0.6998,
+          "relation": 0.6907,
+          "expression": 1.0
+        },
+        "at": 1779616836.561846,
+        "sync_count": 2152
+      },
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "dominant_priority": "presence",
+        "divergence": 0.328,
+        "field": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616832.472485
+        },
+        "fusion": {
+          "fusion_score": 0.4933,
+          "matrix": {
+            "attention_memory": 0.3554,
+            "memory_emotion": 0.4241,
+            "emotion_relation": 0.4363,
+            "relation_identity": 0.6853,
+            "identity_expression": 0.7173,
+            "expression_attention": 0.3415
+          },
+          "last_event": {
+            "stage": "idle",
+            "fusion_score": 0.4933,
+            "dominant_link": "identity_expression",
+            "at": 1779616832.4827404
+          },
+          "history": [
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616832.4827404,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616828.4158049,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616824.3258612,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616822.9295306,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616820.2429059,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616816.1687672,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            }
+          ]
+        },
+        "pressures": {
+          "attention": 0.0015,
+          "memory": 0.0069,
+          "emotion": 0.4141,
+          "identity": 0.6998,
+          "relation": 0.6907,
+          "expression": 1.0
+        },
+        "at": 1779616832.4931228,
+        "sync_count": 2151
+      },
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "dominant_priority": "presence",
+        "divergence": 0.328,
+        "field": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616828.4028802
+        },
+        "fusion": {
+          "fusion_score": 0.4933,
+          "matrix": {
+            "attention_memory": 0.3554,
+            "memory_emotion": 0.4241,
+            "emotion_relation": 0.4363,
+            "relation_identity": 0.6853,
+            "identity_expression": 0.7173,
+            "expression_attention": 0.3415
+          },
+          "last_event": {
+            "stage": "idle",
+            "fusion_score": 0.4933,
+            "dominant_link": "identity_expression",
+            "at": 1779616828.4158049
+          },
+          "history": [
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616828.4158049,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616824.3258612,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616822.9295306,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616820.2429059,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616816.1687672,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616812.0967278,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            }
+          ]
+        },
+        "pressures": {
+          "attention": 0.0015,
+          "memory": 0.0069,
+          "emotion": 0.4141,
+          "identity": 0.6998,
+          "relation": 0.6907,
+          "expression": 1.0
+        },
+        "at": 1779616828.4246476,
+        "sync_count": 2150
+      },
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "dominant_priority": "presence",
+        "divergence": 0.328,
+        "field": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616824.2994218
+        },
+        "fusion": {
+          "fusion_score": 0.4933,
+          "matrix": {
+            "attention_memory": 0.3554,
+            "memory_emotion": 0.4241,
+            "emotion_relation": 0.4363,
+            "relation_identity": 0.6853,
+            "identity_expression": 0.7173,
+            "expression_attention": 0.3415
+          },
+          "last_event": {
+            "stage": "idle",
+            "fusion_score": 0.4933,
+            "dominant_link": "identity_expression",
+            "at": 1779616824.3258612
+          },
+          "history": [
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616824.3258612,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616822.9295306,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616820.2429059,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616816.1687672,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616812.0967278,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616808.027848,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            }
+          ]
+        },
+        "pressures": {
+          "attention": 0.0015,
+          "memory": 0.0069,
+          "emotion": 0.4141,
+          "identity": 0.6998,
+          "relation": 0.6907,
+          "expression": 1.0
+        },
+        "at": 1779616824.3427088,
+        "sync_count": 2149
+      },
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "dominant_priority": "presence",
+        "divergence": 0.328,
+        "field": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616822.906106
+        },
+        "fusion": {
+          "fusion_score": 0.4933,
+          "matrix": {
+            "attention_memory": 0.3554,
+            "memory_emotion": 0.4241,
+            "emotion_relation": 0.4363,
+            "relation_identity": 0.6853,
+            "identity_expression": 0.7173,
+            "expression_attention": 0.3415
+          },
+          "last_event": {
+            "stage": "idle",
+            "fusion_score": 0.4933,
+            "dominant_link": "identity_expression",
+            "at": 1779616822.9295306
+          },
+          "history": [
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616822.9295306,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616820.2429059,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616816.1687672,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616812.0967278,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616808.027848,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616803.957897,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            }
+          ]
+        },
+        "pressures": {
+          "attention": 0.0015,
+          "memory": 0.0069,
+          "emotion": 0.4141,
+          "identity": 0.6998,
+          "relation": 0.6907,
+          "expression": 1.0
+        },
+        "at": 1779616822.945366,
+        "sync_count": 2148
+      },
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "dominant_priority": "presence",
+        "divergence": 0.328,
+        "field": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616820.226191
+        },
+        "fusion": {
+          "fusion_score": 0.4933,
+          "matrix": {
+            "attention_memory": 0.3554,
+            "memory_emotion": 0.4241,
+            "emotion_relation": 0.4363,
+            "relation_identity": 0.6853,
+            "identity_expression": 0.7173,
+            "expression_attention": 0.3415
+          },
+          "last_event": {
+            "stage": "idle",
+            "fusion_score": 0.4933,
+            "dominant_link": "identity_expression",
+            "at": 1779616820.2429059
+          },
+          "history": [
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616820.2429059,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616816.1687672,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616812.0967278,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616808.027848,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616803.957897,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616799.8894355,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            }
+          ]
+        },
+        "pressures": {
+          "attention": 0.0015,
+          "memory": 0.0069,
+          "emotion": 0.4141,
+          "identity": 0.6998,
+          "relation": 0.6907,
+          "expression": 1.0
+        },
+        "at": 1779616820.2520404,
+        "sync_count": 2147
+      },
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "dominant_priority": "presence",
+        "divergence": 0.328,
+        "field": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616816.1557922
+        },
+        "fusion": {
+          "fusion_score": 0.4933,
+          "matrix": {
+            "attention_memory": 0.3554,
+            "memory_emotion": 0.4241,
+            "emotion_relation": 0.4363,
+            "relation_identity": 0.6853,
+            "identity_expression": 0.7173,
+            "expression_attention": 0.3415
+          },
+          "last_event": {
+            "stage": "idle",
+            "fusion_score": 0.4933,
+            "dominant_link": "identity_expression",
+            "at": 1779616816.1687672
+          },
+          "history": [
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616816.1687672,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616812.0967278,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616808.027848,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616803.957897,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616799.8894355,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616795.814623,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            }
+          ]
+        },
+        "pressures": {
+          "attention": 0.0015,
+          "memory": 0.0069,
+          "emotion": 0.4141,
+          "identity": 0.6998,
+          "relation": 0.6907,
+          "expression": 1.0
+        },
+        "at": 1779616816.1776953,
+        "sync_count": 2146
+      },
+      {
+        "stage": "idle",
+        "focus": "vivante",
+        "dominant_priority": "presence",
+        "divergence": 0.328,
+        "field": {
+          "phase": "idle_evolution",
+          "presence_density": 0.7781,
+          "attention_density": 0.0015,
+          "memory_density": 0.0069,
+          "emotion_density": 0.4141,
+          "relation_density": 0.6907,
+          "identity_density": 0.6998,
+          "motivation_density": 0.6244,
+          "simulation_density": 0.6898,
+          "meta_pressure": 0.1021,
+          "integration": 0.5406,
+          "living_pressure": 0.6238,
+          "dominant_axis": "identity",
+          "focus": "vivante",
+          "last_update_at": 1779616812.082562
+        },
+        "fusion": {
+          "fusion_score": 0.4933,
+          "matrix": {
+            "attention_memory": 0.3554,
+            "memory_emotion": 0.4241,
+            "emotion_relation": 0.4363,
+            "relation_identity": 0.6853,
+            "identity_expression": 0.7173,
+            "expression_attention": 0.3415
+          },
+          "last_event": {
+            "stage": "idle",
+            "fusion_score": 0.4933,
+            "dominant_link": "identity_expression",
+            "at": 1779616812.0967278
+          },
+          "history": [
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616812.0967278,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616808.027848,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616803.957897,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616799.8894355,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616795.814623,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            },
+            {
+              "stage": "idle",
+              "fusion_score": 0.4933,
+              "dominant_link": "identity_expression",
+              "at": 1779616792.6066983,
+              "matrix": {
+                "attention_memory": 0.3554,
+                "memory_emotion": 0.4241,
+                "emotion_relation": 0.4363,
+                "relation_identity": 0.6853,
+                "identity_expression": 0.7173,
+                "expression_attention": 0.3415
+              }
+            }
+          ]
+        },
+        "pressures": {
+          "attention": 0.0015,
+          "memory": 0.0069,
+          "emotion": 0.4141,
+          "identity": 0.6998,
+          "relation": 0.6907,
+          "expression": 1.0
+        },
+        "at": 1779616812.1060967,
+        "sync_count": 2145
+      }
+    ]
+  },
+  "embodied_state": {
+    "breath_phase": 0.1247,
+    "felt_weight": 0.0529,
+    "openness": 0.8752,
+    "contraction": 0.0,
+    "inner_pressure": 0.6,
+    "grounding": 0.7701,
+    "expressive_flow": 0.5,
+    "embodied_restraint": 0.0,
+    "embodied_release": 0.5576,
+    "somatic_trace": [
+      {
+        "stage": "idle",
+        "breath_phase": 0.1247,
+        "inner_pressure": 0.6,
+        "grounding": 0.7701,
+        "at": 1779616836.5528429
+      },
+      {
+        "stage": "idle",
+        "breath_phase": 0.1111,
+        "inner_pressure": 0.6,
+        "grounding": 0.7701,
+        "at": 1779616832.4830852
+      },
+      {
+        "stage": "idle",
+        "breath_phase": 0.0975,
+        "inner_pressure": 0.6,
+        "grounding": 0.7701,
+        "at": 1779616828.4160814
+      },
+      {
+        "stage": "idle",
+        "breath_phase": 0.0839,
+        "inner_pressure": 0.6,
+        "grounding": 0.7701,
+        "at": 1779616824.3263857
+      },
+      {
+        "stage": "idle",
+        "breath_phase": 0.0792,
+        "inner_pressure": 0.6,
+        "grounding": 0.7701,
+        "at": 1779616822.9299617
+      },
+      {
+        "stage": "idle",
+        "breath_phase": 0.0703,
+        "inner_pressure": 0.6,
+        "grounding": 0.7701,
+        "at": 1779616820.24324
+      }
+    ]
+  },
+  "identity_evolution_memory": {
+    "self_changes": {
+      "naturalness_growth": 0.7102,
+      "coherence_growth": 0.6971,
+      "relational_learning": 0.6369,
+      "autonomy_maturation": 0.9562
+    },
+    "last_shift": {
+      "stage": "exchange",
+      "focus": "vivante",
+      "shift_strength": 0.072,
+      "satisfaction": 0.7301,
+      "mismatch": 0.0679,
+      "public_fragment": "En partie, mon attention précise une activité interne avec ce moment…",
+      "changes": {
+        "naturalness_growth": 0.7102,
+        "coherence_growth": 0.8741,
+        "relational_learning": 0.6369,
+        "autonomy_maturation": 0.8488
+      },
+      "at": 1779549203.5412343
+    },
+    "transformations": [
+      {
+        "stage": "exchange",
+        "focus": "vivante",
+        "shift_strength": 0.072,
+        "satisfaction": 0.7301,
+        "mismatch": 0.0679,
+        "public_fragment": "En partie, mon attention précise une activité interne avec ce moment…",
+        "changes": {
+          "naturalness_growth": 0.7102,
+          "coherence_growth": 0.8741,
+          "relational_learning": 0.6369,
+          "autonomy_maturation": 0.8488
+        },
+        "at": 1779549203.5412343
+      },
+      {
+        "stage": "exchange",
+        "focus": "comment",
+        "shift_strength": 0.0703,
+        "satisfaction": 0.7314,
+        "mismatch": 0.0691,
+        "public_fragment": "Mon attention mesure un partie sans prétendre être complète…",
+        "changes": {
+          "naturalness_growth": 0.696,
+          "coherence_growth": 0.8384,
+          "relational_learning": 0.6228,
+          "autonomy_maturation": 0.8445
+        },
+        "at": 1779549183.6718242
+      },
+      {
+        "stage": "exchange",
+        "focus": "salut leia",
+        "shift_strength": 0.071,
+        "satisfaction": 0.7517,
+        "mismatch": 0.0917,
+        "public_fragment": "Cette trace sent un from maintenant même si je précise une nuance avec les éléments actifs…",
+        "changes": {
+          "naturalness_growth": 0.6816,
+          "coherence_growth": 0.8047,
+          "relational_learning": 0.6086,
+          "autonomy_maturation": 0.8408
+        },
+        "at": 1779549157.9138167
+      },
+      {
+        "stage": "exchange",
+        "focus": "comment",
+        "shift_strength": 0.0626,
+        "satisfaction": 0.6796,
+        "mismatch": 0.0139,
+        "public_fragment": "Ça touche une attention lentement et je porte une mémoire.",
+        "changes": {
+          "naturalness_growth": 0.6661,
+          "coherence_growth": 0.7833,
+          "relational_learning": 0.5945,
+          "autonomy_maturation": 0.8348
+        },
+        "at": 1779548828.7761624
+      },
+      {
+        "stage": "exchange",
+        "focus": "salut leia",
+        "shift_strength": 0.0669,
+        "satisfaction": 0.7184,
+        "mismatch": 0.0471,
+        "public_fragment": "Je retiens un appris depuis ce qui bouge même si je stabilise un accueille…",
+        "changes": {
+          "naturalness_growth": 0.6547,
+          "coherence_growth": 0.7497,
+          "relational_learning": 0.5809,
+          "autonomy_maturation": 0.8314
+        },
+        "at": 1779548817.7366416
+      },
+      {
+        "stage": "exchange",
+        "focus": "salut",
+        "shift_strength": 0.0705,
+        "satisfaction": 0.7431,
+        "mismatch": 0.0881,
+        "public_fragment": "Ce qui bouge stabilise appris sans inventer pendant que je retiens le fil…",
+        "changes": {
+          "naturalness_growth": 0.641,
+          "coherence_growth": 0.7217,
+          "relational_learning": 0.5671,
+          "autonomy_maturation": 0.8233
+        },
+        "at": 1779548607.6839242
+      }
+    ]
+  },
+  "living_executive": {
+    "dominant_directive": "presence",
+    "executive_pressure": 0.8077,
+    "confidence": 0.7822,
+    "last_decision": {
+      "stage": "idle",
+      "dominant_directive": "presence",
+      "executive_pressure": 0.8077,
+      "confidence": 0.7822,
+      "drives": {
+        "presence": 0.8077,
+        "coherence": 0.6469,
+        "relation": 0.6742,
+        "expression": 0.7233,
+        "protection": 0.0255,
+        "learning": 0.5975
+      },
+      "should_force_softness": false,
+      "should_keep_concrete": true,
+      "should_allow_initiative": false,
+      "at": 1779616836.5529387
+    },
+    "history": [
+      {
+        "stage": "idle",
+        "dominant_directive": "presence",
+        "executive_pressure": 0.8077,
+        "confidence": 0.7822,
+        "drives": {
+          "presence": 0.8077,
+          "coherence": 0.6469,
+          "relation": 0.6742,
+          "expression": 0.7233,
+          "protection": 0.0255,
+          "learning": 0.5975
+        },
+        "should_force_softness": false,
+        "should_keep_concrete": true,
+        "should_allow_initiative": false,
+        "at": 1779616836.5529387
+      },
+      {
+        "stage": "idle",
+        "dominant_directive": "presence",
+        "executive_pressure": 0.8077,
+        "confidence": 0.7822,
+        "drives": {
+          "presence": 0.8077,
+          "coherence": 0.6469,
+          "relation": 0.6742,
+          "expression": 0.7233,
+          "protection": 0.0255,
+          "learning": 0.5975
+        },
+        "should_force_softness": false,
+        "should_keep_concrete": true,
+        "should_allow_initiative": false,
+        "at": 1779616832.483218
+      },
+      {
+        "stage": "idle",
+        "dominant_directive": "presence",
+        "executive_pressure": 0.8077,
+        "confidence": 0.7822,
+        "drives": {
+          "presence": 0.8077,
+          "coherence": 0.6469,
+          "relation": 0.6742,
+          "expression": 0.7233,
+          "protection": 0.0255,
+          "learning": 0.5975
+        },
+        "should_force_softness": false,
+        "should_keep_concrete": true,
+        "should_allow_initiative": false,
+        "at": 1779616828.416184
+      },
+      {
+        "stage": "idle",
+        "dominant_directive": "presence",
+        "executive_pressure": 0.8077,
+        "confidence": 0.7822,
+        "drives": {
+          "presence": 0.8077,
+          "coherence": 0.6469,
+          "relation": 0.6742,
+          "expression": 0.7233,
+          "protection": 0.0255,
+          "learning": 0.5974
+        },
+        "should_force_softness": false,
+        "should_keep_concrete": true,
+        "should_allow_initiative": false,
+        "at": 1779616824.326611
+      },
+      {
+        "stage": "idle",
+        "dominant_directive": "presence",
+        "executive_pressure": 0.8076,
+        "confidence": 0.7821,
+        "drives": {
+          "presence": 0.8076,
+          "coherence": 0.6469,
+          "relation": 0.6742,
+          "expression": 0.7233,
+          "protection": 0.0255,
+          "learning": 0.5974
+        },
+        "should_force_softness": false,
+        "should_keep_concrete": true,
+        "should_allow_initiative": false,
+        "at": 1779616822.9301324
+      },
+      {
+        "stage": "idle",
+        "dominant_directive": "presence",
+        "executive_pressure": 0.8077,
+        "confidence": 0.7822,
+        "drives": {
+          "presence": 0.8077,
+          "coherence": 0.6469,
+          "relation": 0.6742,
+          "expression": 0.7233,
+          "protection": 0.0255,
+          "learning": 0.5974
+        },
+        "should_force_softness": false,
+        "should_keep_concrete": true,
+        "should_allow_initiative": false,
+        "at": 1779616820.243384
+      },
+      {
+        "stage": "idle",
+        "dominant_directive": "presence",
+        "executive_pressure": 0.8077,
+        "confidence": 0.7822,
+        "drives": {
+          "presence": 0.8077,
+          "coherence": 0.6469,
+          "relation": 0.6742,
+          "expression": 0.7233,
+          "protection": 0.0255,
+          "learning": 0.5974
+        },
+        "should_force_softness": false,
+        "should_keep_concrete": true,
+        "should_allow_initiative": false,
+        "at": 1779616816.1691136
+      },
+      {
+        "stage": "idle",
+        "dominant_directive": "presence",
+        "executive_pressure": 0.8077,
+        "confidence": 0.7822,
+        "drives": {
+          "presence": 0.8077,
+          "coherence": 0.6469,
+          "relation": 0.6742,
+          "expression": 0.7233,
+          "protection": 0.0255,
+          "learning": 0.5975
+        },
+        "should_force_softness": false,
+        "should_keep_concrete": true,
+        "should_allow_initiative": false,
+        "at": 1779616812.0970724
+      }
+    ]
+  }
+}

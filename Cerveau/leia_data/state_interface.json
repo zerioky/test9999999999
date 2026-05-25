@@ -1,0 +1,35 @@
+{
+  "champ_emotionnel": {
+    "valence": 0.0,
+    "arousal": 0.2999,
+    "tension": 0.0,
+    "resonance": 0.0,
+    "ouverture": 0.6,
+    "fatigue": 0.0,
+    "tonalite": "neutre"
+  },
+  "activations_associatives": {},
+  "attracteurs": {},
+  "profondeurs": {
+    "salut": 1.0,
+    "leia": 1.0,
+    "createur": 0.05
+  },
+  "pression": {
+    "total": 0.0003,
+    "tension_non_resolue": 0.0,
+    "impulsion_conceptuelle": 0.0013,
+    "charge_relationnelle": 0.0,
+    "curiosite_active": 0.0,
+    "momentum_expressif": 0.0
+  },
+  "themes_obsedants": {
+    "salut": 229,
+    "leia": 229,
+    "createur": 1
+  },
+  "questions_flottantes": [],
+  "n_perceptions": 2,
+  "n_lectures": 0,
+  "cycle_count": 459
+}
