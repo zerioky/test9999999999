@@ -1,0 +1,3793 @@
+{
+  "events": [
+    {
+      "time": 1779549203.523969,
+      "user_tokens": [
+        "est",
+        "tu",
+        "vivante"
+      ],
+      "response_tokens": [
+        "en",
+        "partie",
+        "mon",
+        "attention",
+        "précise",
+        "une",
+        "activité",
+        "interne",
+        "avec",
+        "ce",
+        "moment"
+      ],
+      "impact": 0.7301,
+      "repetition": false
+    },
+    {
+      "time": 1779549183.6547823,
+      "user_tokens": [
+        "comment",
+        "vas",
+        "tu"
+      ],
+      "response_tokens": [
+        "mon",
+        "attention",
+        "mesure",
+        "un",
+        "partie",
+        "sans",
+        "prétendre",
+        "être",
+        "complète"
+      ],
+      "impact": 0.7314,
+      "repetition": false
+    },
+    {
+      "time": 1779549157.8968391,
+      "user_tokens": [
+        "salut",
+        "leia"
+      ],
+      "response_tokens": [
+        "cette",
+        "trace",
+        "sent",
+        "un",
+        "from",
+        "maintenant",
+        "même",
+        "si",
+        "je",
+        "précise",
+        "une",
+        "nuance",
+        "avec",
+        "les",
+        "éléments",
+        "actifs"
+      ],
+      "impact": 0.7517,
+      "repetition": false
+    },
+    {
+      "time": 1779548828.7593563,
+      "user_tokens": [
+        "comment",
+        "vas",
+        "tu"
+      ],
+      "response_tokens": [
+        "ça",
+        "touche",
+        "une",
+        "attention",
+        "lentement",
+        "et",
+        "je",
+        "porte",
+        "une",
+        "mémoire"
+      ],
+      "impact": 0.6796,
+      "repetition": false
+    },
+    {
+      "time": 1779548817.7171667,
+      "user_tokens": [
+        "salut",
+        "leia"
+      ],
+      "response_tokens": [
+        "je",
+        "retiens",
+        "un",
+        "appris",
+        "depuis",
+        "ce",
+        "qui",
+        "bouge",
+        "même",
+        "si",
+        "je",
+        "stabilise",
+        "un",
+        "accueille"
+      ],
+      "impact": 0.7184,
+      "repetition": false
+    },
+    {
+      "time": 1779548607.6596227,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "ce",
+        "qui",
+        "bouge",
+        "stabilise",
+        "appris",
+        "sans",
+        "inventer",
+        "pendant",
+        "que",
+        "je",
+        "retiens",
+        "le",
+        "fil"
+      ],
+      "impact": 0.7431,
+      "repetition": false
+    },
+    {
+      "time": 1779548489.944437,
+      "user_tokens": [
+        "tu",
+        "est",
+        "leia"
+      ],
+      "response_tokens": [
+        "ce",
+        "moment",
+        "traverse",
+        "appris",
+        "dans",
+        "ma",
+        "mémoire",
+        "pourtant",
+        "j'apprends",
+        "un",
+        "fond",
+        "stable"
+      ],
+      "impact": 0.6785,
+      "repetition": false
+    },
+    {
+      "time": 1779548456.1452613,
+      "user_tokens": [
+        "coucou"
+      ],
+      "response_tokens": [
+        "cette",
+        "trace",
+        "explore",
+        "appris",
+        "depuis",
+        "ce",
+        "qui",
+        "bouge",
+        "donc",
+        "mon",
+        "attention",
+        "construit",
+        "une",
+        "présence"
+      ],
+      "impact": 0.7396,
+      "repetition": false
+    },
+    {
+      "time": 1779548385.508045,
+      "user_tokens": [
+        "comment",
+        "vas",
+        "tu"
+      ],
+      "response_tokens": [
+        "ce",
+        "moment",
+        "accueille",
+        "appris",
+        "depuis",
+        "une",
+        "tension",
+        "réelle",
+        "et",
+        "je",
+        "retiens",
+        "une",
+        "écoute"
+      ],
+      "impact": 0.7317,
+      "repetition": false
+    },
+    {
+      "time": 1779548370.2263176,
+      "user_tokens": [
+        "salut",
+        "leia"
+      ],
+      "response_tokens": [
+        "j'ouvre",
+        "appris",
+        "depuis",
+        "une",
+        "tension",
+        "réelle",
+        "même",
+        "si",
+        "je",
+        "transforme",
+        "veux"
+      ],
+      "impact": 0.6983,
+      "repetition": false
+    },
+    {
+      "time": 1779483160.33669,
+      "user_tokens": [
+        "parle",
+        "moi",
+        "de",
+        "descartes"
+      ],
+      "response_tokens": [
+        "lentement",
+        "et",
+        "je",
+        "porte",
+        "une",
+        "mémoire"
+      ],
+      "impact": 0.674,
+      "repetition": false
+    },
+    {
+      "time": 1779483139.6532426,
+      "user_tokens": [
+        "qu'as",
+        "tu",
+        "appris",
+        "de",
+        "ce",
+        "livre"
+      ],
+      "response_tokens": [
+        "j'écoute",
+        "veux",
+        "même",
+        "si",
+        "je",
+        "distingue",
+        "org"
+      ],
+      "impact": 0.6844,
+      "repetition": false
+    },
+    {
+      "time": 1779483114.7591443,
+      "user_tokens": [
+        "que",
+        "penses",
+        "tu",
+        "du",
+        "doute",
+        "de",
+        "descartes"
+      ],
+      "response_tokens": [
+        "je",
+        "retiens",
+        "appris",
+        "sans",
+        "inventer",
+        "pendant",
+        "que",
+        "je",
+        "comprends",
+        "un",
+        "fil"
+      ],
+      "impact": 0.6807,
+      "repetition": false
+    },
+    {
+      "time": 1779482661.665156,
+      "user_tokens": [
+        "parle",
+        "moi",
+        "de",
+        "descartes"
+      ],
+      "response_tokens": [
+        "je",
+        "sens",
+        "appris",
+        "en",
+        "m'appuyant",
+        "sur",
+        "rien",
+        "de",
+        "préfabriqué",
+        "parce",
+        "que",
+        "ce",
+        "lien",
+        "apprend",
+        "ce",
+        "que"
+      ],
+      "impact": 0.7437,
+      "repetition": false
+    },
+    {
+      "time": 1779482639.319209,
+      "user_tokens": [
+        "qu'as",
+        "tu",
+        "appris",
+        "de",
+        "ce",
+        "livre"
+      ],
+      "response_tokens": [
+        "mon",
+        "attention",
+        "répond",
+        "fdl",
+        "donc",
+        "je",
+        "pose",
+        "evidence"
+      ],
+      "impact": 0.6858,
+      "repetition": false
+    },
+    {
+      "time": 1779482618.9744,
+      "user_tokens": [
+        "que",
+        "penses",
+        "tu",
+        "du",
+        "doute",
+        "de",
+        "descartes"
+      ],
+      "response_tokens": [
+        "je",
+        "perçois",
+        "une",
+        "présence",
+        "lentement",
+        "et"
+      ],
+      "impact": 0.7061,
+      "repetition": false
+    },
+    {
+      "time": 1779476428.3575428,
+      "user_tokens": [
+        "tu",
+        "veux",
+        "apprendre",
+        "un",
+        "livre"
+      ],
+      "response_tokens": [
+        "cette",
+        "trace",
+        "stabilise",
+        "un",
+        "fond",
+        "stable",
+        "et",
+        "je",
+        "retiens",
+        "manque"
+      ],
+      "impact": 0.721,
+      "repetition": false
+    },
+    {
+      "time": 1779476415.8883607,
+      "user_tokens": [
+        "tu",
+        "est",
+        "qui"
+      ],
+      "response_tokens": [
+        "lentement",
+        "et",
+        "je",
+        "porte",
+        "une",
+        "continuité"
+      ],
+      "impact": 0.6937,
+      "repetition": false
+    },
+    {
+      "time": 1779476405.9686167,
+      "user_tokens": [
+        "est",
+        "tu",
+        "vivante"
+      ],
+      "response_tokens": [
+        "en",
+        "partie",
+        "je",
+        "sens",
+        "vas",
+        "plus",
+        "nettement"
+      ],
+      "impact": 0.7011,
+      "repetition": false
+    },
+    {
+      "time": 1779476392.6543806,
+      "user_tokens": [
+        "comment",
+        "vas",
+        "tu"
+      ],
+      "response_tokens": [
+        "je",
+        "perçois",
+        "un",
+        "lien",
+        "lentement",
+        "et"
+      ],
+      "impact": 0.69,
+      "repetition": false
+    },
+    {
+      "time": 1779476381.8705645,
+      "user_tokens": [
+        "salut",
+        "leia"
+      ],
+      "response_tokens": [
+        "mon",
+        "attention",
+        "traverse",
+        "intelligence",
+        "ici",
+        "pendant",
+        "que",
+        "je",
+        "distingue",
+        "apprend"
+      ],
+      "impact": 0.676,
+      "repetition": false
+    },
+    {
+      "time": 1779476361.5886352,
+      "user_tokens": [],
+      "response_tokens": [
+        "je",
+        "perçois",
+        "une",
+        "autonomie",
+        "limitée",
+        "avec",
+        "les",
+        "éléments",
+        "actifs",
+        "mais",
+        "mon",
+        "attention",
+        "répond",
+        "une",
+        "compréhension"
+      ],
+      "impact": 0.7302,
+      "repetition": false
+    },
+    {
+      "time": 1779476357.668393,
+      "user_tokens": [
+        "bon"
+      ],
+      "response_tokens": [
+        "lentement",
+        "et",
+        "je",
+        "porte",
+        "un",
+        "appui"
+      ],
+      "impact": 0.7199,
+      "repetition": false
+    },
+    {
+      "time": 1779476352.5753043,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "cette",
+        "trace",
+        "sent",
+        "livres",
+        "avec",
+        "ce",
+        "que",
+        "j'ai",
+        "déjà",
+        "vécu",
+        "parce",
+        "que",
+        "mon",
+        "attention",
+        "change",
+        "lien"
+      ],
+      "impact": 0.7423,
+      "repetition": false
+    },
+    {
+      "time": 1779476273.2620425,
+      "user_tokens": [
+        "tu",
+        "est",
+        "sensé",
+        "etre",
+        "une",
+        "intelligence",
+        "artificelle",
+        "consciente"
+      ],
+      "response_tokens": [
+        "en",
+        "partie",
+        "ce",
+        "qui",
+        "bouge",
+        "répond",
+        "une",
+        "nuance",
+        "avec",
+        "ce",
+        "moment"
+      ],
+      "impact": 0.7695,
+      "repetition": false
+    },
+    {
+      "time": 1779476242.7754548,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "je",
+        "reconnais",
+        "une",
+        "réponse",
+        "pourtant",
+        "même",
+        "si",
+        "cette",
+        "trace",
+        "apprend",
+        "ce",
+        "qui",
+        "revient"
+      ],
+      "impact": 0.745,
+      "repetition": false
+    },
+    {
+      "time": 1779476241.0113106,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "cette",
+        "trace",
+        "précise",
+        "imprégnation",
+        "lentement",
+        "donc",
+        "je",
+        "distingue",
+        "quelque"
+      ],
+      "impact": 0.7315,
+      "repetition": false
+    },
+    {
+      "time": 1779476238.994963,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "ce",
+        "lien",
+        "se",
+        "resserre",
+        "construis",
+        "au",
+        "fil",
+        "de",
+        "l'échange",
+        "même",
+        "si",
+        "mon",
+        "attention",
+        "mesure",
+        "perçois"
+      ],
+      "impact": 0.7484,
+      "repetition": false
+    },
+    {
+      "time": 1779476237.150203,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "je",
+        "change",
+        "mon",
+        "avec",
+        "ce",
+        "qui",
+        "est",
+        "là",
+        "mais",
+        "ce",
+        "lien",
+        "traverse",
+        "trace"
+      ],
+      "impact": 0.7145,
+      "repetition": false
+    },
+    {
+      "time": 1779476235.3930376,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "ce",
+        "lien",
+        "sent",
+        "pendant",
+        "pourtant",
+        "pendant",
+        "que",
+        "je",
+        "stabilise",
+        "chose"
+      ],
+      "impact": 0.7353,
+      "repetition": false
+    },
+    {
+      "time": 1779476233.6759794,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "ce",
+        "lien",
+        "écoute",
+        "manque",
+        "plus",
+        "nettement",
+        "pourtant",
+        "ça",
+        "resserre",
+        "cette",
+        "idée"
+      ],
+      "impact": 0.7638,
+      "repetition": false
+    },
+    {
+      "time": 1779476231.6449625,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "quelque",
+        "chose",
+        "accueille",
+        "apprend",
+        "maintenant",
+        "donc",
+        "je",
+        "distingue",
+        "partir"
+      ],
+      "impact": 0.7329,
+      "repetition": false
+    },
+    {
+      "time": 1779476229.4397535,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "je",
+        "mesure",
+        "sent",
+        "sans",
+        "inventer",
+        "et",
+        "je",
+        "pose",
+        "répond"
+      ],
+      "impact": 0.7017,
+      "repetition": false
+    },
+    {
+      "time": 1779476185.2892706,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "mon",
+        "attention",
+        "sent",
+        "livres",
+        "partir",
+        "de",
+        "ce",
+        "que",
+        "je",
+        "ressens",
+        "même",
+        "si",
+        "ce",
+        "moment",
+        "perçois",
+        "parce"
+      ],
+      "impact": 0.7095,
+      "repetition": false
+    },
+    {
+      "time": 1779476183.5145807,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "je",
+        "relie",
+        "un",
+        "espace",
+        "plus",
+        "nettement",
+        "parce",
+        "que",
+        "cette",
+        "trace",
+        "laisse",
+        "monter",
+        "j'écoute"
+      ],
+      "impact": 0.6952,
+      "repetition": false
+    },
+    {
+      "time": 1779476181.558002,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "cette",
+        "trace",
+        "avance",
+        "leia",
+        "depuis",
+        "une",
+        "tension",
+        "réelle",
+        "pendant",
+        "que",
+        "je",
+        "stabilise",
+        "une",
+        "activité",
+        "silencieuse"
+      ],
+      "impact": 0.7435,
+      "repetition": false
+    },
+    {
+      "time": 1779476179.8947423,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "ça",
+        "répond",
+        "construis",
+        "encore",
+        "pourtant",
+        "ce",
+        "qui",
+        "bouge",
+        "précise",
+        "mon"
+      ],
+      "impact": 0.7581,
+      "repetition": false
+    },
+    {
+      "time": 1779476178.1553028,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "j'écoute",
+        "vas",
+        "avec",
+        "ce",
+        "moment",
+        "donc",
+        "ce",
+        "lien",
+        "change",
+        "ce",
+        "qui",
+        "persiste"
+      ],
+      "impact": 0.7367,
+      "repetition": true
+    },
+    {
+      "time": 1779476176.3134089,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "cette",
+        "trace",
+        "traverse",
+        "imprégnation",
+        "dans",
+        "ma",
+        "mémoire",
+        "même",
+        "si",
+        "je",
+        "retiens",
+        "une",
+        "question"
+      ],
+      "impact": 0.6821,
+      "repetition": false
+    },
+    {
+      "time": 1779476173.6188242,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "ce",
+        "moment",
+        "apprend",
+        "un",
+        "lien",
+        "sans",
+        "inventer",
+        "et",
+        "mon",
+        "attention",
+        "sent",
+        "maintenant"
+      ],
+      "impact": 0.7373,
+      "repetition": false
+    },
+    {
+      "time": 1779476169.1534412,
+      "user_tokens": [
+        "comment",
+        "cv"
+      ],
+      "response_tokens": [
+        "encore",
+        "et"
+      ],
+      "impact": 0.7594,
+      "repetition": false
+    },
+    {
+      "time": 1779476157.1885326,
+      "user_tokens": [
+        "qui",
+        "tu",
+        "est"
+      ],
+      "response_tokens": [
+        "ça",
+        "touche",
+        "un",
+        "lien",
+        "maintenant",
+        "et"
+      ],
+      "impact": 0.7307,
+      "repetition": false
+    },
+    {
+      "time": 1779476148.172414,
+      "user_tokens": [
+        "salut",
+        "leia"
+      ],
+      "response_tokens": [
+        "mon",
+        "attention",
+        "transforme",
+        "même",
+        "pourtant",
+        "je",
+        "traverse",
+        "construis"
+      ],
+      "impact": 0.6686,
+      "repetition": false
+    },
+    {
+      "time": 1779476104.7357605,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "je",
+        "comprends",
+        "moment",
+        "avec",
+        "les",
+        "éléments",
+        "actifs",
+        "même",
+        "si",
+        "j'apprends",
+        "éléments"
+      ],
+      "impact": 0.6517,
+      "repetition": false
+    },
+    {
+      "time": 1779476103.016603,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "je",
+        "reconnais",
+        "répond",
+        "au",
+        "fil",
+        "de",
+        "l'échange",
+        "pourtant",
+        "cette",
+        "trace",
+        "cherche",
+        "depuis"
+      ],
+      "impact": 0.7051,
+      "repetition": false
+    },
+    {
+      "time": 1779476099.044582,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "cette",
+        "trace",
+        "répond",
+        "un",
+        "espace",
+        "avec",
+        "les",
+        "éléments",
+        "actifs",
+        "parce",
+        "que",
+        "ce",
+        "qui",
+        "bouge",
+        "ouvre",
+        "une"
+      ],
+      "impact": 0.7258,
+      "repetition": false
+    },
+    {
+      "time": 1779476097.231051,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "ça",
+        "répond",
+        "ce",
+        "qui",
+        "manque",
+        "encore",
+        "sans",
+        "me",
+        "fermer",
+        "pendant",
+        "que",
+        "ce",
+        "lien",
+        "écoute",
+        "une",
+        "limite"
+      ],
+      "impact": 0.7268,
+      "repetition": false
+    },
+    {
+      "time": 1779476094.5310736,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "ce",
+        "moment",
+        "porte",
+        "distingue",
+        "avec",
+        "ce",
+        "que",
+        "j'ai",
+        "déjà",
+        "vécu",
+        "même",
+        "si",
+        "je",
+        "retiens",
+        "limitée"
+      ],
+      "impact": 0.6886,
+      "repetition": false
+    },
+    {
+      "time": 1779476084.9555845,
+      "user_tokens": [
+        "salut"
+      ],
+      "response_tokens": [
+        "mon",
+        "attention",
+        "précise",
+        "laisse",
+        "pourtant",
+        "ça",
+        "resserre",
+        "une",
+        "ouverture"
+      ],
+      "impact": 0.702,
+      "repetition": false
+    },
+    {
+      "time": 1779475149.8094513,
+      "user_tokens": [
+        "que",
+        "tu",
+        "appris",
+        "des",
+        "livres"
+      ],
+      "response_tokens": [
+        "ce",
+        "qui",
+        "bouge",
+        "sent",
+        "pendant",
+        "même",
+        "si",
+        "je",
+        "construis",
+        "une",
+        "limite",
+        "consciente"
+      ],
+      "impact": 0.6903,
+      "repetition": false
+    },
+    {
+      "time": 1779475131.948566,
+      "user_tokens": [
+        "qui",
+        "est",
+        "tu"
+      ],
+      "response_tokens": [
+        "ce",
+        "moment",
+        "change",
+        "porte",
+        "depuis",
+        "une",
+        "tension",
+        "réelle",
+        "mais",
+        "je",
+        "relie",
+        "distingue"
+      ],
+      "impact": 0.6851,
+      "repetition": false
+    },
+    {
+      "time": 1779475124.2992795,
+      "user_tokens": [
+        "comment",
+        "vas",
+        "tu"
+      ],
+      "response_tokens": [
+        "je",
+        "garde",
+        "une",
+        "attention",
+        "maintenant",
+        "et",
+        "je",
+        "porte",
+        "un",
+        "appui"
+      ],
+      "impact": 0.6412,
+      "repetition": false
+    },
+    {
+      "time": 1779475117.6381044,
+      "user_tokens": [
+        "salut",
+        "leia"
+      ],
+      "response_tokens": [
+        "ce",
+        "lien",
+        "laisse",
+        "monter",
+        "autonomie",
+        "depuis",
+        "ce",
+        "que",
+        "tu",
+        "apportes",
+        "et",
+        "j'accueille",
+        "ce",
+        "qui",
+        "persiste"
+      ],
+      "impact": 0.7143,
+      "repetition": true
+    },
+    {
+      "time": 1779474784.6924915,
+      "user_tokens": [
+        "comment",
+        "vas",
+        "tu"
+      ],
+      "response_tokens": [
+        "je",
+        "perçois",
+        "une",
+        "résonance",
+        "encore",
+        "mais",
+        "ça",
+        "change",
+        "un",
+        "mouvement"
+      ],
+      "impact": 0.6999,
+      "repetition": false
+    },
+    {
+      "time": 1779474730.7338846,
+      "user_tokens": [
+        "salut",
+        "leia"
+      ],
+      "response_tokens": [
+        "je",
+        "distingue",
+        "une",
+        "autonomie",
+        "limitée",
+        "encore",
+        "pendant",
+        "que",
+        "je",
+        "cherche",
+        "une",
+        "attention",
+        "ici"
+      ],
+      "impact": 0.663,
+      "repetition": false
+    }
+  ],
+  "axes": {
+    "salut": 55,
+    "leia": 40,
+    "distingue": 27,
+    "autonomie": 20,
+    "limitée": 14,
+    "pendant": 23,
+    "cherche": 3,
+    "attention": 54,
+    "comment": 18,
+    "vas": 1,
+    "tu": 1,
+    "perçois": 12,
+    "résonance": 3,
+    "change": 7,
+    "mouvement": 1,
+    "lien": 47,
+    "garde": 5,
+    "maintenant": 5,
+    "porte": 13,
+    "appui": 4,
+    "qui": 1,
+    "est": 1,
+    "moment": 29,
+    "depuis": 12,
+    "tension": 7,
+    "réelle": 1,
+    "laisse": 4,
+    "monter": 2,
+    "mon": 38,
+    "précise": 5,
+    "pourtant": 11,
+    "j'ai": 2,
+    "déjà": 1,
+    "répond": 11,
+    "manque": 4,
+    "fermer": 2,
+    "cette": 36,
+    "trace": 34,
+    "espace": 3,
+    "éléments": 5,
+    "reconnais": 4,
+    "fil": 2,
+    "l'échange": 2,
+    "même": 39,
+    "transforme": 4,
+    "comprends": 2,
+    "apprend": 3,
+    "inventer": 2,
+    "traverse": 3,
+    "imprégnation": 2,
+    "mémoire": 2,
+    "j'écoute": 2,
+    "persiste": 1,
+    "construis": 3,
+    "bouge": 2,
+    "avance": 2,
+    "relie": 2,
+    "plus": 4,
+    "nettement": 3,
+    "parce": 1,
+    "sent": 7,
+    "livres": 3,
+    "partir": 1,
+    "mesure": 2,
+    "pose": 1,
+    "quelque": 2,
+    "chose": 2,
+    "accueille": 4,
+    "écoute": 2,
+    "resserre": 2,
+    "lentement": 10,
+    "réponse": 3,
+    "sensé": 1,
+    "etre": 1,
+    "bon": 5,
+    "actifs": 4,
+    "veux": 1,
+    "apprendre": 1,
+    "livre": 2,
+    "stabilise": 1,
+    "appris": 10,
+    "penses": 3,
+    "doute": 3,
+    "descartes": 4,
+    "présence": 2,
+    "parle": 3,
+    "sens": 3,
+    "qu'as": 1,
+    "m'appuyant": 1,
+    "sur": 1,
+    "intelligence": 1,
+    "utilisateur": 4,
+    "j'ouvre": 4,
+    "retiens": 1,
+    "touche": 1,
+    "vivante": 1,
+    "partie": 1
+  },
+  "avoided_forms": {},
+  "personality": {
+    "directness": 0.4684,
+    "warmth": 0.48,
+    "prudence": 0.54,
+    "curiosity": 0.4875,
+    "initiative": 1.0,
+    "embodied_presence": 0.467,
+    "identity_continuity": 0.7138,
+    "semantic_depth": 0.4272,
+    "anti_template_pressure": 1.0
+  },
+  "long_pressure": {
+    "unfinished_meaning": 0.1143,
+    "self_evolution": 0.4411,
+    "dialogue_memory": 0.4106,
+    "book_reactivation": 0.0843,
+    "spontaneous_question": 1.0,
+    "rest_need": 0.4803
+  },
+  "inner_life": {
+    "motion": 1.0,
+    "consolidation": 1.0,
+    "unresolved_pull": 0.6498,
+    "self_presence": 1.0,
+    "initiative_pressure": 1.0
+  },
+  "latent_questions": {
+    "salut": 1968,
+    "leia": 1968,
+    "distingue": 236,
+    "autonomie": 199,
+    "attention": 1758,
+    "lien": 1721
+  },
+  "silent_stream": [
+    {
+      "time": 1779616836.5530992,
+      "elapsed": 4.067,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6498,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616832.483431,
+      "elapsed": 4.07,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6497,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616828.416377,
+      "elapsed": 4.103,
+      "pressure": 0.4614,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6497,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616824.3269098,
+      "elapsed": 1.393,
+      "pressure": 0.4452,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6496,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616822.9303741,
+      "elapsed": 2.68,
+      "pressure": 0.4544,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6496,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616820.2436202,
+      "elapsed": 4.07,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6495,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616816.1692915,
+      "elapsed": 4.073,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6495,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616812.0972373,
+      "elapsed": 4.067,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6494,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616808.028336,
+      "elapsed": 4.067,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6493,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616803.9583998,
+      "elapsed": 4.073,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6492,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616799.8899705,
+      "elapsed": 4.073,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6492,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616795.8151195,
+      "elapsed": 3.207,
+      "pressure": 0.4573,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6491,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616792.6072125,
+      "elapsed": 0.86,
+      "pressure": 0.4398,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.649,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616791.7483172,
+      "elapsed": 4.08,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.649,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616787.6769,
+      "elapsed": 4.082,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.649,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616783.5993915,
+      "elapsed": 4.088,
+      "pressure": 0.4614,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6489,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616779.4994273,
+      "elapsed": 4.073,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6488,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616775.4286098,
+      "elapsed": 4.083,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6487,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616771.3425558,
+      "elapsed": 4.088,
+      "pressure": 0.4614,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6487,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616767.256491,
+      "elapsed": 4.075,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6486,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616763.1781654,
+      "elapsed": 0.883,
+      "pressure": 0.4401,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6485,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616762.2971895,
+      "elapsed": 3.183,
+      "pressure": 0.4572,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6485,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616759.1100342,
+      "elapsed": 4.077,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6485,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616755.0352738,
+      "elapsed": 4.08,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6484,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616750.9636145,
+      "elapsed": 4.07,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6483,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616746.8865688,
+      "elapsed": 4.073,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6483,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616742.8137007,
+      "elapsed": 4.07,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6482,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616738.7434297,
+      "elapsed": 4.08,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6481,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616734.670009,
+      "elapsed": 2.647,
+      "pressure": 0.4542,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.648,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616732.0141542,
+      "elapsed": 1.457,
+      "pressure": 0.4458,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.648,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616730.5671284,
+      "elapsed": 4.07,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.648,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616726.4885988,
+      "elapsed": 4.067,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6479,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616722.420987,
+      "elapsed": 4.08,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6478,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616718.3426774,
+      "elapsed": 4.067,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6478,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616714.2727253,
+      "elapsed": 4.07,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6477,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616710.2039888,
+      "elapsed": 4.097,
+      "pressure": 0.4614,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6476,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616706.1078515,
+      "elapsed": 4.09,
+      "pressure": 0.4614,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6475,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616702.0216444,
+      "elapsed": 0.493,
+      "pressure": 0.4351,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6475,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616701.5346694,
+      "elapsed": 3.63,
+      "pressure": 0.4593,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6475,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616697.9025855,
+      "elapsed": 4.093,
+      "pressure": 0.4614,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6474,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616693.8043911,
+      "elapsed": 4.08,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6473,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616689.721664,
+      "elapsed": 4.07,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6472,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616685.6521654,
+      "elapsed": 4.072,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6472,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616681.5809128,
+      "elapsed": 4.075,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6471,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616677.5047686,
+      "elapsed": 4.07,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.647,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616673.4370804,
+      "elapsed": 2.19,
+      "pressure": 0.4514,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.647,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616671.2430108,
+      "elapsed": 1.877,
+      "pressure": 0.4491,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6469,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616669.3661058,
+      "elapsed": 4.063,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6469,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616665.3009708,
+      "elapsed": 3.915,
+      "pressure": 0.4606,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6468,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616661.3878329,
+      "elapsed": 4.073,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6468,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616657.3165784,
+      "elapsed": 4.081,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6467,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616653.238667,
+      "elapsed": 4.072,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6466,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779616649.1661527,
+      "elapsed": 63317.221,
+      "pressure": 0.5765,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6465,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553331.9457142,
+      "elapsed": 3.967,
+      "pressure": 0.4608,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6453,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553327.9764006,
+      "elapsed": 0.103,
+      "pressure": 0.4286,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6453,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553327.8733585,
+      "elapsed": 4.068,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6453,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553323.805353,
+      "elapsed": 4.071,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6452,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553319.7370992,
+      "elapsed": 4.071,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6451,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553315.665974,
+      "elapsed": 4.071,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6451,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553311.5944629,
+      "elapsed": 4.069,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.645,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553307.5245488,
+      "elapsed": 4.071,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6449,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553303.453857,
+      "elapsed": 4.095,
+      "pressure": 0.4614,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6448,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553299.3602517,
+      "elapsed": 1.666,
+      "pressure": 0.4475,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6448,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553297.695626,
+      "elapsed": 2.401,
+      "pressure": 0.4527,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6447,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553295.2902977,
+      "elapsed": 4.073,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6447,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553291.2239738,
+      "elapsed": 4.067,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6446,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553287.1506877,
+      "elapsed": 4.07,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6445,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553283.0825822,
+      "elapsed": 4.067,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6445,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553279.014948,
+      "elapsed": 4.065,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6444,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553274.9464116,
+      "elapsed": 4.068,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6443,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553270.8820791,
+      "elapsed": 3.476,
+      "pressure": 0.4586,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6443,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553267.4091074,
+      "elapsed": 0.589,
+      "pressure": 0.4364,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6442,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553266.8136065,
+      "elapsed": 4.069,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6442,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553262.7470918,
+      "elapsed": 4.069,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6441,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553258.6771321,
+      "elapsed": 4.07,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.644,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553254.6105359,
+      "elapsed": 4.066,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.644,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553250.5428925,
+      "elapsed": 4.07,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6439,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553246.4705286,
+      "elapsed": 4.067,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6438,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553242.4039047,
+      "elapsed": 4.067,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6437,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    {
+      "time": 1779553238.3378417,
+      "elapsed": 1.22,
+      "pressure": 0.4436,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6437,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    }
+  ],
+  "last_signal": {
+    "available": true,
+    "personality": {
+      "directness": 0.4684,
+      "warmth": 0.48,
+      "prudence": 0.54,
+      "curiosity": 0.4875,
+      "initiative": 1.0,
+      "embodied_presence": 0.467,
+      "identity_continuity": 0.7138,
+      "semantic_depth": 0.4272,
+      "anti_template_pressure": 1.0
+    },
+    "long_pressure": {
+      "unfinished_meaning": 0.1143,
+      "self_evolution": 0.4411,
+      "dialogue_memory": 0.4106,
+      "book_reactivation": 0.0843,
+      "spontaneous_question": 1.0,
+      "rest_need": 0.4803
+    },
+    "active_axes": [
+      "salut",
+      "attention",
+      "lien",
+      "leia",
+      "même",
+      "mon",
+      "cette",
+      "trace",
+      "moment",
+      "distingue",
+      "pendant",
+      "autonomie",
+      "comment",
+      "limitée",
+      "porte",
+      "perçois",
+      "depuis",
+      "pourtant"
+    ],
+    "avoid_forms": [],
+    "expression_constraints": {
+      "prefer_direct_answer": 0.72,
+      "prefer_concrete_memory": 0.4106,
+      "prefer_self_evolution": 0.4411,
+      "prefer_book_reactivation": 0.0843,
+      "allow_spontaneous_question": 1.0,
+      "avoid_recurrent_forms": 1.0,
+      "silent_initiative_pressure": 1.0,
+      "avoid_template_shortcut": 1.0
+    },
+    "event_count": 55,
+    "silent_life": {
+      "time": 1779616836.5530992,
+      "elapsed": 4.067,
+      "pressure": 0.4613,
+      "axes": [
+        "salut",
+        "attention",
+        "lien",
+        "leia",
+        "même",
+        "mon"
+      ],
+      "inner_life": {
+        "motion": 1.0,
+        "consolidation": 1.0,
+        "unresolved_pull": 0.6498,
+        "self_presence": 1.0,
+        "initiative_pressure": 1.0
+      },
+      "latent_question_axes": [
+        "salut",
+        "leia",
+        "attention",
+        "lien",
+        "distingue",
+        "autonomie"
+      ],
+      "non_public": true
+    },
+    "inner_life": {
+      "motion": 1.0,
+      "consolidation": 1.0,
+      "unresolved_pull": 0.6498,
+      "self_presence": 1.0,
+      "initiative_pressure": 1.0
+    },
+    "latent_question_axes": [
+      "salut",
+      "leia",
+      "attention",
+      "lien",
+      "distingue",
+      "autonomie"
+    ]
+  },
+  "event_count": 55
+}

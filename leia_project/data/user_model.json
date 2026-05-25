@@ -1,0 +1,260 @@
+{
+  "message_count": 57,
+  "total_words": 214,
+  "philosophical_hits": 0,
+  "affective_hits": 1,
+  "domain_scores": {
+    "philosophie": 0.02,
+    "littérature": 0.0,
+    "sciences": 0.0,
+    "psychologie": 0.0,
+    "art": 0.0,
+    "histoire": 0.0
+  },
+  "question_style_scores": {
+    "socratique": 0.05,
+    "direct": 0.0,
+    "rhétorique": 0.0,
+    "exploratoire": 0.0
+  },
+  "rapport_score": 0.3,
+  "challenge_count": 0,
+  "question_count": 7,
+  "personal_count": 0,
+  "vocab_level": 0.0649,
+  "dominant_domain": "philosophie",
+  "question_style": "socratique",
+  "preferred_length": "short",
+  "vocab_seen": {
+    "salut": 32,
+    "leia": 10,
+    "livre": 6,
+    "appris": 6,
+    "descartes": 5,
+    "qu'as": 4,
+    "veux": 3,
+    "parle": 3,
+    "apprendre": 2,
+    "penses": 2,
+    "doute": 2,
+    "vivante": 2,
+    "livres": 1,
+    "sensé": 1,
+    "etre": 1,
+    "intelligence": 1,
+    "artificelle": 1,
+    "consciente": 1,
+    "tour38": 1,
+    "trace": 1,
+    "stabilise": 1,
+    "fond": 1,
+    "stable": 1,
+    "retiens": 1,
+    "manque": 1,
+    "tour40": 1,
+    "attention": 1,
+    "répond": 1,
+    "pose": 1,
+    "evidence": 1,
+    "tour41": 1,
+    "sens": 1,
+    "m'appuyant": 1,
+    "préfabriqué": 1,
+    "parce": 1,
+    "lien": 1,
+    "apprend": 1,
+    "viens": 1,
+    "d'app": 1,
+    "tour43": 1,
+    "j'écoute": 1,
+    "distingue": 1,
+    "coucou": 1
+  },
+  "history": [
+    {
+      "wc": 3,
+      "phi": 0,
+      "aff": 0,
+      "is_q": false,
+      "ts": 1779476415.214975
+    },
+    {
+      "wc": 5,
+      "phi": 0,
+      "aff": 0,
+      "is_q": true,
+      "ts": 1779476427.7345407
+    },
+    {
+      "wc": 26,
+      "phi": 0,
+      "aff": 1,
+      "is_q": true,
+      "ts": 1779482614.2769716
+    },
+    {
+      "wc": 6,
+      "phi": 0,
+      "aff": 0,
+      "is_q": true,
+      "ts": 1779482634.9401839
+    },
+    {
+      "wc": 22,
+      "phi": 0,
+      "aff": 0,
+      "is_q": true,
+      "ts": 1779482657.1487453
+    },
+    {
+      "wc": 34,
+      "phi": 0,
+      "aff": 0,
+      "is_q": true,
+      "ts": 1779483110.5612257
+    },
+    {
+      "wc": 6,
+      "phi": 0,
+      "aff": 0,
+      "is_q": true,
+      "ts": 1779483135.275309
+    },
+    {
+      "wc": 21,
+      "phi": 0,
+      "aff": 0,
+      "is_q": true,
+      "ts": 1779483155.8777273
+    },
+    {
+      "wc": 2,
+      "phi": 0,
+      "aff": 0,
+      "is_q": false,
+      "ts": 1779548181.1689532
+    },
+    {
+      "wc": 2,
+      "phi": 0,
+      "aff": 0,
+      "is_q": false,
+      "ts": 1779548241.834616
+    },
+    {
+      "wc": 2,
+      "phi": 0,
+      "aff": 0,
+      "is_q": false,
+      "ts": 1779548366.0753896
+    },
+    {
+      "wc": 3,
+      "phi": 0,
+      "aff": 0,
+      "is_q": false,
+      "ts": 1779548381.1697545
+    },
+    {
+      "wc": 1,
+      "phi": 0,
+      "aff": 0,
+      "is_q": false,
+      "ts": 1779548450.8082547
+    },
+    {
+      "wc": 3,
+      "phi": 0,
+      "aff": 0,
+      "is_q": false,
+      "ts": 1779548484.8741484
+    },
+    {
+      "wc": 1,
+      "phi": 0,
+      "aff": 0,
+      "is_q": false,
+      "ts": 1779548602.5161068
+    },
+    {
+      "wc": 2,
+      "phi": 0,
+      "aff": 0,
+      "is_q": false,
+      "ts": 1779548812.7828624
+    },
+    {
+      "wc": 3,
+      "phi": 0,
+      "aff": 0,
+      "is_q": false,
+      "ts": 1779548823.5628123
+    },
+    {
+      "wc": 2,
+      "phi": 0,
+      "aff": 0,
+      "is_q": false,
+      "ts": 1779549152.941644
+    },
+    {
+      "wc": 3,
+      "phi": 0,
+      "aff": 0,
+      "is_q": false,
+      "ts": 1779549178.390745
+    },
+    {
+      "wc": 3,
+      "phi": 0,
+      "aff": 0,
+      "is_q": false,
+      "ts": 1779549199.2244732
+    }
+  ],
+  "affect_window": [
+    0.0,
+    0.0,
+    -0.1,
+    0.0,
+    0.0,
+    -0.2,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    -0.2,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    -0.2,
+    0.0,
+    -0.2,
+    0.0
+  ],
+  "length_window": [
+    3,
+    5,
+    26,
+    6,
+    22,
+    34,
+    6,
+    21,
+    2,
+    2,
+    2,
+    3,
+    1,
+    3,
+    1,
+    2,
+    3,
+    2,
+    3,
+    3
+  ],
+  "timestamp": 1779616836.6201744
+}

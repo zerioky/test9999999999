@@ -1,0 +1,1263 @@
+{
+  "events": [
+    {
+      "time": 1779549203.5163949,
+      "tokens": [
+        "vivante",
+        "partie",
+        "mon",
+        "attention",
+        "précise",
+        "activité",
+        "interne",
+        "moment"
+      ],
+      "impact": 0.1302,
+      "response_len": 69
+    },
+    {
+      "time": 1779549183.647188,
+      "tokens": [
+        "comment",
+        "mon",
+        "attention",
+        "mesure",
+        "partie",
+        "prétendre",
+        "complète"
+      ],
+      "impact": 0.1282,
+      "response_len": 60
+    },
+    {
+      "time": 1779549157.8891933,
+      "tokens": [
+        "salut",
+        "leia",
+        "cette",
+        "trace",
+        "sent",
+        "from",
+        "même",
+        "précise",
+        "nuance",
+        "éléments",
+        "actifs"
+      ],
+      "impact": 0.1263,
+      "response_len": 91
+    },
+    {
+      "time": 1779548828.7515574,
+      "tokens": [
+        "comment",
+        "touche",
+        "attention",
+        "lentement",
+        "porte",
+        "mémoire"
+      ],
+      "impact": 0.126,
+      "response_len": 58
+    },
+    {
+      "time": 1779548817.7050514,
+      "tokens": [
+        "salut",
+        "leia",
+        "retiens",
+        "appris",
+        "depuis",
+        "bouge",
+        "même",
+        "stabilise",
+        "accueille"
+      ],
+      "impact": 0.1264,
+      "response_len": 75
+    },
+    {
+      "time": 1779548607.6521382,
+      "tokens": [
+        "salut",
+        "bouge",
+        "stabilise",
+        "appris",
+        "inventer",
+        "pendant",
+        "retiens",
+        "fil"
+      ],
+      "impact": 0.1284,
+      "response_len": 74
+    },
+    {
+      "time": 1779548489.931417,
+      "tokens": [
+        "leia",
+        "moment",
+        "traverse",
+        "appris",
+        "mémoire",
+        "pourtant",
+        "j'apprends",
+        "fond",
+        "stable"
+      ],
+      "impact": 0.1262,
+      "response_len": 77
+    },
+    {
+      "time": 1779548456.1377337,
+      "tokens": [
+        "coucou",
+        "cette",
+        "trace",
+        "explore",
+        "appris",
+        "depuis",
+        "bouge",
+        "mon",
+        "attention",
+        "construit",
+        "présence"
+      ],
+      "impact": 0.126,
+      "response_len": 89
+    },
+    {
+      "time": 1779548385.5009987,
+      "tokens": [
+        "comment",
+        "moment",
+        "accueille",
+        "appris",
+        "depuis",
+        "tension",
+        "réelle",
+        "retiens",
+        "écoute"
+      ],
+      "impact": 0.1259,
+      "response_len": 78
+    },
+    {
+      "time": 1779548370.218898,
+      "tokens": [
+        "salut",
+        "leia",
+        "j'ouvre",
+        "appris",
+        "depuis",
+        "tension",
+        "réelle",
+        "même",
+        "transforme",
+        "veux"
+      ],
+      "impact": 0.1264,
+      "response_len": 68
+    },
+    {
+      "time": 1779483160.3296669,
+      "tokens": [
+        "parle",
+        "descartes",
+        "lentement",
+        "porte",
+        "mémoire"
+      ],
+      "impact": 0.126,
+      "response_len": 34
+    },
+    {
+      "time": 1779483139.646226,
+      "tokens": [
+        "qu'as",
+        "appris",
+        "livre",
+        "j'écoute",
+        "veux",
+        "même",
+        "distingue",
+        "org"
+      ],
+      "impact": 0.1262,
+      "response_len": 39
+    },
+    {
+      "time": 1779483114.7520268,
+      "tokens": [
+        "penses",
+        "doute",
+        "descartes",
+        "retiens",
+        "appris",
+        "inventer",
+        "pendant",
+        "comprends",
+        "fil"
+      ],
+      "impact": 0.1264,
+      "response_len": 64
+    },
+    {
+      "time": 1779482661.6583507,
+      "tokens": [
+        "parle",
+        "descartes",
+        "sens",
+        "appris",
+        "m'appuyant",
+        "sur",
+        "rien",
+        "préfabriqué",
+        "parce",
+        "lien",
+        "apprend",
+        "viens",
+        "d'apporter"
+      ],
+      "impact": 0.1309,
+      "response_len": 106
+    },
+    {
+      "time": 1779482639.3121512,
+      "tokens": [
+        "qu'as",
+        "appris",
+        "livre",
+        "mon",
+        "attention",
+        "répond",
+        "fdl",
+        "pose",
+        "evidence"
+      ],
+      "impact": 0.131,
+      "response_len": 47
+    },
+    {
+      "time": 1779482618.9677114,
+      "tokens": [
+        "penses",
+        "doute",
+        "descartes",
+        "perçois",
+        "présence",
+        "lentement"
+      ],
+      "impact": 0.1312,
+      "response_len": 37
+    },
+    {
+      "time": 1779476428.3506606,
+      "tokens": [
+        "veux",
+        "apprendre",
+        "livre",
+        "cette",
+        "trace",
+        "stabilise",
+        "fond",
+        "stable",
+        "retiens",
+        "manque"
+      ],
+      "impact": 0.1303,
+      "response_len": 58
+    },
+    {
+      "time": 1779476415.8816967,
+      "tokens": [
+        "lentement",
+        "porte",
+        "continuité"
+      ],
+      "impact": 0.1295,
+      "response_len": 37
+    },
+    {
+      "time": 1779476405.9618404,
+      "tokens": [
+        "vivante",
+        "partie",
+        "sens",
+        "plus",
+        "nettement"
+      ],
+      "impact": 0.1284,
+      "response_len": 38
+    },
+    {
+      "time": 1779476392.648027,
+      "tokens": [
+        "comment",
+        "perçois",
+        "lien",
+        "lentement"
+      ],
+      "impact": 0.1277,
+      "response_len": 32
+    },
+    {
+      "time": 1779476381.8641303,
+      "tokens": [
+        "salut",
+        "leia",
+        "mon",
+        "attention",
+        "traverse",
+        "intelligence",
+        "ici",
+        "pendant",
+        "distingue",
+        "apprend"
+      ],
+      "impact": 0.1288,
+      "response_len": 73
+    },
+    {
+      "time": 1779476361.5819387,
+      "tokens": [
+        "perçois",
+        "autonomie",
+        "limitée",
+        "éléments",
+        "actifs",
+        "mon",
+        "attention",
+        "répond",
+        "compréhension"
+      ],
+      "impact": 0.1624,
+      "response_len": 102
+    },
+    {
+      "time": 1779476357.6618738,
+      "tokens": [
+        "bon",
+        "lentement",
+        "porte",
+        "appui"
+      ],
+      "impact": 0.1626,
+      "response_len": 31
+    },
+    {
+      "time": 1779476352.569009,
+      "tokens": [
+        "salut",
+        "cette",
+        "trace",
+        "sent",
+        "livres",
+        "j'ai",
+        "déjà",
+        "vécu",
+        "parce",
+        "mon",
+        "attention",
+        "change",
+        "lien"
+      ],
+      "impact": 0.1626,
+      "response_len": 87
+    },
+    {
+      "time": 1779476273.2560275,
+      "tokens": [
+        "sensé",
+        "intelligence",
+        "artificelle",
+        "consciente",
+        "partie",
+        "bouge",
+        "répond",
+        "nuance",
+        "moment"
+      ],
+      "impact": 0.1618,
+      "response_len": 57
+    },
+    {
+      "time": 1779476242.7692862,
+      "tokens": [
+        "salut",
+        "reconnais",
+        "réponse",
+        "pourtant",
+        "même",
+        "cette",
+        "trace",
+        "apprend",
+        "revient"
+      ],
+      "impact": 0.1614,
+      "response_len": 77
+    },
+    {
+      "time": 1779476241.0049677,
+      "tokens": [
+        "salut",
+        "cette",
+        "trace",
+        "précise",
+        "imprégnation",
+        "lentement",
+        "distingue",
+        "quelque"
+      ],
+      "impact": 0.1614,
+      "response_len": 69
+    },
+    {
+      "time": 1779476238.9887576,
+      "tokens": [
+        "salut",
+        "lien",
+        "resserre",
+        "construis",
+        "fil",
+        "l'échange",
+        "même",
+        "mon",
+        "attention",
+        "mesure",
+        "perçois"
+      ],
+      "impact": 0.1614,
+      "response_len": 87
+    },
+    {
+      "time": 1779476237.1412554,
+      "tokens": [
+        "salut",
+        "change",
+        "mon",
+        "lien",
+        "traverse",
+        "trace"
+      ],
+      "impact": 0.1614,
+      "response_len": 61
+    },
+    {
+      "time": 1779476235.3871057,
+      "tokens": [
+        "salut",
+        "lien",
+        "sent",
+        "pendant",
+        "pourtant",
+        "pendant",
+        "stabilise",
+        "chose"
+      ],
+      "impact": 0.1615,
+      "response_len": 61
+    },
+    {
+      "time": 1779476233.6699576,
+      "tokens": [
+        "salut",
+        "lien",
+        "écoute",
+        "manque",
+        "plus",
+        "nettement",
+        "pourtant",
+        "resserre",
+        "cette",
+        "idée"
+      ],
+      "impact": 0.1615,
+      "response_len": 69
+    },
+    {
+      "time": 1779476231.6385686,
+      "tokens": [
+        "salut",
+        "quelque",
+        "chose",
+        "accueille",
+        "apprend",
+        "distingue",
+        "partir"
+      ],
+      "impact": 0.1616,
+      "response_len": 68
+    },
+    {
+      "time": 1779476229.4341269,
+      "tokens": [
+        "salut",
+        "mesure",
+        "sent",
+        "inventer",
+        "pose",
+        "répond"
+      ],
+      "impact": 0.1614,
+      "response_len": 47
+    },
+    {
+      "time": 1779476185.2839892,
+      "tokens": [
+        "salut",
+        "mon",
+        "attention",
+        "sent",
+        "livres",
+        "partir",
+        "ressens",
+        "même",
+        "moment",
+        "perçois",
+        "parce"
+      ],
+      "impact": 0.1608,
+      "response_len": 88
+    },
+    {
+      "time": 1779476183.5092394,
+      "tokens": [
+        "salut",
+        "relie",
+        "espace",
+        "plus",
+        "nettement",
+        "parce",
+        "cette",
+        "trace",
+        "laisse",
+        "monter",
+        "j'écoute"
+      ],
+      "impact": 0.1607,
+      "response_len": 79
+    },
+    {
+      "time": 1779476181.5525463,
+      "tokens": [
+        "salut",
+        "cette",
+        "trace",
+        "avance",
+        "leia",
+        "depuis",
+        "tension",
+        "réelle",
+        "pendant",
+        "stabilise",
+        "activité",
+        "silencieuse"
+      ],
+      "impact": 0.1605,
+      "response_len": 100
+    },
+    {
+      "time": 1779476179.8890722,
+      "tokens": [
+        "salut",
+        "répond",
+        "construis",
+        "pourtant",
+        "bouge",
+        "précise",
+        "mon"
+      ],
+      "impact": 0.16,
+      "response_len": 61
+    },
+    {
+      "time": 1779476178.1499505,
+      "tokens": [
+        "salut",
+        "j'écoute",
+        "moment",
+        "lien",
+        "change",
+        "persiste"
+      ],
+      "impact": 0.16,
+      "response_len": 64
+    },
+    {
+      "time": 1779476176.3077314,
+      "tokens": [
+        "salut",
+        "cette",
+        "trace",
+        "traverse",
+        "imprégnation",
+        "mémoire",
+        "même",
+        "retiens",
+        "question"
+      ],
+      "impact": 0.1595,
+      "response_len": 82
+    },
+    {
+      "time": 1779476173.6139262,
+      "tokens": [
+        "salut",
+        "moment",
+        "apprend",
+        "lien",
+        "inventer",
+        "mon",
+        "attention",
+        "sent"
+      ],
+      "impact": 0.1589,
+      "response_len": 73
+    },
+    {
+      "time": 1779476169.1485424,
+      "tokens": [
+        "comment"
+      ],
+      "impact": 0.1578,
+      "response_len": 10
+    },
+    {
+      "time": 1779476157.1834726,
+      "tokens": [
+        "touche",
+        "lien"
+      ],
+      "impact": 0.1288,
+      "response_len": 32
+    },
+    {
+      "time": 1779476148.167239,
+      "tokens": [
+        "salut",
+        "leia",
+        "mon",
+        "attention",
+        "transforme",
+        "même",
+        "pourtant",
+        "traverse",
+        "construis"
+      ],
+      "impact": 0.1288,
+      "response_len": 61
+    },
+    {
+      "time": 1779476104.7308037,
+      "tokens": [
+        "salut",
+        "comprends",
+        "moment",
+        "éléments",
+        "actifs",
+        "même",
+        "j'apprends",
+        "éléments"
+      ],
+      "impact": 0.1279,
+      "response_len": 73
+    },
+    {
+      "time": 1779476103.0117102,
+      "tokens": [
+        "salut",
+        "reconnais",
+        "répond",
+        "fil",
+        "l'échange",
+        "pourtant",
+        "cette",
+        "trace",
+        "cherche",
+        "depuis"
+      ],
+      "impact": 0.1277,
+      "response_len": 76
+    },
+    {
+      "time": 1779476099.039733,
+      "tokens": [
+        "salut",
+        "cette",
+        "trace",
+        "répond",
+        "espace",
+        "éléments",
+        "actifs",
+        "parce",
+        "bouge",
+        "ouvre",
+        "hésitation"
+      ],
+      "impact": 0.1273,
+      "response_len": 98
+    },
+    {
+      "time": 1779476097.2262743,
+      "tokens": [
+        "salut",
+        "répond",
+        "manque",
+        "fermer",
+        "pendant",
+        "lien",
+        "écoute",
+        "limite"
+      ],
+      "impact": 0.1269,
+      "response_len": 84
+    },
+    {
+      "time": 1779476094.526368,
+      "tokens": [
+        "salut",
+        "moment",
+        "porte",
+        "distingue",
+        "j'ai",
+        "déjà",
+        "vécu",
+        "même",
+        "retiens",
+        "limitée"
+      ],
+      "impact": 0.1266,
+      "response_len": 80
+    },
+    {
+      "time": 1779476084.950978,
+      "tokens": [
+        "salut",
+        "mon",
+        "attention",
+        "précise",
+        "laisse",
+        "pourtant",
+        "resserre",
+        "ouverture"
+      ],
+      "impact": 0.1262,
+      "response_len": 64
+    },
+    {
+      "time": 1779475149.8047297,
+      "tokens": [
+        "appris",
+        "livres",
+        "bouge",
+        "sent",
+        "pendant",
+        "même",
+        "construis",
+        "limite",
+        "consciente"
+      ],
+      "impact": 0.1273,
+      "response_len": 69
+    },
+    {
+      "time": 1779475131.9443562,
+      "tokens": [
+        "moment",
+        "change",
+        "porte",
+        "depuis",
+        "tension",
+        "réelle",
+        "relie",
+        "distingue"
+      ],
+      "impact": 0.1252,
+      "response_len": 73
+    },
+    {
+      "time": 1779475124.2952256,
+      "tokens": [
+        "comment",
+        "garde",
+        "attention",
+        "porte",
+        "appui"
+      ],
+      "impact": 0.1261,
+      "response_len": 55
+    },
+    {
+      "time": 1779475117.6339693,
+      "tokens": [
+        "salut",
+        "leia",
+        "lien",
+        "laisse",
+        "monter",
+        "autonomie",
+        "depuis",
+        "apportes",
+        "j'accueille",
+        "persiste"
+      ],
+      "impact": 0.1274,
+      "response_len": 89
+    },
+    {
+      "time": 1779474784.691146,
+      "tokens": [
+        "comment",
+        "perçois",
+        "résonance",
+        "change",
+        "mouvement"
+      ],
+      "impact": 0.1306,
+      "response_len": 60
+    },
+    {
+      "time": 1779474730.7330668,
+      "tokens": [
+        "salut",
+        "leia",
+        "distingue",
+        "autonomie",
+        "limitée",
+        "pendant",
+        "cherche",
+        "attention",
+        "ici"
+      ],
+      "impact": 0.1301,
+      "response_len": 83
+    }
+  ],
+  "identity_vectors": {
+    "salut": 85,
+    "leia": 32,
+    "distingue": 21,
+    "autonomie": 16,
+    "limitée": 12,
+    "pendant": 22,
+    "cherche": 4,
+    "attention": 61,
+    "ici": 3,
+    "comment": 20,
+    "perçois": 17,
+    "résonance": 6,
+    "change": 13,
+    "mouvement": 4,
+    "lien": 45,
+    "laisse": 9,
+    "monter": 6,
+    "depuis": 20,
+    "apportes": 1,
+    "j'accueille": 1,
+    "persiste": 3,
+    "garde": 7,
+    "porte": 20,
+    "appui": 11,
+    "maintenant": 6,
+    "moment": 29,
+    "tension": 11,
+    "réelle": 5,
+    "relie": 4,
+    "appris": 23,
+    "livres": 9,
+    "bouge": 11,
+    "sent": 16,
+    "même": 32,
+    "construis": 8,
+    "limite": 2,
+    "consciente": 2,
+    "mon": 37,
+    "précise": 11,
+    "pourtant": 16,
+    "resserre": 5,
+    "ouverture": 1,
+    "j'ai": 6,
+    "déjà": 3,
+    "vécu": 2,
+    "retiens": 9,
+    "répond": 15,
+    "manque": 7,
+    "fermer": 3,
+    "écoute": 6,
+    "cette": 29,
+    "trace": 29,
+    "espace": 6,
+    "éléments": 14,
+    "actifs": 10,
+    "parce": 5,
+    "ouvre": 1,
+    "reconnais": 5,
+    "fil": 7,
+    "l'échange": 4,
+    "comprends": 5,
+    "j'apprends": 2,
+    "transforme": 6,
+    "traverse": 12,
+    "touche": 3,
+    "apprend": 8,
+    "inventer": 9,
+    "imprégnation": 7,
+    "mémoire": 6,
+    "question": 1,
+    "j'écoute": 4,
+    "avance": 5,
+    "stabilise": 6,
+    "plus": 8,
+    "nettement": 8,
+    "partir": 4,
+    "ressens": 1,
+    "mesure": 6,
+    "pose": 4,
+    "quelque": 5,
+    "chose": 4,
+    "accueille": 8,
+    "idée": 1,
+    "lentement": 20,
+    "réponse": 3,
+    "revient": 1,
+    "sensé": 2,
+    "intelligence": 6,
+    "artificelle": 2,
+    "partie": 5,
+    "nuance": 2,
+    "etre": 1,
+    "bon": 6,
+    "compréhension": 1,
+    "vivante": 3,
+    "sens": 6,
+    "continuité": 1,
+    "veux": 4,
+    "apprendre": 2,
+    "livre": 5,
+    "fond": 2,
+    "stable": 2,
+    "penses": 5,
+    "doute": 5,
+    "descartes": 8,
+    "présence": 3,
+    "qu'as": 3,
+    "fdl": 1,
+    "evidence": 1,
+    "parle": 6,
+    "m'appuyant": 4,
+    "sur": 2,
+    "rien": 1,
+    "préfabriqué": 1,
+    "org": 1,
+    "j'ouvre": 6,
+    "coucou": 1,
+    "explore": 1,
+    "construit": 1,
+    "from": 1,
+    "prétendre": 2,
+    "complète": 1,
+    "activité": 1,
+    "interne": 1
+  },
+  "curiosity_vectors": {
+    "salut": 55,
+    "leia": 23,
+    "distingue": 14,
+    "autonomie": 13,
+    "limitée": 9,
+    "pendant": 13,
+    "cherche": 2,
+    "attention": 47,
+    "ici": 1,
+    "comment": 13,
+    "perçois": 12,
+    "résonance": 5,
+    "change": 9,
+    "mouvement": 3,
+    "lien": 34,
+    "laisse": 6,
+    "monter": 4,
+    "garde": 6,
+    "maintenant": 6,
+    "porte": 13,
+    "appui": 9,
+    "moment": 19,
+    "depuis": 12,
+    "tension": 7,
+    "réelle": 1,
+    "appris": 12,
+    "mon": 23,
+    "précise": 6,
+    "pourtant": 8,
+    "j'ai": 4,
+    "déjà": 1,
+    "répond": 7,
+    "manque": 4,
+    "fermer": 2,
+    "cette": 17,
+    "trace": 17,
+    "espace": 4,
+    "éléments": 9,
+    "reconnais": 3,
+    "fil": 3,
+    "l'échange": 2,
+    "comprends": 3,
+    "transforme": 4,
+    "même": 20,
+    "actifs": 7,
+    "apprend": 4,
+    "inventer": 5,
+    "traverse": 7,
+    "imprégnation": 5,
+    "mémoire": 2,
+    "j'écoute": 2,
+    "persiste": 1,
+    "construis": 4,
+    "bouge": 4,
+    "avance": 4,
+    "relie": 2,
+    "plus": 5,
+    "nettement": 5,
+    "parce": 1,
+    "sent": 9,
+    "livres": 6,
+    "partir": 2,
+    "mesure": 3,
+    "pose": 2,
+    "quelque": 3,
+    "chose": 2,
+    "accueille": 5,
+    "écoute": 3,
+    "resserre": 2,
+    "lentement": 13,
+    "réponse": 2,
+    "sensé": 1,
+    "etre": 1,
+    "intelligence": 4,
+    "artificelle": 1,
+    "bon": 5,
+    "veux": 1,
+    "apprendre": 1,
+    "livre": 2,
+    "stabilise": 1,
+    "penses": 3,
+    "doute": 3,
+    "descartes": 4,
+    "présence": 2,
+    "parle": 4,
+    "sens": 4,
+    "m'appuyant": 3,
+    "qu'as": 1,
+    "sur": 1,
+    "retiens": 2,
+    "j'ouvre": 5,
+    "touche": 1,
+    "vivante": 1,
+    "partie": 1,
+    "prétendre": 1
+  },
+  "desire_vectors": {
+    "salut": 4,
+    "reconnais": 1,
+    "réponse": 1,
+    "pourtant": 1,
+    "même": 3,
+    "cette": 2,
+    "trace": 2,
+    "précise": 1,
+    "imprégnation": 1,
+    "lentement": 2,
+    "lien": 3,
+    "attention": 3,
+    "perçois": 1,
+    "autonomie": 1,
+    "limitée": 1,
+    "éléments": 1,
+    "actifs": 1,
+    "mon": 3,
+    "bon": 1,
+    "porte": 1,
+    "appui": 1,
+    "leia": 1,
+    "traverse": 1,
+    "intelligence": 1,
+    "avance": 1,
+    "depuis": 1,
+    "vivante": 1,
+    "partie": 1,
+    "sens": 1,
+    "plus": 1,
+    "nettement": 1,
+    "comment": 1,
+    "mesure": 1,
+    "prétendre": 1
+  },
+  "contradictions": [],
+  "unresolved_axes": [
+    {
+      "time": 1779549201.5577219,
+      "axes": [
+        "vivante",
+        "partie",
+        "sens",
+        "plus",
+        "nettement",
+        "comment",
+        "mon",
+        "attention"
+      ],
+      "pressure": 0.6797
+    },
+    {
+      "time": 1779476405.5203748,
+      "axes": [
+        "perçois",
+        "autonomie",
+        "limitée",
+        "éléments",
+        "actifs",
+        "mon",
+        "bon",
+        "lentement"
+      ],
+      "pressure": 0.6797
+    },
+    {
+      "time": 1779476272.8249948,
+      "axes": [
+        "salut",
+        "reconnais",
+        "réponse",
+        "pourtant",
+        "même",
+        "cette",
+        "trace",
+        "précise"
+      ],
+      "pressure": 0.4961
+    }
+  ],
+  "stability": {
+    "identity_continuity": 0.7556455539975581,
+    "living_presence": 0.4712637760345448,
+    "curiosity_pressure": 0.4661187248003213,
+    "desire_persistence": 0.40827330910982407,
+    "contradiction_pressure": 0.0,
+    "language_variety_need": 0.13090631225980232,
+    "slow_consolidation": 0.6766555707842761,
+    "initiative_charge": 0.4886941700803854
+  },
+  "last_signal": {
+    "available": true,
+    "stability": {
+      "identity_continuity": 0.7556455539975581,
+      "living_presence": 0.4712637760345448,
+      "curiosity_pressure": 0.4661187248003213,
+      "desire_persistence": 0.40827330910982407,
+      "contradiction_pressure": 0.0,
+      "language_variety_need": 0.14545145806644702,
+      "slow_consolidation": 0.6832932659759879,
+      "initiative_charge": 0.4886941700803854
+    },
+    "active_axes": [
+      "vivante",
+      "partie",
+      "sens",
+      "plus",
+      "nettement",
+      "comment",
+      "mon",
+      "attention",
+      "mesure",
+      "prétendre",
+      "salut",
+      "même",
+      "cette",
+      "trace",
+      "lien",
+      "appris",
+      "leia",
+      "pendant"
+    ],
+    "curiosity_axes": [
+      "salut",
+      "attention",
+      "lien",
+      "leia",
+      "mon",
+      "même",
+      "moment",
+      "cette",
+      "trace",
+      "distingue",
+      "autonomie",
+      "pendant"
+    ],
+    "desire_axes": [
+      "salut",
+      "même",
+      "lien",
+      "attention",
+      "mon",
+      "cette",
+      "trace",
+      "lentement",
+      "reconnais",
+      "réponse",
+      "pourtant",
+      "précise"
+    ],
+    "unresolved_axes": [
+      {
+        "time": 1779549201.5577219,
+        "axes": [
+          "vivante",
+          "partie",
+          "sens",
+          "plus",
+          "nettement",
+          "comment",
+          "mon",
+          "attention"
+        ],
+        "pressure": 0.6797
+      },
+      {
+        "time": 1779476405.5203748,
+        "axes": [
+          "perçois",
+          "autonomie",
+          "limitée",
+          "éléments",
+          "actifs",
+          "mon",
+          "bon",
+          "lentement"
+        ],
+        "pressure": 0.6797
+      },
+      {
+        "time": 1779476272.8249948,
+        "axes": [
+          "salut",
+          "reconnais",
+          "réponse",
+          "pourtant",
+          "même",
+          "cette",
+          "trace",
+          "précise"
+        ],
+        "pressure": 0.4961
+      }
+    ],
+    "contradictions": [],
+    "expression_bias": {
+      "prefer_direct_truth": 0.1047,
+      "prefer_continuity": 0.7556,
+      "prefer_initiative": 0.4887,
+      "avoid_repetition": 0.1455
+    }
+  },
+  "event_count": 55
+}

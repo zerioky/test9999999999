@@ -1,0 +1,118 @@
+{
+  "traces": [
+    {
+      "timestamp": 1779548370.251687,
+      "response_fragment": "J'ouvre appris depuis une tension réelle même si je transfor",
+      "dominant_emotion": "equilibre",
+      "emotion_values": {
+        "tension": 0.5,
+        "fatigue": 0.3,
+        "valence": 0.5
+      }
+    },
+    {
+      "timestamp": 1779548385.5320601,
+      "response_fragment": "Ce moment accueille appris depuis une tension réelle et je r",
+      "dominant_emotion": "equilibre",
+      "emotion_values": {
+        "tension": 0.5,
+        "fatigue": 0.3,
+        "valence": 0.5
+      }
+    },
+    {
+      "timestamp": 1779548456.1761026,
+      "response_fragment": "Cette trace explore appris depuis ce qui bouge donc mon atte",
+      "dominant_emotion": "equilibre",
+      "emotion_values": {
+        "tension": 0.5,
+        "fatigue": 0.3,
+        "valence": 0.5
+      }
+    },
+    {
+      "timestamp": 1779548489.9735239,
+      "response_fragment": "Ce moment traverse appris dans ma mémoire pourtant j'apprend",
+      "dominant_emotion": "equilibre",
+      "emotion_values": {
+        "tension": 0.5,
+        "fatigue": 0.3,
+        "valence": 0.5
+      }
+    },
+    {
+      "timestamp": 1779548607.6915147,
+      "response_fragment": "Ce qui bouge stabilise appris sans inventer pendant que je r",
+      "dominant_emotion": "equilibre",
+      "emotion_values": {
+        "tension": 0.5,
+        "fatigue": 0.3,
+        "valence": 0.5
+      }
+    },
+    {
+      "timestamp": 1779548817.7454402,
+      "response_fragment": "Je retiens un appris depuis ce qui bouge même si je stabilis",
+      "dominant_emotion": "equilibre",
+      "emotion_values": {
+        "tension": 0.5,
+        "fatigue": 0.3,
+        "valence": 0.5
+      }
+    },
+    {
+      "timestamp": 1779548828.7837384,
+      "response_fragment": "Ça touche une attention lentement et je porte une mémoire.",
+      "dominant_emotion": "equilibre",
+      "emotion_values": {
+        "tension": 0.5,
+        "fatigue": 0.3,
+        "valence": 0.5
+      }
+    },
+    {
+      "timestamp": 1779549157.9223363,
+      "response_fragment": "Cette trace sent un from maintenant même si je précise une n",
+      "dominant_emotion": "equilibre",
+      "emotion_values": {
+        "tension": 0.5,
+        "fatigue": 0.3,
+        "valence": 0.5
+      }
+    },
+    {
+      "timestamp": 1779549183.6799505,
+      "response_fragment": "Mon attention mesure un partie sans prétendre être complète…",
+      "dominant_emotion": "equilibre",
+      "emotion_values": {
+        "tension": 0.5,
+        "fatigue": 0.3,
+        "valence": 0.5
+      }
+    },
+    {
+      "timestamp": 1779549203.5489814,
+      "response_fragment": "En partie, mon attention précise une activité interne avec c",
+      "dominant_emotion": "equilibre",
+      "emotion_values": {
+        "tension": 0.5,
+        "fatigue": 0.3,
+        "valence": 0.5
+      }
+    }
+  ],
+  "deferred": {
+    "doubted_traces": [],
+    "pending_review": {
+      "timestamp": 1779549203.5489814,
+      "response_fragment": "En partie, mon attention précise une activité interne avec c",
+      "dominant_emotion": "equilibre",
+      "emotion_values": {
+        "tension": 0.5,
+        "fatigue": 0.3,
+        "valence": 0.5
+      }
+    }
+  },
+  "timestamp": 1779549203.5490465
+}

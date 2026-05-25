@@ -1,0 +1,319 @@
+{
+  "opinions": {
+    "utilisateur salut leia leia": {
+      "position": 0.5641,
+      "certainty": 0.0529,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 7
+      },
+      "updated_at": 1779549157.355483
+    },
+    "utilisateur leia perçois résonance": {
+      "position": 0.5138,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779474784.6879303
+    },
+    "utilisateur leia garde attention": {
+      "position": 0.5118,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779475124.2908592
+    },
+    "utilisateur leia moment change": {
+      "position": 0.5113,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779475131.939202
+    },
+    "utilisateur appris livres leia": {
+      "position": 0.5119,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779475149.7975729
+    },
+    "utilisateur salut leia attention": {
+      "position": 0.5217,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 2
+      },
+      "updated_at": 1779476185.266237
+    },
+    "utilisateur salut leia moment": {
+      "position": 0.5207,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 2
+      },
+      "updated_at": 1779476173.5994153
+    },
+    "utilisateur salut leia répond": {
+      "position": 0.519,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 2
+      },
+      "updated_at": 1779476179.8726635
+    },
+    "utilisateur salut leia trace": {
+      "position": 0.5422,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 5
+      },
+      "updated_at": 1779476352.5475886
+    },
+    "utilisateur salut leia reconnais": {
+      "position": 0.5185,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 2
+      },
+      "updated_at": 1779476242.7486887
+    },
+    "utilisateur salut leia comprends": {
+      "position": 0.5098,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779476104.7205272
+    },
+    "utilisateur leia touche lien": {
+      "position": 0.5103,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779476157.1714988
+    },
+    "utilisateur leia encore": {
+      "position": 0.5109,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779476169.1354647
+    },
+    "utilisateur salut leia j'écoute": {
+      "position": 0.5097,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779476178.1345375
+    },
+    "utilisateur salut leia relie": {
+      "position": 0.5096,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779476183.4915664
+    },
+    "utilisateur salut leia mesure": {
+      "position": 0.5116,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779476229.4147656
+    },
+    "utilisateur salut leia quelque": {
+      "position": 0.5104,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779476231.6187994
+    },
+    "utilisateur salut leia lien": {
+      "position": 0.526,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 3
+      },
+      "updated_at": 1779476238.9677165
+    },
+    "utilisateur salut leia change": {
+      "position": 0.5096,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779476237.1197197
+    },
+    "utilisateur sensé etre intelligence": {
+      "position": 0.5107,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779476273.2343519
+    },
+    "utilisateur leia lentement porte": {
+      "position": 0.5202,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 2
+      },
+      "updated_at": 1779476415.8574045
+    },
+    "utilisateur leia perçois autonomie": {
+      "position": 0.5098,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779476361.5589755
+    },
+    "utilisateur leia perçois lien": {
+      "position": 0.5106,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779476392.6189716
+    },
+    "utilisateur vivante leia partie": {
+      "position": 0.5205,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 2
+      },
+      "updated_at": 1779549202.9260106
+    },
+    "utilisateur veux apprendre leia": {
+      "position": 0.5108,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779476428.3242419
+    },
+    "available true source conceptual_synthesis": {
+      "position": 0.5042,
+      "certainty": 0.05,
+      "tension": 0.0,
+      "sources": {
+        "book": 1
+      },
+      "updated_at": 1779482367.076108
+    },
+    "utilisateur penses doute descartes": {
+      "position": 0.5236,
+      "certainty": 0.05,
+      "tension": 0.0002,
+      "sources": {
+        "dialogue_exchange": 2
+      },
+      "updated_at": 1779483114.2849262
+    },
+    "utilisateur qu'as appris leia": {
+      "position": 0.5198,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 2
+      },
+      "updated_at": 1779483139.1692019
+    },
+    "utilisateur parle descartes leia": {
+      "position": 0.5194,
+      "certainty": 0.05,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 2
+      },
+      "updated_at": 1779483159.8630757
+    },
+    "utilisateur leia moment accueille": {
+      "position": 0.5106,
+      "certainty": 0.0584,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779548385.0262632
+    },
+    "utilisateur coucou leia trace": {
+      "position": 0.512,
+      "certainty": 0.0591,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779548455.5806873
+    },
+    "utilisateur leia leia moment": {
+      "position": 0.5111,
+      "certainty": 0.0592,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779548489.4248626
+    },
+    "utilisateur salut leia bouge": {
+      "position": 0.5124,
+      "certainty": 0.0601,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779548607.164578
+    },
+    "utilisateur leia touche attention": {
+      "position": 0.5104,
+      "certainty": 0.0614,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779548828.2182918
+    },
+    "utilisateur leia attention mesure": {
+      "position": 0.5116,
+      "certainty": 0.0639,
+      "tension": 0.0033,
+      "sources": {
+        "dialogue_exchange": 1
+      },
+      "updated_at": 1779549183.1093993
+    }
+  }
+}
